@@ -12,6 +12,36 @@ API_KEY = os.getenv('GUIDEBOOK_API_KEY')
 # Use https://github.com/Guidebook/guidebook-api-python
 
 
+def filter_session_data(sessions):
+    """Filter sessions to keep only the properties we need"""
+    filtered_sessions = []
+    
+    for session in sessions:
+        # Print all available properties for the first session (for debugging)
+        # if len(filtered_sessions) == 0:
+        #     print("Available properties in session:")
+        #     for key in session.keys():
+        #         print(f"  - {key}")
+        #     print()
+        
+        # Define which properties to keep
+        filtered_session = {
+            'id': session.get('id'),
+            'name': session.get('name'),
+            'description': session.get('description_html'),
+            'start_time': session.get('start_time'),
+            'locations': session.get('locations'),
+            'schedule_tracks': session.get('schedule_tracks'),
+        }
+        
+        # Remove None values (optional)
+        filtered_session = {k: v for k, v in filtered_session.items() if v is not None}
+        
+        filtered_sessions.append(filtered_session)
+    
+    return filtered_sessions
+
+
 def main():
     # Check if API key is set
     if not API_KEY:
@@ -54,14 +84,19 @@ def main():
     
     print(f"\nTotal sessions collected: {len(all_sessions)} across {page_count} pages")
 
-    # Save all sessions to a file with pretty formatting
-    with open("schedule.json", "w") as json_file:
+    # Filter sessions to keep only needed properties
+    filtered_sessions = filter_session_data(all_sessions)
+    print(f"Filtered sessions to keep only essential properties")
+
+    # Save filtered sessions to a file with pretty formatting
+    output_path = "../public/schedule.json"
+    with open(output_path, "w") as json_file:
         json.dump({
-            "total_sessions": len(all_sessions),
+            "total_sessions": len(filtered_sessions),
             "pages_fetched": page_count,
-            "sessions": all_sessions
+            "sessions": filtered_sessions
         }, json_file, indent=2)
-    print("All sessions saved to schedule.json")
+    print(f"Filtered sessions saved to {output_path}")
     
 
 

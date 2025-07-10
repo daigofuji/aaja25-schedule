@@ -2,7 +2,13 @@
 
 Two parts. 
 One: Python code that fetches the schedule using guidebook Open API and writes a json file
+
+TLDR: cd to `python` directory and run `python main.py` to get the schedule in `schedule.json`.
+
 Two: React app that reads the json file and displays the schedule in a nice way.
+
+to start develope, type `npm start` in the root directory.
+
 
 # Python setup. 
 

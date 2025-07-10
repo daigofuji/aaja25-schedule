@@ -1,26 +1,30 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
+import { useState, useEffect } from 'react'
+
 import './App.css'
 
 function App() {
-  const [count, setCount] = useState(0)
+
+  const [day, setDay] = useState('2025-07-30');
+
+  // others are '2025-07-31', '2025-08-01', and '2025-08-02'
+  useEffect(() => {
+    // on load, get shcedule.json from public folder
+    fetch('/schedule.json')
+      .then(response => response.json())
+      .then(data => {
+        // find the day in the start_time field
+
+        console.log(data)
+      })
+      .catch(error => {
+        console.error('Error fetching schedule:', error)
+      })
+  }, [])
 
   return (
     <>
-      <div>
-        <a href="https://vite.dev" target="_blank">
-          <img src={viteLogo} className="logo" alt="Vite logo" />
-        </a>
-        <a href="https://react.dev" target="_blank">
-          <img src={reactLogo} className="logo react" alt="React logo" />
-        </a>
-      </div>
-      <h1>Vite + React</h1>
+      <h1>#AAJA25</h1>
       <div className="card">
-        <button onClick={() => setCount((count) => count + 1)}>
-          count is {count}
-        </button>
         <p>
           Edit <code>src/App.jsx</code> and save to test HMR
         </p>
