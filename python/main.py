@@ -2,6 +2,7 @@ from guidebook import api_requestor
 import json
 import os
 from dotenv import load_dotenv
+from datetime import datetime
 
 # Load environment variables from .env file
 load_dotenv()
@@ -16,13 +17,72 @@ def filter_session_data(sessions):
     """Filter sessions to keep only the properties we need"""
     filtered_sessions = []
     
+    def parse_day_and_time(start_time_str):
+        """Parse start_time to extract day and formatted time"""
+        if not start_time_str:
+            return "Unknown", "Unknown"
+        
+        try:
+            # Parse the ISO datetime string
+            dt = datetime.fromisoformat(start_time_str.replace('Z', '+00:00'))
+            date_to_day = {
+                "2025-07-30": "Wed 7/30",
+                "2025-07-31": "Thur 7/31", 
+                "2025-08-01": "Fri 8/1",
+                "2025-08-02": "Sat 8/2"
+            }
+            
+            date_str = dt.strftime("%Y-%m-%d")
+            day = date_to_day.get(date_str, f"Day {date_str}")
+            
+            # Format time as "11 AM PST" style
+            hour = dt.hour
+            minute = dt.minute
+            
+            if hour == 0:
+                time_str = f"12:{minute:02d} AM PST"
+            elif hour < 12:
+                time_str = f"{hour}:{minute:02d} AM PST" if minute > 0 else f"{hour} AM PST"
+            elif hour == 12:
+                time_str = f"12:{minute:02d} PM PST" if minute > 0 else "12 PM PST"
+            else:
+                time_str = f"{hour-12}:{minute:02d} PM PST" if minute > 0 else f"{hour-12} PM PST"
+            
+            return day, time_str
+            
+        except Exception as e:
+            print(f"Error parsing time {start_time_str}: {e}")
+            return "Unknown", "Unknown"
+
+    # get location name from location id
+    location_map = {
+        5055999: "REDWOOD",
+        5056000: "WILLOW",
+        5056001: "GRAND BALLROOM",
+        5056002: "ASPEN",
+        5056003: "METROPOLITAN B",
+        5056005: "CEDAR",
+        5056006: "METROPOLITAN A"
+    }
+    def get_location_name(location_id):
+        """Get location name from location ID"""
+        return location_map.get(location_id, "Other")
+    
+    def get_location_names(location_ids):
+        """Get location names from a list of location IDs"""
+        if not location_ids:
+            return []
+        if isinstance(location_ids, list):
+            return [get_location_name(loc_id) for loc_id in location_ids]
+        else:
+            return [get_location_name(location_ids)]
+
     for session in sessions:
-        # Print all available properties for the first session (for debugging)
-        # if len(filtered_sessions) == 0:
-        #     print("Available properties in session:")
-        #     for key in session.keys():
-        #         print(f"  - {key}")
-        #     print()
+        # Parse day and time from start_time
+        day, time = parse_day_and_time(session.get('start_time'))
+        
+        # Get location names from location IDs
+        location_names = get_location_names(session.get('locations'))
         
         # Define which properties to keep
         filtered_session = {
@@ -30,8 +90,10 @@ def filter_session_data(sessions):
             'name': session.get('name'),
             'description': session.get('description_html'),
             'start_time': session.get('start_time'),
-            'locations': session.get('locations'),
-            'schedule_tracks': session.get('schedule_tracks'),
+            'day': day,
+            'time': time,
+            'locations': location_names,
+            'tracks': session.get('schedule_tracks'),
         }
         
         # Remove None values (optional)
@@ -92,6 +154,20 @@ def main():
     filtered_sessions.sort(key=lambda session: session.get('start_time', ''))
     print(f"Sessions sorted by start_time")
 
+    # save csv in ../public/schedule.csv
+    csv_output_path = "../public/schedule.csv"
+    with open(csv_output_path, "w") as csv_file:
+        csv_file.write("id,name,day,time,locations,schedule_tracks\n")
+        for session in filtered_sessions:
+            # Convert locations and tracks to strings before joining
+            locations_str = '|'.join(session.get('locations', []))
+            tracks_str = '|'.join(str(track) for track in session.get('tracks', []))
+
+            csv_file.write(f"{session.get('id')},\"{session.get('name')}\","
+                           f"{session.get('day')},{session.get('time')},"
+                           f"{locations_str},{tracks_str}\n")
+    print(f"Filtered sessions saved to {csv_output_path}")
+
     # Save filtered sessions to a file with pretty formatting
     output_path = "../public/schedule.json"
     with open(output_path, "w") as json_file:
@@ -101,7 +177,6 @@ def main():
             "sessions": filtered_sessions
         }, json_file, indent=2)
     print(f"Filtered sessions saved to {output_path}")
-    
 
 
 if __name__ == "__main__":
