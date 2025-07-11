@@ -88,6 +88,10 @@ def main():
     filtered_sessions = filter_session_data(all_sessions)
     print(f"Filtered sessions to keep only essential properties")
 
+    # Sort sessions by start_time
+    filtered_sessions.sort(key=lambda session: session.get('start_time', ''))
+    print(f"Sessions sorted by start_time")
+
     # Save filtered sessions to a file with pretty formatting
     output_path = "../public/schedule.json"
     with open(output_path, "w") as json_file:

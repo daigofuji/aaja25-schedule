@@ -3,38 +3,6 @@
   "pages_fetched": 2,
   "sessions": [
     {
-      "id": 31360094,
-      "name": "#AAJA25 Opening Reception (Presented by ABC and ESPN)",
-      "description": "<p>Join fellow attendees at the AAJA25 Opening Reception\u2014a lively celebration to wrap up Day One and set the tone for the rest of the week ahead.</p>",
-      "start_time": "2025-07-30T23:30:00.000000+0000",
-      "locations": [
-        5056006
-      ],
-      "schedule_tracks": [
-        726514
-      ]
-    },
-    {
-      "id": 31360096,
-      "name": "First Timer Orientation",
-      "description": "<p>Are you excited about attending your first AAJA convention? Join our orientation session to connect with fellow first-timers, hear from experienced members, and gain invaluable tips to make the most of your convention experience. This is your chance to kick-start your convention journey and establish lasting connections.</p>",
-      "start_time": "2025-07-30T21:30:00.000000+0000",
-      "locations": [
-        5056005
-      ],
-      "schedule_tracks": []
-    },
-    {
-      "id": 31362656,
-      "name": "Annual Gala Scholarship & Awards Banquet (Presented by NBCUniversal)",
-      "description": "<p>Join us for the elegant and inspiring finale of AAJA25 at the Annual Gala Scholarship &amp; Awards Banquet\u2014an evening dedicated to celebrating excellence in journalism and championing future AAPI media leaders.</p>\n<br>\n<br>",
-      "start_time": "2025-08-03T01:00:00.000000+0000",
-      "locations": [
-        5056001
-      ],
-      "schedule_tracks": []
-    },
-    {
       "id": 31496788,
       "name": "Covering civic life through a solutions lens (Presented by SJN)",
       "description": "<p>In an era of political polarization, disinformation and institutional distrust, journalism\u2019s traditional emphasis on dysfunction often leaves audiences feeling overwhelmed, disillusioned and disengaged. But what if our reporting could restore agency, inspire civic participation and rebuild trust?</p>\n<br>\n<p>This hands-on workshop introduces solutions journalism \u2014 a rigorous, evidence-based framework for reporting not just on problems, but on how people and institutions are responding. Participants will explore how solutions-focused stories can deepen public understanding of democracy, elevate underreported voices and help audiences imagine a more just and functional future.</p>\n<p>We\u2019ll unpack the limits of the conventional \u201cwatchdog\u201d model of journalism and explore how shifting toward response-driven reporting \u2014 especially in coverage of civic life, elections, local government and social movements \u2014 can more effectively serve our communities. This approach is especially vital for Asian American journalists and other journalists of color, whose communities are often stereotyped, ignored or flattened in mainstream narratives.</p>\n<p>Through real-world case studies, peer examples and exercises, participants will learn how to:</p>\n<ul>\n<li>Identify and pitch democracy-related solutions stories;</li>\n<li>Report \u201chowdunits\u201d that reveal not just what\u2019s broken, but also how people are solving these problems;</li>\n<li>Avoid audience burnout while increasing impact;</li>\n<li>Use solutions reporting to foster trust, bridge divides and amplify civic agency.</li>\n</ul>\n<p>Whether you\u2019re covering government accountability, grassroots organizing or efforts to heal fractured communities, this session offers concrete tools to evolve your craft \u2014 and contribute to a journalism legacy that informs, empowers and uplifts.</p>",
@@ -53,6 +21,18 @@
         5056000
       ],
       "schedule_tracks": []
+    },
+    {
+      "id": 31497169,
+      "name": "AAJA+ Mixer lunch",
+      "description": "<p>Catch up with AAJA+ TF at Tai Tung - a 5 minute Uber ride to Chinatown. Touted as Seattle\u2019s oldest Chinese restaurant, it\u2019s the site of the infamous Bruce Lee booth. (Yes, the man himself held court there after Jeet Kune Do practice!)</p>",
+      "start_time": "2025-07-30T18:30:00.000000+0000",
+      "locations": [
+        5056043
+      ],
+      "schedule_tracks": [
+        726514
+      ]
     },
     {
       "id": 31496790,
@@ -85,6 +65,36 @@
       "schedule_tracks": []
     },
     {
+      "id": 31515823,
+      "name": "AI Tools to Amplify Your Journalism Without Replacing Your Judgment",
+      "description": "<p>Discover how AI can handle the grunt work so you can focus on your journalism. This session will demo practical applications of various AI tools from NotebookLM to Claude, Fathom and others for research, transcription, and story development. By the end of this session, you\u2019ll leave with a wider perspective of different AI tools that will allow you to work smarter, not harder.</p>",
+      "start_time": "2025-07-30T19:30:00.000000+0000",
+      "locations": [
+        5056005
+      ],
+      "schedule_tracks": []
+    },
+    {
+      "id": 31515824,
+      "name": "Turn On The Radio (Presented by The James B. McClatchy Foundation)",
+      "description": "<p>The team from The Intersection, Central Valley Journalism Collaborative\u2019s Health Equity Reporting Lab, discuss how small newsrooms can use audio reporting to increase audience, impact, partnerships and brand recognition, and how to start producing radio and podcasts from scratch.</p>",
+      "start_time": "2025-07-30T19:30:00.000000+0000",
+      "locations": [
+        5056006
+      ],
+      "schedule_tracks": []
+    },
+    {
+      "id": 31360096,
+      "name": "First Timer Orientation",
+      "description": "<p>Are you excited about attending your first AAJA convention? Join our orientation session to connect with fellow first-timers, hear from experienced members, and gain invaluable tips to make the most of your convention experience. This is your chance to kick-start your convention journey and establish lasting connections.</p>",
+      "start_time": "2025-07-30T21:30:00.000000+0000",
+      "locations": [
+        5056005
+      ],
+      "schedule_tracks": []
+    },
+    {
       "id": 31496793,
       "name": "So, you're thinking of starting a nonprofit news organization",
       "description": "<p>In the face of layoffs at established newsrooms and community demand for more targeted news coverage, you might be thinking it\u2019s time to start your own nonprofit news organization. What does it really take to start your own news organization? Where do you find the money? Do you even know what a 501(c)3 is? We\u2019ll talk to local founders and funders about entrepreneurship in the nonprofit world and the pitfalls and rewards of going the nonprofit route.</p>",
@@ -103,6 +113,28 @@
         5056000
       ],
       "schedule_tracks": []
+    },
+    {
+      "id": 31517041,
+      "name": "History Happy Hour: A Book Signing for AAJA and UCLA\u2019s \u201cIntersections\u201d",
+      "description": "<p>Meet contributors to the new book \u201cIntersections: A Journalistic History of Asian Pacific America,\u201d published by AAJA in partnership with UCLA\u2019s Asian American Studies Center. Through short essays and profiles, the book shows how AAPI journalists and communities have been part of historic news coverage. This is your chance to get your copy of the book signed and talk with contributors about why they joined the book project.</p>",
+      "start_time": "2025-07-30T23:00:00.000000+0000",
+      "locations": [
+        5056006
+      ],
+      "schedule_tracks": []
+    },
+    {
+      "id": 31360094,
+      "name": "#AAJA25 Opening Reception (Presented by ABC and ESPN)",
+      "description": "<p>Join fellow attendees at the AAJA25 Opening Reception\u2014a lively celebration to wrap up Day One and set the tone for the rest of the week ahead.</p>",
+      "start_time": "2025-07-30T23:30:00.000000+0000",
+      "locations": [
+        5056006
+      ],
+      "schedule_tracks": [
+        726514
+      ]
     },
     {
       "id": 31496795,
@@ -195,6 +227,16 @@
       "schedule_tracks": []
     },
     {
+      "id": 31515825,
+      "name": "Breaking Barriers: AAPI Women Leading in Corporate America (Presented by JPMorgan, Lush Decor, CKA)",
+      "description": "<p>From the boardroom to the C-suite, AAPI women continue to challenge stereotypes and reshape leadership in some of the world\u2019s most influential companies. Join dynamic leaders from JPMorgan Chase, Lush Decor, and the Council of Korean Americans as they share personal stories, career insights, and the realities of navigating identity, culture, and power in the corporate world. This conversation will explore how they lead with authenticity, advocate for equity, and build pathways for the next generation\u2014all through the lens of their experiences as AAPI women.</p>",
+      "start_time": "2025-07-31T17:30:00.000000+0000",
+      "locations": [
+        5056006
+      ],
+      "schedule_tracks": []
+    },
+    {
       "id": 31496804,
       "name": "The Art of the Interview: Asking Questions That Matter (Presented by NBCU Academy Workshop)",
       "description": "<p>Great interviews are built on thoughtful questions, sharp instincts and genuine curiosity. In this interactive session, you\u2019ll learn the art of asking better questions \u2014 from setting the tone to knowing when to stay silent. Through real-world examples and guided discussions, you\u2019ll gain practical tools to build trust, spark emotion or unlock a headline. We\u2019ll cover techniques for approaching interviews with public officials, experts and people impacted by breaking or tragic events. Whether reporting for on-air, print or digital platforms, this session will help you grow not just as a journalist, but also as a better communicator, listener and storyteller. </p>\n<br>\n<p>This session is part of the NBCU Academy Workshops and is open to all convention participants. However, if you\u2019d like to take part in the interactive interview sessions with an NBCU professor, please apply in advance here: <a href=\"https://nbcuacademy.com/event/aaja-2025/\">https://nbcuacademy.com/event/aaja-2025/</a></p>",
@@ -225,6 +267,16 @@
       "schedule_tracks": [
         726514
       ]
+    },
+    {
+      "id": 31515827,
+      "name": "Reporting Power in a Polarized World: Covering the White House and Congress in 2025",
+      "description": "<p>In a year marked by deep political divisions, resurgent nationalism and global uncertainty, the task of covering America\u2019s centers of power has never been more complex. From the high-stakes drama of a returning Trump administration to a bitterly polarized Congress, journalists must navigate not only the facts but also the public's growing distrust of institutions and media itself. <br>  <br> Join Weijia Jiang (CBS News) , Nick Wu (POLITICO), Scott Wong (NBC) and Amanda Barrett (AP) for an unfiltered conversation about the unique challenges of political reporting in 2025. How do correspondents maintain access and accountability amid disinformation and political hostility? What\u2019s different about covering Trump 2.0? And how do domestic fractures play out on the global stage? This panel goes beyond headlines to explore the resilience, responsibility and reality of reporting on power today. <br> </p>",
+      "start_time": "2025-07-31T20:00:00.000000+0000",
+      "locations": [
+        5056003
+      ],
+      "schedule_tracks": []
     },
     {
       "id": 31496807,
@@ -267,12 +319,32 @@
       "schedule_tracks": []
     },
     {
+      "id": 31514468,
+      "name": "Creating Entrepreneurship Systems That Work For You/Secrets of Full-Time Freelancers (Presented by Freelance AG)",
+      "description": "<p>Between mass layoffs and an unstable job market, more journalists are freelancing out of need or by choice \u2014 and many are creating their own newsletters or startup businesses to support their work. This session will cover how to create systems that take work off your plate! You\u2019ll see a demo of the Institute for Independent Journalists\u2019 interactive online freelance startup guide, which helps answer the key questions for ramping up a side hustle into a full-time business. Panelists will share tools for setting your rate, networking to find great assignments, building relationships with clients, and juggling multiple projects. Participants will leave the session with a slew of new tools and strategies for making freelancing emotionally and financially sustainable.</p>",
+      "start_time": "2025-07-31T21:30:00.000000+0000",
+      "locations": [
+        5056002
+      ],
+      "schedule_tracks": []
+    },
+    {
       "id": 31496811,
       "name": "NBCU Academy: Script Doctor (Presented by NBCU)",
       "description": "<p>Great journalism doesn\u2019t live in just one format. Whether you\u2019re turning a digital article into a broadcast script or adapting an on-air story for digital, the power is in how you write and adapt. Hear from NBCU News Group journalists who\u2019ve mastered storytelling across platforms, then get personal feedback from our local news directors and NBC News Digital editors. Bring a printed or digital copy of either a script or an article. Sign up in advance to reserve your one-on-one critique. </p>\n<br>\n<p>This session is part of the NBCU Academy Workshops and is open to all convention participants. However, if you\u2019d like to have your script reviewed, please apply in advance here: <a href=\"https://nbcuacademy.com/event/aaja-2025/\">https://nbcuacademy.com/event/aaja-2025/</a> <br> </p>",
       "start_time": "2025-07-31T21:45:00.000000+0000",
       "locations": [
         5056000
+      ],
+      "schedule_tracks": []
+    },
+    {
+      "id": 31515828,
+      "name": "Building Financial Security in an Unstable Industry",
+      "description": "<p>In a time when layoffs, freelance hustle, and rising living costs challenge all of us, journalists across generations are rethinking what financial stability really means. In this panel, personal finance experts from JPMorgan Chase and Northwestern Mutual will break down real-world strategies tailored for journalists\u2014especially those navigating the unique pressure and responsibilities within the AAPI community. From student loans and freelancing to family and retirement planning, this session will explore how to move from paycheck-to-paycheck toward long-term planning. Whether you're just starting your first job, mid-career and managing caregiving, or a seasoned journalist eyeing legacy and retirement, this conversation will equip you with practical tools to take control of your financial future.</p>",
+      "start_time": "2025-07-31T23:00:00.000000+0000",
+      "locations": [
+        5056003
       ],
       "schedule_tracks": []
     },
@@ -341,6 +413,18 @@
       "start_time": "2025-08-01T01:00:00.000000+0000",
       "locations": [
         5037000
+      ],
+      "schedule_tracks": [
+        726514
+      ]
+    },
+    {
+      "id": 31496835,
+      "name": "AAJA Sports Korean Barbecue",
+      "description": "<p>Join our partners at CBS Sports, ESPN, The Athletic &amp; NFL Network for our annual Korean Barbecue, one of our most popular events of the year! <a href=\"https://www.eventbrite.com/e/aaja-sports-korean-barbecue-tickets-1422097414649?aff=oddtdtcreator\">https://www.eventbrite.com/e/aaja-sports-korean-barbecue-tickets-1422097414649?aff=oddtdtcreator</a></p>",
+      "start_time": "2025-08-01T02:00:00.000000+0000",
+      "locations": [
+        5036995
       ],
       "schedule_tracks": [
         726514
@@ -429,6 +513,16 @@
       "schedule_tracks": []
     },
     {
+      "id": 31515829,
+      "name": "Organizing and empowering your newsroom (Presented by SAG-AFTRA)",
+      "description": "<p>Join SAG-AFTRA for a discussion on addressing issues, advocating for solutions, and cultivating relationships in your newsroom.  <br>  <br> Panelists will be discussing how they have experienced and utilized union organizing and advocacy at their stations. Topics covered will include forming a new union, collective bargaining, developing leadership and more. The perspectives shared will provide a firsthand view of how having a union in your newsroom can be a vehicle for providing solutions and making improvements on the job. Note: This discussion will be off record.</p>",
+      "start_time": "2025-08-01T17:30:00.000000+0000",
+      "locations": [
+        5056003
+      ],
+      "schedule_tracks": []
+    },
+    {
       "id": 31496826,
       "name": "Covering race and equity in the Trump era",
       "description": "<p>As diversity, equity and inclusion efforts face increasing backlash, reporting on these topics has become more fraught \u2014 yet essential. Hear from journalists on the front lines of this critical coverage as they discuss how to navigate internal newsroom resistance, community skepticism and political pressure while striving to tell stories with accuracy, depth and compassion. Learn how they build trust with communities, as well as push for meaningful, responsible journalism in an era of heightened division.</p>",
@@ -499,12 +593,42 @@
       "schedule_tracks": []
     },
     {
+      "id": 31515830,
+      "name": "The Disturbing Data behind AAPI Underrepresentation in Journalism: New Studies and Strategies that Address US Perceptions and the Talent Pipeline (Presented by AARP)",
+      "description": "<p>This panel and the research it presents confront the hidden stereotypes driving the persistent underrepresentation of AAPIs in news. For the first time, it will unveil significant and unsettling data regarding AAPI underrepresentation in news, particularly in broadcast media, as revealed through pioneering research by the Asian American Journalists Association. This session is also the official release of two precedent-setting AAJA studies: US Perceptions of AAPIs in News, and AAPI News Talent Pipeline Study. The discussion highlights practical actions news directors and community leaders can implement to enhance AAPI representation in the news industry. Participants will learn key findings from this groundbreaking research and action-based strategies to resolve the contributing factors to underrepresentation that these studies confirmed or revealed. These studies were underwritten by AARP, NORC, and PRISCA, led by the AAJA Broadcast Task Force, including advisory board members Alex Chew, Director at NORC, and Karthick Ramakrishnan, Executive Director at AAPI Data.</p>",
+      "start_time": "2025-08-01T21:30:00.000000+0000",
+      "locations": [
+        5056002
+      ],
+      "schedule_tracks": []
+    },
+    {
       "id": 31496833,
       "name": "Walking the digital beat: Finding sources online and on social",
       "description": "<p>Tired of calling the local town gossip to find news stories and sources? Think LinkedIn is just a bunch of AI bros talking past each other? Learn how to trawl the internet to speed up your digital sourcing by setting up Google alerts, combing Reddit and pulling data in efficient ways. You\u2019ll walk away seeing reputable social networks and tools in totally new ways. </p>",
       "start_time": "2025-08-01T23:00:00.000000+0000",
       "locations": [
         5056003
+      ],
+      "schedule_tracks": []
+    },
+    {
+      "id": 31515831,
+      "name": "Search is dead. News isn\u2019t \u2014 if we evolve quickly (Presented by AP)",
+      "description": "<p>Search won\u2019t save us. Attention is splintered. Platforms are unreliable. And AI isn\u2019t just the next thing \u2014 it\u2019s the new baseline. So how do we stop playing catch-up and start leading? <br> This session makes the case for a radical editorial rethink. If your newsroom is still optimizing for yesterday\u2019s platforms or stuck in legacy formats, it\u2019s time to evolve \u2014 or risk irrelevance. <br> We\u2019ll share what the AP is trying, what\u2019s working, and what still confuses us. But we want to hear from you, too. What\u2019s flopped? What\u2019s clicked? Let\u2019s trade ideas, surface what\u2019s useful, and shape what\u2019s next \u2014 together. </p>",
+      "start_time": "2025-08-01T23:00:00.000000+0000",
+      "locations": [
+        5056005
+      ],
+      "schedule_tracks": []
+    },
+    {
+      "id": 31515832,
+      "name": "Counting In: How Journalists Can Bridge the AAPI Census Gap",
+      "description": "<p>The next U.S. Census will take place in 2030, shaping the nation\u2019s political representation, funding distribution, and public policy for the next decade. Yet Asian American and Pacific Islander (AAPI) communities have historically been undercounted\u2014due to language barriers, mistrust of government, complex multigenerational households, and lack of outreach. Smaller AAPI subgroups are especially at risk of being overlooked, leading to hidden disparities in resources for education, health, and social services. <br>  <br> In this session, leaders at the forefront of Census outreach to AAPI communities discuss how accurate census data can better reflect AAPI communities\u2014and how newsrooms can help monitor progress towards Census 2030.</p>",
+      "start_time": "2025-08-01T23:00:00.000000+0000",
+      "locations": [
+        5056006
       ],
       "schedule_tracks": []
     },
@@ -521,12 +645,22 @@
       ]
     },
     {
-      "id": 31496835,
-      "name": "AAJA Sports Korean Barbecue",
-      "description": "<p>Join our partners at CBS Sports, ESPN, The Athletic &amp; NFL Network for our annual Korean Barbecue, one of our most popular events of the year! <a href=\"https://www.eventbrite.com/e/aaja-sports-korean-barbecue-tickets-1422097414649?aff=oddtdtcreator\">https://www.eventbrite.com/e/aaja-sports-korean-barbecue-tickets-1422097414649?aff=oddtdtcreator</a></p>",
-      "start_time": "2025-08-01T02:00:00.000000+0000",
+      "id": 31497350,
+      "name": "AP Reception",
+      "description": "<p>Meet newsroom leaders, reporters, editors, producers and visual journalists at a reception hosted by The Associated Press, an independent global news organization dedicated to factual reporting. Founded in 1846, AP remains the most trusted source of fast, accurate, unbiased news and an essential provider of the technology vital to the industry. More than half the world&#x27;s population sees AP journalism every day.</p>",
+      "start_time": "2025-08-02T00:30:00.000000+0000",
       "locations": [
-        5036995
+        5055999
+      ],
+      "schedule_tracks": []
+    },
+    {
+      "id": 31516854,
+      "name": "Invigorating alternative news media with Noisy Creek",
+      "description": "<p>Join Noisy Creek founder and CEO Brady Walkinshaw for an evening of drinks, snacks, and a celebration of local media. Located at Noisy Creek&#x27;s new offices on Capitol Hill, this reception is at the heart of Seattle&#x27;s journalistic and cultural intersections. <br><br>Founded in 2024, Noisy Creek publishes two iconic newspapers: The Stranger in Seattle, and the Portland Mercury. The Stranger and Mercury have served as vital voices of their cities for decades, breaking news, defining culture, and winning awards, including The Stranger&#x27;s 2012 Pulitzer Prize. <br><br>In addition to their editorial products, Noisy Creek operates EverOut, the event discovery site, and Bold Type Tickets, a national ticketing platform. With growing newsrooms and a unique mix of digital and print products, Noisy Creek is designing a new model for invigorating local media.</p>",
+      "start_time": "2025-08-02T01:00:00.000000+0000",
+      "locations": [
+        5058404
       ],
       "schedule_tracks": [
         726514
@@ -567,64 +701,12 @@
       "schedule_tracks": []
     },
     {
-      "id": 31496839,
-      "name": "International reporting: Challenges and opportunities",
-      "description": "<p>Wars, realignment of the world order, climate disasters, the space race, tariffs and increasing globalization of culture \u2014 there\u2019s never been a more important, exciting time to cover the world. Still, increased focus on U.S. domestic news, budget cuts in newsrooms and declining press freedom in many countries means newsrooms have fewer resources and editorial will to invest in international reporting. Journalists will talk about the changing face of international reporting, practical tips on freelancing and getting funded, and finding your unique perspective and voice on leading global news stories. </p>",
-      "start_time": "2025-08-02T17:30:00.000000+0000",
-      "locations": [
-        5056002
-      ],
-      "schedule_tracks": []
-    },
-    {
-      "id": 31497169,
-      "name": "AAJA+ Mixer lunch",
-      "description": "<p>Catch up with AAJA+ TF at Tai Tung - a 5 minute Uber ride to Chinatown. Touted as Seattle\u2019s oldest Chinese restaurant, it\u2019s the site of the infamous Bruce Lee booth. (Yes, the man himself held court there after Jeet Kune Do practice!)</p>",
-      "start_time": "2025-07-30T18:30:00.000000+0000",
-      "locations": [
-        5056043
-      ],
-      "schedule_tracks": [
-        726514
-      ]
-    },
-    {
-      "id": 31497350,
-      "name": "AP Reception",
-      "description": "<p>Meet newsroom leaders, reporters, editors, producers and visual journalists at a reception hosted by The Associated Press, an independent global news organization dedicated to factual reporting. Founded in 1846, AP remains the most trusted source of fast, accurate, unbiased news and an essential provider of the technology vital to the industry. More than half the world&#x27;s population sees AP journalism every day.</p>",
-      "start_time": "2025-08-02T00:30:00.000000+0000",
-      "locations": [
-        5055999
-      ],
-      "schedule_tracks": []
-    },
-    {
       "id": 31514466,
       "name": "Identifying \u2013 and Avoiding \u2013 Anti-Queer and Anti-Trans Bias in the Newsroom (Presented by AAJA\u2019s LGBTQIA+ Affinity Group)",
       "description": "<p>In the current political climate, the LGBTQ+ community \u2013 trans people especially \u2013 have been consistently targeted by far-right activists and politicians. As journalists, it\u2019s our responsibility to cover these communities fairly and accurately. <br> How can everyone identify potential transphobia or homophobia in newsroom coverage? What are common misconceptions and myths that may intentionally or unintentionally dehumanize transgender and gender-nonconforming people? How can queer people in the newsroom navigate issues of representation when being \u201cout\u201d can make them doubly vulnerable as journalists \u2013 and how can their colleagues and managers support them? <br> This panel will be a candid conversation among LGBTQ+ journalists at all stages of their careers who will talk about how anti-queer and anti-trans bias can appear throughout assigning, reporting, writing, and editing stories\u2026and how everyone can be empowered to help shift that. <br> </p>",
       "start_time": "2025-08-02T16:00:00.000000+0000",
       "locations": [
         5055999
-      ],
-      "schedule_tracks": []
-    },
-    {
-      "id": 31514467,
-      "name": "Visual Impact: Documenting Your Community With Sensitivity and Intent. (Presented by Photo AG)",
-      "description": "<p>Covering disasters or funerals is already a difficult assignment, but covering them in your own community adds another layer of complexity to sharing heart-wrenching stories of loss and the unknown of what the future holds. Capturing people visually at their lowest moment requires navigating the need to share the emotions of the story while respecting people\u2019s personal space. Our panel of photographers will share their images and their experience covering emotionally charged assignments. </p>",
-      "start_time": "2025-08-02T17:30:00.000000+0000",
-      "locations": [
-        5056000
-      ],
-      "schedule_tracks": []
-    },
-    {
-      "id": 31514468,
-      "name": "Creating Entrepreneurship Systems That Work For You/Secrets of Full-Time Freelancers (Presented by Freelance AG)",
-      "description": "<p>Between mass layoffs and an unstable job market, more journalists are freelancing out of need or by choice \u2014 and many are creating their own newsletters or startup businesses to support their work. This session will cover how to create systems that take work off your plate! You\u2019ll see a demo of the Institute for Independent Journalists\u2019 interactive online freelance startup guide, which helps answer the key questions for ramping up a side hustle into a full-time business. Panelists will share tools for setting your rate, networking to find great assignments, building relationships with clients, and juggling multiple projects. Participants will leave the session with a slew of new tools and strategies for making freelancing emotionally and financially sustainable.</p>",
-      "start_time": "2025-07-31T21:30:00.000000+0000",
-      "locations": [
-        5056002
       ],
       "schedule_tracks": []
     },
@@ -639,114 +721,32 @@
       "schedule_tracks": []
     },
     {
-      "id": 31515823,
-      "name": "AI Tools to Amplify Your Journalism Without Replacing Your Judgment",
-      "description": "<p>Discover how AI can handle the grunt work so you can focus on your journalism. This session will demo practical applications of various AI tools from NotebookLM to Claude, Fathom and others for research, transcription, and story development. By the end of this session, you\u2019ll leave with a wider perspective of different AI tools that will allow you to work smarter, not harder.</p>",
-      "start_time": "2025-07-30T19:30:00.000000+0000",
-      "locations": [
-        5056005
-      ],
-      "schedule_tracks": []
-    },
-    {
-      "id": 31515824,
-      "name": "Turn On The Radio (Presented by The James B. McClatchy Foundation)",
-      "description": "<p>The team from The Intersection, Central Valley Journalism Collaborative\u2019s Health Equity Reporting Lab, discuss how small newsrooms can use audio reporting to increase audience, impact, partnerships and brand recognition, and how to start producing radio and podcasts from scratch.</p>",
-      "start_time": "2025-07-30T19:30:00.000000+0000",
-      "locations": [
-        5056006
-      ],
-      "schedule_tracks": []
-    },
-    {
-      "id": 31515825,
-      "name": "Breaking Barriers: AAPI Women Leading in Corporate America (Presented by JPMorgan, Lush Decor, CKA)",
-      "description": "<p>From the boardroom to the C-suite, AAPI women continue to challenge stereotypes and reshape leadership in some of the world\u2019s most influential companies. Join dynamic leaders from JPMorgan Chase, Lush Decor, and the Council of Korean Americans as they share personal stories, career insights, and the realities of navigating identity, culture, and power in the corporate world. This conversation will explore how they lead with authenticity, advocate for equity, and build pathways for the next generation\u2014all through the lens of their experiences as AAPI women.</p>",
-      "start_time": "2025-07-31T17:30:00.000000+0000",
-      "locations": [
-        5056006
-      ],
-      "schedule_tracks": []
-    },
-    {
-      "id": 31515827,
-      "name": "Reporting Power in a Polarized World: Covering the White House and Congress in 2025",
-      "description": "<p>In a year marked by deep political divisions, resurgent nationalism and global uncertainty, the task of covering America\u2019s centers of power has never been more complex. From the high-stakes drama of a returning Trump administration to a bitterly polarized Congress, journalists must navigate not only the facts but also the public's growing distrust of institutions and media itself. <br>  <br> Join Weijia Jiang (CBS News) , Nick Wu (POLITICO), Scott Wong (NBC) and Amanda Barrett (AP) for an unfiltered conversation about the unique challenges of political reporting in 2025. How do correspondents maintain access and accountability amid disinformation and political hostility? What\u2019s different about covering Trump 2.0? And how do domestic fractures play out on the global stage? This panel goes beyond headlines to explore the resilience, responsibility and reality of reporting on power today. <br> </p>",
-      "start_time": "2025-07-31T20:00:00.000000+0000",
-      "locations": [
-        5056003
-      ],
-      "schedule_tracks": []
-    },
-    {
-      "id": 31515828,
-      "name": "Building Financial Security in an Unstable Industry",
-      "description": "<p>In a time when layoffs, freelance hustle, and rising living costs challenge all of us, journalists across generations are rethinking what financial stability really means. In this panel, personal finance experts from JPMorgan Chase and Northwestern Mutual will break down real-world strategies tailored for journalists\u2014especially those navigating the unique pressure and responsibilities within the AAPI community. From student loans and freelancing to family and retirement planning, this session will explore how to move from paycheck-to-paycheck toward long-term planning. Whether you're just starting your first job, mid-career and managing caregiving, or a seasoned journalist eyeing legacy and retirement, this conversation will equip you with practical tools to take control of your financial future.</p>",
-      "start_time": "2025-07-31T23:00:00.000000+0000",
-      "locations": [
-        5056003
-      ],
-      "schedule_tracks": []
-    },
-    {
-      "id": 31515829,
-      "name": "Organizing and empowering your newsroom (Presented by SAG-AFTRA)",
-      "description": "<p>Join SAG-AFTRA for a discussion on addressing issues, advocating for solutions, and cultivating relationships in your newsroom.  <br>  <br> Panelists will be discussing how they have experienced and utilized union organizing and advocacy at their stations. Topics covered will include forming a new union, collective bargaining, developing leadership and more. The perspectives shared will provide a firsthand view of how having a union in your newsroom can be a vehicle for providing solutions and making improvements on the job. Note: This discussion will be off record.</p>",
-      "start_time": "2025-08-01T17:30:00.000000+0000",
-      "locations": [
-        5056003
-      ],
-      "schedule_tracks": []
-    },
-    {
-      "id": 31515830,
-      "name": "The Disturbing Data behind AAPI Underrepresentation in Journalism: New Studies and Strategies that Address US Perceptions and the Talent Pipeline (Presented by AARP)",
-      "description": "<p>This panel and the research it presents confront the hidden stereotypes driving the persistent underrepresentation of AAPIs in news. For the first time, it will unveil significant and unsettling data regarding AAPI underrepresentation in news, particularly in broadcast media, as revealed through pioneering research by the Asian American Journalists Association. This session is also the official release of two precedent-setting AAJA studies: US Perceptions of AAPIs in News, and AAPI News Talent Pipeline Study. The discussion highlights practical actions news directors and community leaders can implement to enhance AAPI representation in the news industry. Participants will learn key findings from this groundbreaking research and action-based strategies to resolve the contributing factors to underrepresentation that these studies confirmed or revealed. These studies were underwritten by AARP, NORC, and PRISCA, led by the AAJA Broadcast Task Force, including advisory board members Alex Chew, Director at NORC, and Karthick Ramakrishnan, Executive Director at AAPI Data.</p>",
-      "start_time": "2025-08-01T21:30:00.000000+0000",
+      "id": 31496839,
+      "name": "International reporting: Challenges and opportunities",
+      "description": "<p>Wars, realignment of the world order, climate disasters, the space race, tariffs and increasing globalization of culture \u2014 there\u2019s never been a more important, exciting time to cover the world. Still, increased focus on U.S. domestic news, budget cuts in newsrooms and declining press freedom in many countries means newsrooms have fewer resources and editorial will to invest in international reporting. Journalists will talk about the changing face of international reporting, practical tips on freelancing and getting funded, and finding your unique perspective and voice on leading global news stories. </p>",
+      "start_time": "2025-08-02T17:30:00.000000+0000",
       "locations": [
         5056002
       ],
       "schedule_tracks": []
     },
     {
-      "id": 31515831,
-      "name": "Search is dead. News isn\u2019t \u2014 if we evolve quickly (Presented by AP)",
-      "description": "<p>Search won\u2019t save us. Attention is splintered. Platforms are unreliable. And AI isn\u2019t just the next thing \u2014 it\u2019s the new baseline. So how do we stop playing catch-up and start leading? <br> This session makes the case for a radical editorial rethink. If your newsroom is still optimizing for yesterday\u2019s platforms or stuck in legacy formats, it\u2019s time to evolve \u2014 or risk irrelevance. <br> We\u2019ll share what the AP is trying, what\u2019s working, and what still confuses us. But we want to hear from you, too. What\u2019s flopped? What\u2019s clicked? Let\u2019s trade ideas, surface what\u2019s useful, and shape what\u2019s next \u2014 together. </p>",
-      "start_time": "2025-08-01T23:00:00.000000+0000",
+      "id": 31514467,
+      "name": "Visual Impact: Documenting Your Community With Sensitivity and Intent. (Presented by Photo AG)",
+      "description": "<p>Covering disasters or funerals is already a difficult assignment, but covering them in your own community adds another layer of complexity to sharing heart-wrenching stories of loss and the unknown of what the future holds. Capturing people visually at their lowest moment requires navigating the need to share the emotions of the story while respecting people\u2019s personal space. Our panel of photographers will share their images and their experience covering emotionally charged assignments. </p>",
+      "start_time": "2025-08-02T17:30:00.000000+0000",
       "locations": [
-        5056005
+        5056000
       ],
       "schedule_tracks": []
     },
     {
-      "id": 31515832,
-      "name": "Counting In: How Journalists Can Bridge the AAPI Census Gap",
-      "description": "<p>The next U.S. Census will take place in 2030, shaping the nation\u2019s political representation, funding distribution, and public policy for the next decade. Yet Asian American and Pacific Islander (AAPI) communities have historically been undercounted\u2014due to language barriers, mistrust of government, complex multigenerational households, and lack of outreach. Smaller AAPI subgroups are especially at risk of being overlooked, leading to hidden disparities in resources for education, health, and social services. <br>  <br> In this session, leaders at the forefront of Census outreach to AAPI communities discuss how accurate census data can better reflect AAPI communities\u2014and how newsrooms can help monitor progress towards Census 2030.</p>",
-      "start_time": "2025-08-01T23:00:00.000000+0000",
+      "id": 31362656,
+      "name": "Annual Gala Scholarship & Awards Banquet (Presented by NBCUniversal)",
+      "description": "<p>Join us for the elegant and inspiring finale of AAJA25 at the Annual Gala Scholarship &amp; Awards Banquet\u2014an evening dedicated to celebrating excellence in journalism and championing future AAPI media leaders.</p>\n<br>\n<br>",
+      "start_time": "2025-08-03T01:00:00.000000+0000",
       "locations": [
-        5056006
-      ],
-      "schedule_tracks": []
-    },
-    {
-      "id": 31516854,
-      "name": "Invigorating alternative news media with Noisy Creek",
-      "description": "<p>Join Noisy Creek founder and CEO Brady Walkinshaw for an evening of drinks, snacks, and a celebration of local media. Located at Noisy Creek&#x27;s new offices on Capitol Hill, this reception is at the heart of Seattle&#x27;s journalistic and cultural intersections. <br><br>Founded in 2024, Noisy Creek publishes two iconic newspapers: The Stranger in Seattle, and the Portland Mercury. The Stranger and Mercury have served as vital voices of their cities for decades, breaking news, defining culture, and winning awards, including The Stranger&#x27;s 2012 Pulitzer Prize. <br><br>In addition to their editorial products, Noisy Creek operates EverOut, the event discovery site, and Bold Type Tickets, a national ticketing platform. With growing newsrooms and a unique mix of digital and print products, Noisy Creek is designing a new model for invigorating local media.</p>",
-      "start_time": "2025-08-02T01:00:00.000000+0000",
-      "locations": [
-        5058404
-      ],
-      "schedule_tracks": [
-        726514
-      ]
-    },
-    {
-      "id": 31517041,
-      "name": "History Happy Hour: A Book Signing for AAJA and UCLA\u2019s \u201cIntersections\u201d",
-      "description": "<p>Meet contributors to the new book \u201cIntersections: A Journalistic History of Asian Pacific America,\u201d published by AAJA in partnership with UCLA\u2019s Asian American Studies Center. Through short essays and profiles, the book shows how AAPI journalists and communities have been part of historic news coverage. This is your chance to get your copy of the book signed and talk with contributors about why they joined the book project.</p>",
-      "start_time": "2025-07-30T23:00:00.000000+0000",
-      "locations": [
-        5056006
+        5056001
       ],
       "schedule_tracks": []
     }
