@@ -2,7 +2,8 @@ from guidebook import api_requestor
 import json
 import os
 from dotenv import load_dotenv
-from datetime import datetime
+from datetime import datetime, timezone, timedelta
+
 
 # Load environment variables from .env file
 load_dotenv()
@@ -23,8 +24,14 @@ def filter_session_data(sessions):
             return "Unknown", "Unknown"
         
         try:
-            # Parse the ISO datetime string
+            # Parse the ISO datetime string as UTC
             dt = datetime.fromisoformat(start_time_str.replace('Z', '+00:00'))
+            # Convert to PDT (UTC-7)
+            pdt = timezone(timedelta(hours=-7))
+            dt_pdt = dt.astimezone(pdt)
+
+            # Now use dt_pdt.hour and dt_pdt.minute instead of dt.hour and dt.minute
+
             date_to_day = {
                 "2025-07-30": "Wed 7/30",
                 "2025-07-31": "Thur 7/31", 
@@ -32,22 +39,22 @@ def filter_session_data(sessions):
                 "2025-08-02": "Sat 8/2"
             }
             
-            date_str = dt.strftime("%Y-%m-%d")
+            date_str = dt_pdt.strftime("%Y-%m-%d")
             day = date_to_day.get(date_str, f"Day {date_str}")
             
-            # Format time as "11 AM PST" style
-            hour = dt.hour
-            minute = dt.minute
+            # Format time as "11 AM PDT" style
+            hour = dt_pdt.hour
+            minute = dt_pdt.minute
             
             if hour == 0:
-                time_str = f"12:{minute:02d} AM PST"
+                time_str = f"12:{minute:02d} AM PDT"
             elif hour < 12:
-                time_str = f"{hour}:{minute:02d} AM PST" if minute > 0 else f"{hour} AM PST"
+                time_str = f"{hour}:{minute:02d} AM PDT" if minute > 0 else f"{hour} AM PDT"
             elif hour == 12:
-                time_str = f"12:{minute:02d} PM PST" if minute > 0 else "12 PM PST"
+                time_str = f"12:{minute:02d} PM PDT" if minute > 0 else "12 PM PDT"
             else:
-                time_str = f"{hour-12}:{minute:02d} PM PST" if minute > 0 else f"{hour-12} PM PST"
-            
+                time_str = f"{hour-12}:{minute:02d} PM PDT" if minute > 0 else f"{hour-12} PM PDT"
+
             return day, time_str
             
         except Exception as e:
