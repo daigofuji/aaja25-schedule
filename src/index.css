@@ -1,5 +1,5 @@
 :root {
-  font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+  font-family: futura-pt, sans-serif;
   line-height: 1.5;
   font-weight: 400;
 
@@ -35,24 +35,35 @@ h1 {
   line-height: 1.1;
 }
 
-button {
-  border-radius: 8px;
-  border: 1px solid transparent;
-  padding: 0.6em 1.2em;
-  font-size: 1em;
-  font-weight: 500;
-  font-family: inherit;
-  background-color: #1a1a1a;
-  cursor: pointer;
-  transition: border-color 0.25s;
+.day-selector {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  gap: 8px;
+  margin-bottom: 1rem;
+  button {
+    border-radius: 8px;
+    border: 1px solid transparent;
+    padding: 0.3em 0;
+    font-size: 0.875rem;
+    font-weight: bold;
+    font-family: futura-pt, sans-serif;
+    background-color: var(--color-secondary);
+    cursor: pointer;
+    transition: border-color 0.25s;
+    &.active {
+      background-color: var(--color-primary);
+      color: #fff;
+    } 
+  }
+  button:hover {
+    border-color: #646cff;
+  }
+  button:focus,
+  button:focus-visible {
+    outline: 4px auto -webkit-focus-ring-color;
+  }
 }
-button:hover {
-  border-color: #646cff;
-}
-button:focus,
-button:focus-visible {
-  outline: 4px auto -webkit-focus-ring-color;
-}
+
 
 @media (prefers-color-scheme: light) {
   :root {
@@ -65,4 +76,40 @@ button:focus-visible {
   button {
     background-color: #f9f9f9;
   }
+}
+
+ul.sessions {
+  list-style: none;
+  padding: 0;
+  margin: 1rem 0;
+  display: grid;
+  gap: 8px;
+  grid-template-columns: 1fr 1fr;
+  @media (min-width: 650px) {
+    grid-template-columns: 1fr 1fr 1fr;
+  }
+  @media (min-width: 900px) {
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+  }
+
+  li {
+    font-family: futura-pt, sans-serif;
+    font-weight: normal;
+    border-radius: 8px;
+    border: 1px solid transparent;
+    background: var(--color-primary);
+    color: #fff;
+    font-size: 0.875rem;
+    line-height: 1.1;
+    padding: 0.5rem;
+    span {
+      display: block;
+      font-weight: normal;
+      font-size: 0.75rem;
+      margin-bottom: 0.5rem;
+      font-weight: bold;
+    }
+
+  }
+
 }

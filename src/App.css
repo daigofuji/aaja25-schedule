@@ -1,21 +1,18 @@
+:root {
+  --color-default: #0f3b43;
+  --color-primary: #08538b;
+  --color-secondary: #70af6d;
+  --color-background: #abdae0;
+}
+body {
+    background-color: var(--color-background);
+}
 #root {
-  max-width: 1280px;
   margin: 0 auto;
-  padding: .3rem;
+  width: 100%;
+  padding: 0 10px;
   text-align: left;
 }
-
-
-@media (prefers-reduced-motion: no-preference) {
-  a:nth-of-type(2) .logo {
-    animation: logo-spin infinite 20s linear;
-  }
-}
-
-.card {
-  padding: 2em;
-}
-
 .read-the-docs {
   color: #888;
 }

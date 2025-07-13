@@ -4,7 +4,6 @@ import os
 from dotenv import load_dotenv
 from datetime import datetime, timezone, timedelta
 
-
 # Load environment variables from .env file
 load_dotenv()
 
@@ -12,7 +11,6 @@ load_dotenv()
 API_KEY = os.getenv('GUIDEBOOK_API_KEY')
 
 # Use https://github.com/Guidebook/guidebook-api-python
-
 
 def filter_session_data(sessions):
     """Filter sessions to keep only the properties we need"""
@@ -29,8 +27,6 @@ def filter_session_data(sessions):
             # Convert to PDT (UTC-7)
             pdt = timezone(timedelta(hours=-7))
             dt_pdt = dt.astimezone(pdt)
-
-            # Now use dt_pdt.hour and dt_pdt.minute instead of dt.hour and dt.minute
 
             date_to_day = {
                 "2025-07-30": "Wed 7/30",
@@ -80,7 +76,7 @@ def filter_session_data(sessions):
         if not location_ids:
             return []
         if isinstance(location_ids, list):
-            return [get_location_name(loc_id) for loc_id in location_ids]
+            return [get_location_name(location_ids[0])]
         else:
             return [get_location_name(location_ids)]
 
