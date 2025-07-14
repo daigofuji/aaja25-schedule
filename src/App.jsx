@@ -14,7 +14,7 @@ function App() {
   // others are '2025-07-31', '2025-08-01', and '2025-08-02'
   useEffect(() => {
     // on load, get shcedule.json from public folder
-    fetch('/schedule.json')
+    fetch('./schedule.json')
       .then(response => response.json())
       .then(data => {
         // find the day in the start_time field
@@ -41,7 +41,6 @@ function App() {
   )); 
   return (
     <>
-      <h1>#AAJA25</h1>
       <div className="day-selector">
         {buttons}
       </div>
@@ -59,7 +58,11 @@ function App() {
       {/* Modal */}
       {selectedSession && (
         <dialog open>
+          <button className="close-top" onClick={() => setSelectedSession(null)}>×</button>
           <h3>{selectedSession.name}</h3>
+          <div className="meta">
+            {selectedSession.day} - {selectedSession.time} - {selectedSession.locations?.[0] || 'TBD'}
+          </div>
           <div>{parse(selectedSession.description || '')}</div>
           <button onClick={() => setSelectedSession(null)}>Close</button>
         </dialog>
