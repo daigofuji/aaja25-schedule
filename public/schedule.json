@@ -1,5 +1,5 @@
 {
-  "total_sessions": 80,
+  "total_sessions": 81,
   "pages_fetched": 2,
   "sessions": [
     {
@@ -775,6 +775,18 @@
       "time": "2:30 PM PDT",
       "locations": [
         "REDWOOD"
+      ],
+      "tracks": []
+    },
+    {
+      "id": 31523470,
+      "name": "The evolving newsroom: Navigating principles and purpose in the age of AI and streaming (Presented by FOX)",
+      "description": "<p>This panel brings together executive producers and content leaders to discuss how core journalistic principles\u2014such as accuracy, fairness, independence and accountability\u2014are being upheld and adapted in modern newsrooms. The conversation will explore the impact of AI integration, evolving skill sets, the role of crowdsourcing and the growing influence of streaming on content delivery and audience engagement.</p>",
+      "start_time": "2025-08-01T21:30:00.000000+0000",
+      "day": "Fri 8/1",
+      "time": "2:30 PM PDT",
+      "locations": [
+        "METROPOLITAN A"
       ],
       "tracks": []
     },

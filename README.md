@@ -41,8 +41,14 @@ python main.py
 
 see memo.md for more details
 
+# Github pages 
+
+To deploy, simply run `npm run deploy` in the root directory. which will push contents of /dist to the `gh-pages` branch.
+
 
 # Vite + React
+
+This project was made with Node v20.19.0.
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 

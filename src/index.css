@@ -24,10 +24,7 @@ a:hover {
 
 body {
   margin: 0;
-  display: flex;
-  place-items: center;
   min-width: 320px;
-  min-height: 100vh;
 }
 
 h1 {
@@ -81,7 +78,7 @@ h1 {
 ul.sessions {
   list-style: none;
   padding: 0;
-  margin: 1rem 0;
+  margin: 1rem 8px 3rem;
   display: grid;
   gap: 8px;
   grid-template-columns: 1fr 1fr;
@@ -106,7 +103,7 @@ ul.sessions {
       display: block;
       font-weight: normal;
       font-size: 0.75rem;
-      margin-bottom: 0.5rem;
+      margin-bottom: 0.25rem;
       font-weight: bold;
     }
 
@@ -140,7 +137,7 @@ dialog {
     margin-top: 0;
     margin-bottom: 1rem;
     font-size: 1.25rem;
-    color: var(--color-primary, #646cff);
+    color: var(--color-primary);
   }
   .meta {
     font-size: 0.875rem;
@@ -154,14 +151,14 @@ dialog {
     padding: 0.75rem 1.5rem;
     border: none;
     border-radius: 8px;
-    background: var(--color-primary, #646cff);
+    background: var(--color-primary);
     color: white;
     font-weight: bold;
     cursor: pointer;
     transition: background-color 0.25s;
     
     &:hover {
-      background: var(--color-secondary, #535bf2);
+      background: var(--color-secondary);
     }
     &.close-top {
       position: absolute;
