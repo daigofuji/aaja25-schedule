@@ -1,5 +1,5 @@
 {
-  "total_sessions": 94,
+  "total_sessions": 96,
   "pages_fetched": 2,
   "sessions": [
     {
@@ -196,7 +196,9 @@
       "locations": [
         "Other"
       ],
-      "tracks": []
+      "tracks": [
+        "Mixers/Receptions"
+      ]
     },
     {
       "id": 31496796,
@@ -271,6 +273,18 @@
       "tracks": []
     },
     {
+      "id": 31536811,
+      "name": "ABC Storyteller Summit",
+      "description": "<p>Details to follow</p>",
+      "start_time": "2025-07-31T17:00:00.000000+0000",
+      "day": "Thur 7/31",
+      "time": "10 AM PDT",
+      "locations": [
+        "METROPOLITAN A"
+      ],
+      "tracks": []
+    },
+    {
       "id": 31496802,
       "name": "Covering democracy under Trump",
       "description": "<p>Much has changed since the start of the second Trump administration, with real impacts to local governments and communities with consequences that are felt far from D.C. In this panel, we will discuss how to navigate local and niche coverage without drowning in an overwhelming tidal wave of information \u2014 such as how to find local angles to national stories, build trust and transparency with current and new\\ audiences, ideas for keeping workflow manageable and avoiding staff and reader burnout, all while filtering out the noise. </p>",
@@ -296,7 +310,7 @@
     },
     {
       "id": 31515825,
-      "name": "Breaking barriers: AAPI women leading in corporate America (Presented by JPMorgan, Lush Decor, CKA)",
+      "name": "Breaking barriers: AAPI women leading in corporate America",
       "description": "<p>From the boardroom to the C-suite, AAPI women continue to challenge stereotypes and reshape leadership in some of the world\u2019s most influential companies. Join dynamic leaders from JPMorgan Chase, Lush Decor and the Council of Korean Americans as they share personal stories, career insights and the realities of navigating identity, culture and power in the corporate world. This conversation will explore how they lead with authenticity, advocate for equity, and build pathways for the next generation \u2014 all through the lens of their experiences as AAPI women.</p>",
       "start_time": "2025-07-31T17:30:00.000000+0000",
       "day": "Thur 7/31",
@@ -448,7 +462,7 @@
       "day": "Thur 7/31",
       "time": "2:30 PM PDT",
       "locations": [
-        "METROPOLITAN B"
+        "ASPEN"
       ],
       "tracks": []
     },
@@ -460,7 +474,7 @@
       "day": "Thur 7/31",
       "time": "2:30 PM PDT",
       "locations": [
-        "ASPEN"
+        "METROPOLITAN B"
       ],
       "tracks": []
     },
@@ -489,6 +503,18 @@
       "tracks": []
     },
     {
+      "id": 31496822,
+      "name": "Real and practical use cases for AI in your newsroom",
+      "description": "<p>AI is here and it\u2019s not going away. The technology is only getting better, faster and closer to making journalism easier. Hear from newsroom technologists and leaders on how they\u2019re using AI in ethical ways to make news production more efficient. We\u2019ll talk about how AI has sped up transcription, supported data cleanup and discovery, and deepened user engagement. </p>",
+      "start_time": "2025-07-31T23:00:00.000000+0000",
+      "day": "Thur 7/31",
+      "time": "4 PM PDT",
+      "locations": [
+        "METROPOLITAN B"
+      ],
+      "tracks": []
+    },
+    {
       "id": 31515828,
       "name": "Building financial security in an unstable industry",
       "description": "<p>At a time when layoffs, freelance hustle and rising living costs challenge all of us, journalists across generations are rethinking what financial stability really means. In this panel, personal finance experts from JPMorgan Chase and Northwestern Mutual will break down real-world strategies tailored for journalists \u2014 especially those navigating the unique pressures and responsibilities within the AAPI community. From student loans and freelancing to family and retirement planning, this session will explore how to move from paycheck-to-paycheck toward long-term planning. Whether you&#x27;re just starting your first job, mid-career and managing caregiving, or a seasoned journalist eyeing legacy and retirement, this conversation will equip you with practical tools to take control of your financial future.</p>",
@@ -496,7 +522,7 @@
       "day": "Thur 7/31",
       "time": "4 PM PDT",
       "locations": [
-        "METROPOLITAN B"
+        "ASPEN"
       ],
       "tracks": []
     },
@@ -534,7 +560,7 @@
       "day": "Thur 7/31",
       "time": "5 PM PDT",
       "locations": [
-        "ASPEN"
+        "METROPOLITAN A"
       ],
       "tracks": [
         "Mixers/Receptions"
@@ -647,30 +673,6 @@
       "tracks": []
     },
     {
-      "id": 31496822,
-      "name": "Real and practical use cases for AI in your newsroom",
-      "description": "<p>AI is here and it\u2019s not going away. The technology is only getting better, faster and closer to making journalism easier. Hear from newsroom technologists and leaders on how they\u2019re using AI in ethical ways to make news production more efficient. We\u2019ll talk about how AI has sped up transcription, supported data cleanup and discovery, and deepened user engagement. </p>",
-      "start_time": "2025-08-01T16:00:00.000000+0000",
-      "day": "Fri 8/1",
-      "time": "9 AM PDT",
-      "locations": [
-        "WILLOW"
-      ],
-      "tracks": []
-    },
-    {
-      "id": 31522688,
-      "name": "We got NOW: Navigating the women\u2019s sports boom (Presented by AAJA Sports Task Force)",
-      "description": "<p>With the WNBA and NWSL expanding, franchise valuations skyrocketing, and stars like Caitlin Clark capturing national attention, women\u2019s sports are no longer a niche \u2014 they\u2019re a movement. This panel explores the best practices and challenges in covering leagues that are rapidly growing and attracting new audiences. What should journalists know when stepping into this evolving space? And what new opportunities await those ready to lead the coverage of women\u2019s sports in this pivotal moment?</p>",
-      "start_time": "2025-08-01T16:00:00.000000+0000",
-      "day": "Fri 8/1",
-      "time": "9 AM PDT",
-      "locations": [
-        "REDWOOD"
-      ],
-      "tracks": []
-    },
-    {
       "id": 31534905,
       "name": "So you want to be a food writer?",
       "description": "<p>This panel will look at how to successfully cover food \u2013 one of the most lucrative topics for many media organizations \u2013 at every level: national, local and as an individual contributor. We\u2019ll look at how the coverage of AANHPI food has evolved over the years, how social media has changed the game for good, and how you can break in.</p>",
@@ -691,6 +693,18 @@
       "time": "9 AM PDT",
       "locations": [
         "METROPOLITAN B"
+      ],
+      "tracks": []
+    },
+    {
+      "id": 31536800,
+      "name": "Turning clicks into credibility: Growing a social media presence that opens doors (Presented by AAJA Sports Task Force)",
+      "description": "<p>Your social media presence can be more than just a creative outlet \u2014 it can be a career asset. In this panel, top media professionals and content creators share how they\u2019ve built meaningful followings across platforms \u2014 and how you can too. Learn platform-specific strategies, what makes content resonate, and how to turn your online presence into a tool that supports your professional goals, from job interviews to brand partnerships.</p>",
+      "start_time": "2025-08-01T16:00:00.000000+0000",
+      "day": "Fri 8/1",
+      "time": "9 AM PDT",
+      "locations": [
+        "REDWOOD"
       ],
       "tracks": []
     },
@@ -739,6 +753,18 @@
       "time": "10:30 AM PDT",
       "locations": [
         "METROPOLITAN B"
+      ],
+      "tracks": []
+    },
+    {
+      "id": 31522688,
+      "name": "We got NOW: Navigating the women\u2019s sports boom (Presented by AAJA Sports Task Force)",
+      "description": "<p>With the WNBA and NWSL expanding, franchise valuations skyrocketing, and stars like Caitlin Clark capturing national attention, women\u2019s sports are no longer a niche \u2014 they\u2019re a movement. This panel explores the best practices and challenges in covering leagues that are rapidly growing and attracting new audiences. What should journalists know when stepping into this evolving space? And what new opportunities await those ready to lead the coverage of women\u2019s sports in this pivotal moment?</p>",
+      "start_time": "2025-08-01T17:30:00.000000+0000",
+      "day": "Fri 8/1",
+      "time": "10:30 AM PDT",
+      "locations": [
+        "REDWOOD"
       ],
       "tracks": []
     },
@@ -1117,7 +1143,7 @@
     {
       "id": 31535479,
       "name": "From headlines to Hollywood: Making the career transition from journalism to marketing (Presented by IW Group)",
-      "description": "<p>Thinking about a career shift from journalism to marketing or communications? Join IW Group, a leading multicultural agency, for a conversation on how journalists can successfully pivot into brand strategy, public relations and entertainment marketing. With a client roster that includes nearly every major Hollywood studio, IW Group has led campaigns for titles like Crazy Rich Asians, Turning Red and many more \u2014 not just for Asian American audiences, but for wide-reaching global releases. Panelists will share how core journalism skills \u2014 from storytelling and research to audience engagement \u2014 are highly transferable in the world of marketing and communications.</p>",
+      "description": "<p>Thinking about a career shift from journalism to marketing or communications? Join IW Group, a leading multicultural creative agency, for a conversation on how journalists can successfully pivot into brand strategy, public relations and entertainment marketing. With a client roster that includes nearly every major Hollywood studio, IW Group has led campaigns for titles like Crazy Rich Asians, Sh\u014dgun, Moana 2 and many more \u2014 not just for Asian American audiences, but for wide-reaching global releases. Panelists will share how core journalism skills \u2014 from storytelling and research to audience engagement \u2014 are highly transferable in the world of marketing and communications.</p>",
       "start_time": "2025-08-02T17:30:00.000000+0000",
       "day": "Sat 8/2",
       "time": "10:30 AM PDT",
