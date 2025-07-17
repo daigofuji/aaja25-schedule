@@ -11,6 +11,7 @@ load_dotenv()
 API_KEY = os.getenv('GUIDEBOOK_API_KEY')
 
 # Use https://github.com/Guidebook/guidebook-api-python
+# https://developer.guidebook.com/#introduction
 
 def filter_session_data(sessions):
     """Filter sessions to keep only the properties we need"""
@@ -80,12 +81,36 @@ def filter_session_data(sessions):
         else:
             return [get_location_name(location_ids)]
 
+    # get track name from track id
+    track_map = {
+        726514: "Mixers/Receptions",
+        713078: "Community",
+        713079: "Leadership",
+        713080: "Training",
+        713081: "Innovation",
+    }
+    def get_track_name(track_id):
+        """Get track name from track ID"""
+        return track_map.get(track_id, f"Track {track_id}")
+    
+    def get_track_names(track_ids):
+        """Get track names from a list of track IDs"""
+        if not track_ids:
+            return []
+        if isinstance(track_ids, list):
+            return [get_track_name(track_id) for track_id in track_ids]
+        else:
+            return [get_track_name(track_ids)]
+
     for session in sessions:
         # Parse day and time from start_time
         day, time = parse_day_and_time(session.get('start_time'))
         
         # Get location names from location IDs
         location_names = get_location_names(session.get('locations'))
+        
+        # Get track names from track IDs
+        track_names = get_track_names(session.get('schedule_tracks'))
         
         # Define which properties to keep
         filtered_session = {
@@ -96,7 +121,7 @@ def filter_session_data(sessions):
             'day': day,
             'time': time,
             'locations': location_names,
-            'tracks': session.get('schedule_tracks'),
+            'tracks': track_names,
         }
         
         # Remove None values (optional)
