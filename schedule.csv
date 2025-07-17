@@ -1,18 +1,20 @@
 id,name,day,time,locations,schedule_tracks
 31496788,"Covering civic life through a solutions lens (Presented by SJN)",Wed 7/30,10:30 AM PDT,REDWOOD,
-31496789,"Physical safety with the International Women’s Media Foundation (Presented by IWMF)",Wed 7/30,10:30 AM PDT,WILLOW,
-31497169,"AAJA+ mixer lunch",Wed 7/30,11:30 AM PDT,Other,726514
+31496789,"Physical safety with the International Women’s Media Foundation (Presented by IWMF)",Wed 7/30,10:30 AM PDT,METROPOLITAN A,
+31497169,"AAJA+ mixer lunch",Wed 7/30,11:30 AM PDT,Other,Mixers/Receptions
 31496790,"EXPO",Wed 7/30,12 PM PDT,GRAND BALLROOM,
 31496791,"Follow the money: Covering the new American oligarch (Presented by Brennan Center for Justice at NYU)",Wed 7/30,12:30 PM PDT,ASPEN,
-31496792,"Why reporting matters (Presented by The Athletic)",Wed 7/30,12:30 PM PDT,METROPOLITAN B,
+31496792,"Beyond the mushy middle: How to lead with your reporting (Presented by The Athletic)",Wed 7/30,12:30 PM PDT,METROPOLITAN B,
+31496794,"The evolving power and complexity of the AAPI electorate (Presented by APIAVote)",Wed 7/30,12:30 PM PDT,REDWOOD,
 31515823,"AI tools to amplify your journalism without replacing your judgment",Wed 7/30,12:30 PM PDT,CEDAR,
 31515824,"Turn on the radio (Presented by The James B. McClatchy Foundation)",Wed 7/30,12:30 PM PDT,METROPOLITAN A,
 31360096,"First timer orientation",Wed 7/30,2:30 PM PDT,CEDAR,
 31496793,"So, you're thinking of starting a nonprofit news organization",Wed 7/30,2:30 PM PDT,ASPEN,
-31496794,"The evolving power and complexity of the AAPI electorate (Presented by APIAVote)",Wed 7/30,2:30 PM PDT,WILLOW,
+31535471,"Prying loose public records (Presented by Investigative Reporters & Editors)",Wed 7/30,2:30 PM PDT,REDWOOD,
 31517041,"History happy hour: A book signing for AAJA and UCLA’s “Intersections”",Wed 7/30,4 PM PDT,METROPOLITAN A,
-31360094,"#AAJA25 Opening Reception (Presented by ABC and ESPN)",Wed 7/30,4:30 PM PDT,METROPOLITAN A,726514
-31496795,"Asia chapter mixer",Wed 7/30,6 PM PDT,,726514
+31360094,"#AAJA25 Opening Reception (Presented by ABC and ESPN)",Wed 7/30,4:30 PM PDT,METROPOLITAN A,Mixers/Receptions
+31496795,"Asia chapter mixer",Wed 7/30,6 PM PDT,,Mixers/Receptions
+31526353,"AAJA Broadcast Futures fundraising reception",Wed 7/30,6:30 PM PDT,Other,
 31496796,"AARP breakfast dialogue: Intergenerational Talk story with OGs across generations (Presented by AARP)",Thur 7/31,8 AM PDT,METROPOLITAN B,
 31496797,"Immigration in the second Trump era",Thur 7/31,9 AM PDT,ASPEN,
 31496798,"How to put subscribers at the center of your journalism and build a sustainable business (Presented by Seattle Times)",Thur 7/31,9 AM PDT,CEDAR,
@@ -23,40 +25,45 @@ id,name,day,time,locations,schedule_tracks
 31496803,"Harnessing the power of local journalism to serve our communities",Thur 7/31,10:30 AM PDT,CEDAR,
 31515825,"Breaking barriers: AAPI women leading in corporate America (Presented by JPMorgan, Lush Decor, CKA)",Thur 7/31,10:30 AM PDT,METROPOLITAN A,
 31522519,"Storytelling, visualization and data: Insights from the Field",Thur 7/31,10:30 AM PDT,METROPOLITAN B,
-31496804,"The art of the interview: Asking questions that matter (Presented by NBCU Academy Workshop)",Thur 7/31,11 AM PDT,WILLOW,
-31496805,"Level up: NBCU Academy’s exclusive journalism workshop experience",Thur 7/31,11 AM PDT,WILLOW,
-31496806,"News Nerds networking casual lunch gathering",Thur 7/31,11:30 AM PDT,Other,726514
+31496804,"NBCU Academy workshop: The art of the interview — asking questions that matter (plus HelloHive)",Thur 7/31,10:45 AM PDT,WILLOW,
+31496805,"Level up: NBCU Academy’s exclusive journalism workshop experience",Thur 7/31,10:45 AM PDT,WILLOW,
+31496806,"News Nerds networking casual lunch gathering",Thur 7/31,11:30 AM PDT,Other,Mixers/Receptions
 31515827,"Reporting power in a polarized world: Covering the White House and Congress in 2025",Thur 7/31,1 PM PDT,METROPOLITAN B,
 31522520,"Soft power, bold leadership: Jonathan Sposato on redefining success in media and tech (Presented by JoySauce TV, Seattle Magazine and Seattle Business Magazine)",Thur 7/31,1 PM PDT,ASPEN,
-31496807,"What every journalist needs to know about personal finance (CNBC Presents)",Thur 7/31,1:30 PM PDT,WILLOW,
+31496807,"CNBC presents: What every journalist should know about personal finance",Thur 7/31,1:15 PM PDT,WILLOW,
+31524866,"Vicky Nguyen’s book signing (presented by NBCU Academy)",Thur 7/31,1:15 PM PDT,WILLOW,
 31496808,"CNN MasterCraft: The Digital Essentials",Thur 7/31,2 PM PDT,CEDAR,
-31496809,"ESPN Sports Media Summit: So you want to be a modern-day storyteller",Thur 7/31,2 PM PDT,METROPOLITAN A,
+31535472,"So you want to be a modern-day storyteller (Presented by ESPN)",Thur 7/31,2 PM PDT,REDWOOD,
+31534778,"‘Here’s the Scoop’: How to launch a successful podcast (Presented by NBCU Academy)",Thur 7/31,2:15 PM PDT,WILLOW,
 31496810,"Crossing platforms, capturing audiences: Storytelling for the modern era (Presented by Dot Dash Meredith)",Thur 7/31,2:30 PM PDT,METROPOLITAN B,
 31514468,"Creating entrepreneurship systems that work for you/Secrets of full-time freelancers (Presented by Freelance AG)",Thur 7/31,2:30 PM PDT,ASPEN,
-31496811,"NBCU Academy: Script Doctor (Presented by NBCU)",Thur 7/31,2:45 PM PDT,WILLOW,
+31496811,"NBCU Academy script doctor",Thur 7/31,3:15 PM PDT,WILLOW,
+31535473,"What’s next for journalism and content creation — and how to build your place in it (Presented by ESPN)",Thur 7/31,3:30 PM PDT,REDWOOD,
 31515828,"Building financial security in an unstable industry",Thur 7/31,4 PM PDT,METROPOLITAN B,
-31496812,"ESPN Sports Media Summit: Society and sports",Thur 7/31,4:45 PM PDT,METROPOLITAN A,
-31496813,"Yung AAJA convention mixer",Thur 7/31,5 PM PDT,Other,726514
-31496814,"JCAMP + VOICES reception",Thur 7/31,5 PM PDT,ASPEN,726514
-31496815,"California Chapters AAJA convention mixer",Thur 7/31,5 PM PDT,Other,726514
-31496816,"Freelance, photo and video AGs ASEAN StrEAT food mixer",Thur 7/31,6 PM PDT,Other,726514
-31496817,"Seattle chapter 40th anniversary reception",Thur 7/31,6 PM PDT,Other,726514
-31496835,"AAJA sports Korean barbecue",Thur 7/31,7 PM PDT,Other,726514
-31496818,"AAJA group run",Fri 8/1,7 AM PDT,Other,726514
+31535474,"Society and sports: Telling stories that matter (Presented by ESPN)",Thur 7/31,4:45 PM PDT,REDWOOD,
+31496813,"Yung AAJA convention mixer",Thur 7/31,5 PM PDT,Other,Mixers/Receptions
+31496814,"JCAMP + VOICES reception",Thur 7/31,5 PM PDT,ASPEN,Mixers/Receptions
+31496815,"California Chapters AAJA convention mixer",Thur 7/31,5 PM PDT,Other,Mixers/Receptions
+31524870,"Funny, fierce and flipping the script with NBCU’s “St. Denis Medical” and “The Paper”",Thur 7/31,5 PM PDT,WILLOW,
+31496816,"Freelance, photo and video AGs ASEAN StrEAT food mixer",Thur 7/31,6 PM PDT,Other,Mixers/Receptions
+31496817,"Seattle chapter 40th anniversary reception",Thur 7/31,6 PM PDT,Other,Mixers/Receptions
+31496835,"AAJA sports Korean barbecue",Thur 7/31,7 PM PDT,Other,Mixers/Receptions
+31496818,"AAJA group run",Fri 8/1,7 AM PDT,Other,Mixers/Receptions
 31496819,"Covering LGBTQ+ and trans policies",Fri 8/1,9 AM PDT,CEDAR,
 31496820,"EXPO",Fri 8/1,9 AM PDT,GRAND BALLROOM,
-31496821,"Covering and engaging Pacific Islanders",Fri 8/1,9 AM PDT,METROPOLITAN B,
 31496822,"Real and practical use cases for AI in your newsroom",Fri 8/1,9 AM PDT,WILLOW,
 31522688,"We got NOW: Navigating the women’s sports boom (Presented by AAJA Sports Task Force)",Fri 8/1,9 AM PDT,REDWOOD,
+31534905,"So you want to be a food writer?",Fri 8/1,9 AM PDT,METROPOLITAN A,
+31534907,"Covering and Engaging Pacific Islanders",Fri 8/1,9 AM PDT,METROPOLITAN B,
 31496823,"The power of the pitch - Professionally and personally (Presented by CBS News and Stations)",Fri 8/1,10:30 AM PDT,CEDAR,
 31496824,"A conversation with Dr. Bobby Mukkamala: The AMA’s new president on medicine, policy and personal experience (Presented by the American Medical Association)",Fri 8/1,10:30 AM PDT,METROPOLITAN A,
 31496825,"What journalists can learn from content creators",Fri 8/1,10:30 AM PDT,WILLOW,
 31515829,"Organizing and empowering your newsroom (Presented by SAG-AFTRA)",Fri 8/1,10:30 AM PDT,METROPOLITAN B,
-31522689,"The evolving newsroom: Navigating principles and purpose in the age of AI and streaming (Presented by FOX)",Fri 8/1,10:30 AM PDT,REDWOOD,
 31496826,"Covering race and equity in the Trump era",Fri 8/1,1 PM PDT,CEDAR,
 31496827,"Journalism under attack: Lessons from other nations",Fri 8/1,1 PM PDT,METROPOLITAN B,
 31496828,"Can you survive a night shift? Making it through the crazy hours of early career media (Presented by TNT Sports Interactive)",Fri 8/1,1 PM PDT,REDWOOD,
 31496829,"Being your own editor and CEO: Tips for creating your own media business",Fri 8/1,1 PM PDT,WILLOW,
+31535475,"Publishing power: Sally Kim and Curtis Chin on leading, storytelling and opening doors (Presented by Hachette Book Group)",Fri 8/1,1 PM PDT,ASPEN,
 31496830,"Rooted in community: Lessons from local news founders (Presented by Press Forward)",Fri 8/1,2:30 PM PDT,CEDAR,
 31496831,"Covering climate: Intersectional reporting, debunking misinformation and combating attacks on science",Fri 8/1,2:30 PM PDT,METROPOLITAN B,
 31496832,"Surviving and thriving when journalism throws you for a loop",Fri 8/1,2:30 PM PDT,WILLOW,
@@ -66,17 +73,23 @@ id,name,day,time,locations,schedule_tracks
 31496833,"Walking the digital beat: Finding sources online and on social",Fri 8/1,4 PM PDT,METROPOLITAN B,
 31515831,"Search is dead. News isn’t — if we evolve quickly (Presented by AP)",Fri 8/1,4 PM PDT,CEDAR,
 31522691,"Bylines to book covers: AAPI journalists on the path to publishing",Fri 8/1,4 PM PDT,WILLOW,
-31496834,"AAJA PDX happy hour",Fri 8/1,5 PM PDT,Other,726514
-31519943,"Northeast chapters mixer (DC, New England, NY and Philly )",Fri 8/1,5 PM PDT,,726514
-31497350,"AP reception",Fri 8/1,5:30 PM PDT,REDWOOD,726514
-31516854,"Invigorating alternative news media with Noisy Creek",Fri 8/1,6 PM PDT,Other,726514
-31496836,"AAJA STF: Summer Jam 2025",Fri 8/1,7 PM PDT,Other,726514
-31496837,"AAJA Chicago meet-up",Fri 8/1,7 PM PDT,Other,726514
+31535476,"Counting in: How journalists can bridge the AAPI census gap",Fri 8/1,4 PM PDT,METROPOLITAN A,
+31496834,"AAJA PDX happy hour",Fri 8/1,5 PM PDT,Other,Mixers/Receptions
+31519943,"Northeast chapters mixer (DC, New England, NY and Philly )",Fri 8/1,5 PM PDT,,Mixers/Receptions
+31497350,"AP reception",Fri 8/1,5:30 PM PDT,REDWOOD,Mixers/Receptions
+31516854,"Invigorating alternative news media with Noisy Creek",Fri 8/1,6 PM PDT,Other,Mixers/Receptions
+31496836,"AAJA STF: Summer Jam 2025",Fri 8/1,7 PM PDT,Other,Mixers/Receptions
+31496837,"AAJA Chicago meet-up",Fri 8/1,7 PM PDT,Other,Mixers/Receptions
 31496838,"Uncovering the numbers: Navigating gun violence data in AAPI communities (Presented by GIFFORDS)",Sat 8/2,9 AM PDT,CEDAR,
 31514466,"Identifying – and avoiding – anti-queer and anti-trans bias in the newsroom (Presented by AAJA’s LGBTQIA+ Affinity Group)",Sat 8/2,9 AM PDT,REDWOOD,
 31514469,"Covering India and the diaspora in today's geopolitical climate",Sat 8/2,9 AM PDT,ASPEN,
 31522521,"Coding help desk (Presented by News Nerds Affinity Group)",Sat 8/2,9 AM PDT,METROPOLITAN A,
+31531705,"Annual AAJA Clothing Swap: Clean out your closet and refresh your look",Sat 8/2,9 AM PDT,METROPOLITAN B,Mixers/Receptions
+31535477,"Asian women leading the newsroom in a defining era",Sat 8/2,9 AM PDT,WILLOW,
 31496839,"International reporting: Challenges and opportunities",Sat 8/2,10:30 AM PDT,ASPEN,
 31514467,"Visual Impact: Documenting your community with sensitivity and intent (Presented by Photo AG)",Sat 8/2,10:30 AM PDT,WILLOW,
+31535478,"Journalism’s unexpected move: Turning AI from threat to triumph",Sat 8/2,10:30 AM PDT,REDWOOD,
+31535479,"From headlines to Hollywood: Making the career transition from journalism to marketing (Presented by IW Group)",Sat 8/2,10:30 AM PDT,METROPOLITAN A,
+31526358,"ROSEMEAD (柔似蜜) screening (Presented by TAAF)",Sat 8/2,12 PM PDT,Other,
 31362656,"Annual gala scholarship & awards banquet (Presented by NBCUniversal)",Sat 8/2,6 PM PDT,GRAND BALLROOM,
-31519944,"Karaoke!",Sat 8/2,9 PM PDT,METROPOLITAN A,726514
+31519944,"Karaoke!",Sat 8/2,9 PM PDT,METROPOLITAN A,Mixers/Receptions
