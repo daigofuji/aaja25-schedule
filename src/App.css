@@ -4,13 +4,12 @@
   --color-secondary: #70af6d;
   --color-background: #abdae0;
 }
-body {
+html, body {
     background-color: var(--color-background);
 }
 #root {
   margin: 0 auto;
   width: 100%;
-  padding: 0 10px;
   text-align: left;
 }
 .read-the-docs {

@@ -33,6 +33,7 @@ h1 {
 }
 
 .day-selector {
+  padding-top: 6px;
   display: grid;
   grid-template-columns: 1fr 1fr 1fr 1fr;
   gap: 8px;
@@ -77,11 +78,14 @@ h1 {
 
 ul.sessions {
   list-style: none;
-  padding: 0;
-  margin: 1rem 8px 3rem;
+  padding: 0 0 30px;
+  margin: 1rem 8px 0;
   display: grid;
   gap: 8px;
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: 1fr;
+  @media (min-width: 450px) {
+    grid-template-columns: 1fr 1fr;
+  }
   @media (min-width: 650px) {
     grid-template-columns: 1fr 1fr 1fr;
   }
@@ -96,6 +100,10 @@ ul.sessions {
     border: 1px solid transparent;
     background: var(--color-primary);
     color: #fff;
+    &.other {
+      background: #abc5d3;
+      color: #333;
+    }
     font-size: 0.875rem;
     line-height: 1.1;
     padding: 0.5rem;
@@ -117,9 +125,9 @@ dialog {
   left: 50%;
   transform: translate(-50%, -50%);
   width: 85%;
-  max-width: 600px;
-  max-height: 80vh;
-  padding: 2rem;
+  max-width: min(600px, 95vw);
+  max-height: min(80vh, 500px);
+  padding: .5rem;
   border: none;
   border-radius: 12px;
   background: white;
@@ -127,6 +135,9 @@ dialog {
   box-shadow: 0 10px 25px rgba(0, 0, 0, 0.3);
   z-index: 1000;
   overflow-y: auto;
+  @media (min-width: 600px) {
+    padding: 1rem;
+  }
   
   &::backdrop {
     background: rgba(0, 0, 0, 0.5);
@@ -146,7 +157,11 @@ dialog {
     margin-bottom: 1rem;
   }
   
-  button {
+  button, .button {
+    display: inline-block;
+    margin-right: 0.5rem;
+    font-size: 0.875rem;
+    line-height: 1;
     margin-top: 1.5rem;
     padding: 0.75rem 1.5rem;
     border: none;

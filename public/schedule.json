@@ -1,5 +1,5 @@
 {
-  "total_sessions": 81,
+  "total_sessions": 96,
   "pages_fetched": 2,
   "sessions": [
     {
@@ -22,7 +22,7 @@
       "day": "Wed 7/30",
       "time": "10:30 AM PDT",
       "locations": [
-        "WILLOW"
+        "METROPOLITAN A"
       ],
       "tracks": []
     },
@@ -37,7 +37,7 @@
         "Other"
       ],
       "tracks": [
-        726514
+        "Mixers/Receptions"
       ]
     },
     {
@@ -66,13 +66,25 @@
     },
     {
       "id": 31496792,
-      "name": "Why reporting matters (Presented by The Athletic)",
+      "name": "Beyond the mushy middle: How to lead with your reporting (Presented by The Athletic)",
       "description": "<p>We\u2019re in a moment where the competition for eyeballs and attention is fierce. Newsrooms are navigating challenges on social and search, and staff and budgets are being slashed. With so much content and the emergence of AI, it can sometimes be hard to discern what\u2019s real or fake. But strong reporting is what makes you rise above the rest. Strong reporting teaches someone something new. It takes them behind the scenes of a story. It provides analysis of the \u201cwhy\u201d behind the \u201cwhat.\u201d It is compelling, interesting \u2014 and maybe even fun. Strong reporting helps you win the day on your beat whenever you publish a story. It gets your story to lead the daily ticker. It\u2019s being the authoritative voice on news that matters to your readers and viewers. At The Athletic, it\u2019s avoiding what our editors have coined the \u201cmessy middle.\u201d The messy middle is dutiful, not impactful, coverage. During this 90-minute session, we will explain how The Athletic approaches reporting through the perspective of reporters, editors and producers, as well as those who amplify their work: social media editors and programmers. We also will split off into small groups for participants to ask questions and share work with the panelists.</p>\n<br>\n<p><strong>Intended takeaways from this workshop:</strong></p>\n<ul>\n<li>Creativity + ideation with your editor</li>\n<li>How to win on your beat every day</li>\n<li>Relationship/source development</li>\n<li>Being a pro on the beat + holding yourself to a higher standard</li>\n<li>Ways to bolster your storytelling</li>\n<li>Cross-promoting + amplifying your work</li>\n<li>AANHPI coverage: data + trends</li>\n</ul>",
       "start_time": "2025-07-30T19:30:00.000000+0000",
       "day": "Wed 7/30",
       "time": "12:30 PM PDT",
       "locations": [
         "METROPOLITAN B"
+      ],
+      "tracks": []
+    },
+    {
+      "id": 31496794,
+      "name": "The evolving power and complexity of the AAPI electorate (Presented by APIAVote)",
+      "description": "<p>Asian Americans and Pacific Islanders are the fastest-growing electorate. As their numbers and influence increase, understanding their voting patterns, motivations and barriers has never been more critical. This session explores key trends in turnout, party preference, issue salience and voting challenges uniquely affecting AAPI communities.</p>\n<br>\n<p>From language access to voter mobilization and decreasing enthusiasm, Christine Chen, co-founder and executive director of APIAVote, along with grassroots organizers from Washington state and beyond, will share what they\u2019re seeing on the ground \u2014 and how journalists can better cover AAPI stories in this pivotal moment.</p>",
+      "start_time": "2025-07-30T19:30:00.000000+0000",
+      "day": "Wed 7/30",
+      "time": "12:30 PM PDT",
+      "locations": [
+        "REDWOOD"
       ],
       "tracks": []
     },
@@ -125,14 +137,14 @@
       "tracks": []
     },
     {
-      "id": 31496794,
-      "name": "The evolving power and complexity of the AAPI electorate (Presented by APIAVote)",
-      "description": "<p>Asian Americans and Pacific Islanders are the fastest-growing electorate. As their numbers and influence increase, understanding their voting patterns, motivations and barriers has never been more critical. This session explores key trends in turnout, party preference, issue salience and voting challenges uniquely affecting AAPI communities.</p>\n<br>\n<p>From language access to voter mobilization and decreasing enthusiasm, Christine Chen, co-founder and executive director of APIAVote, along with grassroots organizers from Washington state and beyond, will share what they\u2019re seeing on the ground \u2014 and how journalists can better cover AAPI stories in this pivotal moment.</p>",
+      "id": 31535471,
+      "name": "Prying loose public records (Presented by Investigative Reporters & Editors)",
+      "description": "<p>A broad introduction to using open records laws at the federal and state levels, customized for your coverage area. You\u2019ll also receive a checklist of all you need to know before you make a request.</p>",
       "start_time": "2025-07-30T21:30:00.000000+0000",
       "day": "Wed 7/30",
       "time": "2:30 PM PDT",
       "locations": [
-        "WILLOW"
+        "REDWOOD"
       ],
       "tracks": []
     },
@@ -159,7 +171,7 @@
         "METROPOLITAN A"
       ],
       "tracks": [
-        726514
+        "Mixers/Receptions"
       ]
     },
     {
@@ -171,7 +183,21 @@
       "time": "6 PM PDT",
       "locations": [],
       "tracks": [
-        726514
+        "Mixers/Receptions"
+      ]
+    },
+    {
+      "id": 31526353,
+      "name": "AAJA Broadcast Futures fundraising reception",
+      "description": "<p>Join us to celebrate AAJA members working in local radio and television newsrooms across the country! Proceeds from this year&#x27;s ticket sales will primarily benefit the AAJA Futures Fund. Registration and ticket purchase required in advance by invitation.</p>\n<br>\n<p><u><a href=\"https://www.zeffy.com/ticketing/broadcast-futures\" target=\"_blank\">https://www.zeffy.com/ticketing/broadcast-futures</a></u></p>",
+      "start_time": "2025-07-31T01:30:00.000000+0000",
+      "day": "Wed 7/30",
+      "time": "6:30 PM PDT",
+      "locations": [
+        "Other"
+      ],
+      "tracks": [
+        "Mixers/Receptions"
       ]
     },
     {
@@ -237,12 +263,24 @@
     {
       "id": 31496801,
       "name": "NBCU Academy: In conversation with Vicky Nguyen: Identity, resilience and breaking through (Presented by NBC)",
-      "description": "<p>In her deeply personal new memoir \u201cBoat Baby: A Memoir,\u201d NBC News anchor and correspondent Vicky Nguyen pays tribute to her parents\u2019 sacrifice and the journey that brought her from refugee to national news anchor. In this inspiring conversation, Vicky shares how her Vietnamese American identity shaped her path in journalism, the lessons learned from local newsrooms coast to coast, and how she brings her full self to the anchor desk. Don\u2019t miss this powerful session on belonging, perseverance and what it means to tell stories that matter \u2014 from the inside out. </p>\n<br>\n<p>This session is part of the NBCU Academy Workshops and is open to all convention participants. To learn more about NBCU Academy at AAJA: <a href=\"https://nbcuacademy.com/event/aaja-2025/\">https://nbcuacademy.com/event/aaja-2025/</a></p>",
+      "description": "<p>In her deeply personal new memoir, <em>Boat Baby: A Memoir</em>, NBC News anchor and correspondent Vicky Nguyen pays tribute to her parents\u2019 sacrifice and the journey that brought her from refugee to national news anchor. In this inspiring conversation, Nguyen shares how her Vietnamese American identity shaped her path in journalism, the lessons she learned from local newsrooms across the country, and how she brings her full self to the anchor desk. Don\u2019t miss this powerful session on belonging, perseverance and what it means to tell stories that matter \u2014 from the inside out.</p>\n<br>\n<p>This session is part of the NBCU Academy Workshops and is open to all convention participants. To learn more about NBCU Academy at AAJA: <a href=\"https://nbcuacademy.com/event/aaja-2025/\">https://nbcuacademy.com/event/aaja-2025/</a></p>",
       "start_time": "2025-07-31T16:00:00.000000+0000",
       "day": "Thur 7/31",
       "time": "9 AM PDT",
       "locations": [
         "WILLOW"
+      ],
+      "tracks": []
+    },
+    {
+      "id": 31536811,
+      "name": "ABC Storyteller Summit",
+      "description": "<p>Details to follow</p>",
+      "start_time": "2025-07-31T17:00:00.000000+0000",
+      "day": "Thur 7/31",
+      "time": "10 AM PDT",
+      "locations": [
+        "METROPOLITAN A"
       ],
       "tracks": []
     },
@@ -272,7 +310,7 @@
     },
     {
       "id": 31515825,
-      "name": "Breaking barriers: AAPI women leading in corporate America (Presented by JPMorgan, Lush Decor, CKA)",
+      "name": "Breaking barriers: AAPI women leading in corporate America",
       "description": "<p>From the boardroom to the C-suite, AAPI women continue to challenge stereotypes and reshape leadership in some of the world\u2019s most influential companies. Join dynamic leaders from JPMorgan Chase, Lush Decor and the Council of Korean Americans as they share personal stories, career insights and the realities of navigating identity, culture and power in the corporate world. This conversation will explore how they lead with authenticity, advocate for equity, and build pathways for the next generation \u2014 all through the lens of their experiences as AAPI women.</p>",
       "start_time": "2025-07-31T17:30:00.000000+0000",
       "day": "Thur 7/31",
@@ -296,11 +334,11 @@
     },
     {
       "id": 31496804,
-      "name": "The art of the interview: Asking questions that matter (Presented by NBCU Academy Workshop)",
-      "description": "<p>Great interviews are built on thoughtful questions, sharp instincts and genuine curiosity. In this interactive session, you\u2019ll learn the art of asking better questions \u2014 from setting the tone to knowing when to stay silent. Through real-world examples and guided discussions, you\u2019ll gain practical tools to build trust, spark emotion or unlock a headline. We\u2019ll cover techniques for approaching interviews with public officials, experts and people impacted by breaking or tragic events. Whether reporting for on-air, print or digital platforms, this session will help you grow not just as a journalist, but also as a better communicator, listener and storyteller. </p>\n<br>\n<p>This session is part of the NBCU Academy Workshops and is open to all convention participants. However, if you\u2019d like to take part in the interactive interview sessions with an NBCU professor, please apply in advance here: <a href=\"https://nbcuacademy.com/event/aaja-2025/\">https://nbcuacademy.com/event/aaja-2025/</a></p>",
-      "start_time": "2025-07-31T18:00:00.000000+0000",
+      "name": "NBCU Academy workshop: The art of the interview \u2014 asking questions that matter (plus HelloHive)",
+      "description": "<p>Great interviews are built on thoughtful questions, sharp instincts and genuine curiosity. In this interactive session, you\u2019ll learn the art of asking better questions \u2014 from setting the tone to knowing when to stay silent. Through real-world examples and guided discussions, you\u2019ll gain practical tools to build trust, spark emotion or unlock a headline. We\u2019ll cover techniques for approaching interviews with public officials, experts and people affected by breaking or tragic events. Whether reporting for on-air, print or digital platforms, this session will help you grow not just as a journalist but as a better communicator, listener and storyteller.</p>\n<br>\n<p>This session is part of the NBCU Academy Workshops and is open to all convention participants. However, if you\u2019d like to take part in the interactive interview sessions with an NBCU professor, please apply in advance here: <a href=\"https://nbcuacademy.com/event/aaja-2025/\">https://nbcuacademy.com/event/aaja-2025/</a></p>",
+      "start_time": "2025-07-31T17:45:00.000000+0000",
       "day": "Thur 7/31",
-      "time": "11 AM PDT",
+      "time": "10:45 AM PDT",
       "locations": [
         "WILLOW"
       ],
@@ -309,10 +347,10 @@
     {
       "id": 31496805,
       "name": "Level up: NBCU Academy\u2019s exclusive journalism workshop experience",
-      "description": "<p>Step inside the newsroom with NBCU Academy. We're offering a one-day, invite-only experience packed with practical skills and powerful conversations with award-winning journalists at NBC News, NBCU Local, Telemundo, CNBC and MSNBC. Learn through immersive workshops on writing, interviewing and storytelling for TV, streaming and digital - all with real-time feedback. Participants will also have exclusive access to the HelloHive team, who will offer advice on your resume. If you're curious, driven and ready to grow - this is where your next level begins.\n <br> \n <br> To learn more about NBCU Academy at AAJA: <a href=\"https://nbcuacademy.com/event/aaja-2025/\">https://nbcuacademy.com/event/aaja-2025/</a>\n</p>",
-      "start_time": "2025-07-31T18:00:00.000000+0000",
+      "description": "<p>Step inside the newsroom with NBCU Academy. We&#x27;re offering a one-day, invite-only experience packed with practical skills and powerful conversations with award-winning journalists from NBC News, NBCU Local, Telemundo, CNBC and MSNBC. Learn through immersive workshops on writing, interviewing and storytelling for TV, streaming and digital \u2014 all with real-time feedback. Participants will also get exclusive access to the HelloHive team, who will offer advice on resumes. If you&#x27;re curious, driven and ready to grow, this is where your next level begins.<br> <br> To learn more about NBCU Academy at AAJA: <a href=\"https://nbcuacademy.com/event/aaja-2025/\">https://nbcuacademy.com/event/aaja-2025/</a></p>",
+      "start_time": "2025-07-31T17:45:00.000000+0000",
       "day": "Thur 7/31",
-      "time": "11 AM PDT",
+      "time": "10:45 AM PDT",
       "locations": [
         "WILLOW"
       ],
@@ -321,7 +359,7 @@
     {
       "id": 31496806,
       "name": "News Nerds networking casual lunch gathering",
-      "description": "<p>Join the News Nerds for a casual networking lunch! Thursday July 31 11:30 -1 PM. </p>\n<br>\n<p>If your work at AAJA touches technology, data, or coding in any way, we&#x27;d love for you to join us.</p>\n<br>\n<p>Let&#x27;s connect, share ideas, and enjoy a relaxed meal together. </p>\n<br>\n<p>Everyone is welcome (bring a friend!) but RSVP is appreciated for reservations: <a href=\"https://aajanerds25.rsvpify.com/\">https://aajanerds25.rsvpify.com/</a></p>",
+      "description": "<p>Join the News Nerds for a casual networking lunch! Thursday July 31 11:30 -1 PM. </p>\n<br>\n<p>The mission of AAJA\u2019s News Nerds is to bridge the gap between tech and the newsroom, by enhanced traditional storytelling methods through new data and technology, which is becoming more critical as the news industry continues changing rapidly. Its members consist of professionals who are data reporters, news developers, designers, audience engagement specialists and graphics reporters.</p>\n<br>\n<p>If your work touches technology, data, or coding in any way, we&#x27;d love for you to join us. Let&#x27;s connect, share ideas, and enjoy a relaxed meal together. </p>\n<br>\n<p>Everyone is welcome (bring a friend!), but RSVP is appreciated for reservations (not required!): <a href=\"https://aajanerds25.rsvpify.com/\">https://aajanerds25.rsvpify.com/</a></p>",
       "start_time": "2025-07-31T18:30:00.000000+0000",
       "day": "Thur 7/31",
       "time": "11:30 AM PDT",
@@ -329,7 +367,7 @@
         "Other"
       ],
       "tracks": [
-        726514
+        "Mixers/Receptions"
       ]
     },
     {
@@ -358,11 +396,23 @@
     },
     {
       "id": 31496807,
-      "name": "What every journalist needs to know about personal finance (CNBC Presents)",
-      "description": "<p>When you\u2019re chasing deadlines or covering the latest market moves, your own finances can end up on the back burner. Knowing how to manage your money is just as important as knowing how to cover the story. Join Sharon Epperson, CNBC\u2019s senior personal finance correspondent, for a candid and practical conversation about what every journalist \u2014 no matter your beat or career stage \u2014 should know about personal finance. Whether you\u2019re just starting out or leveling up in your career, this is your opportunity to gain the tools and confidence to take charge of your financial futures. This session is part of the NBCU Academy Workshops and is open to all convention participants. To learn more about NBCU Academy at AAJA: <a href=\"https://nbcuacademy.com/event/aaja-2025/\">https://nbcuacademy.com/event/aaja-2025/</a></p>",
-      "start_time": "2025-07-31T20:30:00.000000+0000",
+      "name": "CNBC presents: What every journalist should know about personal finance",
+      "description": "<p>When you\u2019re chasing deadlines or covering the latest market moves, your own finances can end up on the back burner. Knowing how to manage your money is just as important as knowing how to cover the story. Join Sharon Epperson, CNBC\u2019s senior personal finance correspondent, for a candid and practical conversation about what every journalist\u2014no matter your beat or career stage\u2014should know about personal finance. Whether you\u2019re just starting out or leveling up in your career, this is your opportunity to gain the tools and confidence to take charge of your financial future.</p>\n<br>\n<p>This session is part of the NBCU Academy Workshops and is open to all convention participants. To learn more about NBCU Academy at AAJA: <a href=\"https://nbcuacademy.com/event/aaja-2025/\">https://nbcuacademy.com/event/aaja-2025/</a></p>",
+      "start_time": "2025-07-31T20:15:00.000000+0000",
       "day": "Thur 7/31",
-      "time": "1:30 PM PDT",
+      "time": "1:15 PM PDT",
+      "locations": [
+        "WILLOW"
+      ],
+      "tracks": []
+    },
+    {
+      "id": 31524866,
+      "name": "Vicky Nguyen\u2019s book signing (presented by NBCU Academy)",
+      "description": "<p>NBC News anchor and correspondent Vicky Nguyen signs copies of her new memoir \u201c<em>Boat Baby.\u201d</em></p>",
+      "start_time": "2025-07-31T20:15:00.000000+0000",
+      "day": "Thur 7/31",
+      "time": "1:15 PM PDT",
       "locations": [
         "WILLOW"
       ],
@@ -381,14 +431,26 @@
       "tracks": []
     },
     {
-      "id": 31496809,
-      "name": "ESPN Sports Media Summit: So you want to be a modern-day storyteller",
-      "description": "<p>The changing nature of storytelling and careers in journalism, a conversation with a trio of ESPN experts: Mina Kimes, podcaster, journalist and studio show veteran; Wright Thompson, NYT best-selling author, senior writer, executive producer; and Chin Wang, vice president of Design, Creative Systems and Strategy.</p>",
+      "id": 31535472,
+      "name": "So you want to be a modern-day storyteller (Presented by ESPN)",
+      "description": "<p>Explore the evolving nature of storytelling and journalism careers in a conversation with three ESPN experts: Mina Kimes, podcaster, journalist and studio show veteran; Wright Thompson, New York Times best-selling author, senior writer and executive producer; and Xuan Thai, senior writer, producer and former network executive.</p>",
       "start_time": "2025-07-31T21:00:00.000000+0000",
       "day": "Thur 7/31",
       "time": "2 PM PDT",
       "locations": [
-        "METROPOLITAN A"
+        "REDWOOD"
+      ],
+      "tracks": []
+    },
+    {
+      "id": 31534778,
+      "name": "\u2018Here\u2019s the Scoop\u2019: How to launch a successful podcast (Presented by NBCU Academy)",
+      "description": "<p>It\u2019s a running joke that everyone seems to have a podcast these days \u2014 but what does it take to launch a successful one? Join the leaders and hosts behind NBC News\u2019 new daily podcast <em>Here\u2019s the Scoop</em> for a frank discussion about standing out in a crowded field, finding an audience, and why journalists need to be able to tell stories across multiple platforms.</p>\n<br>\n<p>This session is part of the NBCU Academy Workshops and is open to all convention participants. However, if you\u2019d like to have your script reviewed, please apply in advance here: <a href=\"https://nbcuacademy.com/event/aaja-2025/\">https://nbcuacademy.com/event/aaja-2025/</a></p>",
+      "start_time": "2025-07-31T21:15:00.000000+0000",
+      "day": "Thur 7/31",
+      "time": "2:15 PM PDT",
+      "locations": [
+        "WILLOW"
       ],
       "tracks": []
     },
@@ -400,7 +462,7 @@
       "day": "Thur 7/31",
       "time": "2:30 PM PDT",
       "locations": [
-        "METROPOLITAN B"
+        "ASPEN"
       ],
       "tracks": []
     },
@@ -412,19 +474,43 @@
       "day": "Thur 7/31",
       "time": "2:30 PM PDT",
       "locations": [
-        "ASPEN"
+        "METROPOLITAN B"
       ],
       "tracks": []
     },
     {
       "id": 31496811,
-      "name": "NBCU Academy: Script Doctor (Presented by NBCU)",
-      "description": "<p>Great journalism doesn\u2019t live in just one format. Whether you\u2019re turning a digital article into a broadcast script or adapting an on-air story for digital, the power is in how you write and adapt. Hear from NBCU News Group journalists who\u2019ve mastered storytelling across platforms, then get personal feedback from our local news directors and NBC News Digital editors. Bring a printed or digital copy of either a script or an article. Sign up in advance to reserve your one-on-one critique. </p>\n<br>\n<p>This session is part of the NBCU Academy Workshops and is open to all convention participants. However, if you\u2019d like to have your script reviewed, please apply in advance here: <a href=\"https://nbcuacademy.com/event/aaja-2025/\">https://nbcuacademy.com/event/aaja-2025/</a> <br> </p>",
-      "start_time": "2025-07-31T21:45:00.000000+0000",
+      "name": "NBCU Academy script doctor",
+      "description": "<p>Great journalism doesn\u2019t live in just one format. Whether you\u2019re turning a digital article into a broadcast script or adapting an on-air story for digital, the power is in how you write and adapt. Hear from NBCU News Group journalists who\u2019ve mastered storytelling across platforms, then get personalized feedback from local news directors and NBC News Digital editors. Bring a printed or digital copy of either a script or article. Sign up in advance to reserve your one-on-one critique.</p>\n<br>\n<p>This session is part of the NBCU Academy Workshops and is open to all convention participants. However, if you\u2019d like to have your script reviewed, please apply in advance here: <a href=\"https://nbcuacademy.com/event/aaja-2025/\">https://nbcuacademy.com/event/aaja-2025/</a> <br> </p>",
+      "start_time": "2025-07-31T22:15:00.000000+0000",
       "day": "Thur 7/31",
-      "time": "2:45 PM PDT",
+      "time": "3:15 PM PDT",
       "locations": [
         "WILLOW"
+      ],
+      "tracks": []
+    },
+    {
+      "id": 31535473,
+      "name": "What\u2019s next for journalism and content creation \u2014 and how to build your place in it (Presented by ESPN)",
+      "description": "<p>From streaming and newspapers to podcasts and live events, storytelling is happening across every platform. But where will it be in five years \u2014 and how can you build a lasting career in it? Hear from ESPN senior executives Chin Wang, vice president of design, creative systems and strategy; Mike McQuade, executive vice president of sports production; Mike Foss, senior vice president of sports studio and entertainment; and Kevin Neghandi, SportsCenter and studio host.</p>",
+      "start_time": "2025-07-31T22:30:00.000000+0000",
+      "day": "Thur 7/31",
+      "time": "3:30 PM PDT",
+      "locations": [
+        "REDWOOD"
+      ],
+      "tracks": []
+    },
+    {
+      "id": 31496822,
+      "name": "Real and practical use cases for AI in your newsroom",
+      "description": "<p>AI is here and it\u2019s not going away. The technology is only getting better, faster and closer to making journalism easier. Hear from newsroom technologists and leaders on how they\u2019re using AI in ethical ways to make news production more efficient. We\u2019ll talk about how AI has sped up transcription, supported data cleanup and discovery, and deepened user engagement. </p>",
+      "start_time": "2025-07-31T23:00:00.000000+0000",
+      "day": "Thur 7/31",
+      "time": "4 PM PDT",
+      "locations": [
+        "METROPOLITAN B"
       ],
       "tracks": []
     },
@@ -436,19 +522,19 @@
       "day": "Thur 7/31",
       "time": "4 PM PDT",
       "locations": [
-        "METROPOLITAN B"
+        "ASPEN"
       ],
       "tracks": []
     },
     {
-      "id": 31496812,
-      "name": "ESPN Sports Media Summit: Society and sports",
-      "description": "<p>Finding short and longform narratives in war coverage, politics, health and safety, other societal realities, with ESPN journalists Katie Barnes, senior writer and transgender sports issues expert; Elaine Teng, senior investigative editor; Wright Thompson, senior writer; and Jeremy Schaap, veteran studio show host and television reporter.</p>",
+      "id": 31535474,
+      "name": "Society and sports: Telling stories that matter (Presented by ESPN)",
+      "description": "<p>Where do stories about war, politics, health and identity meet the world of sports? Learn how ESPN journalists craft meaningful short- and longform narratives with Katie Barnes, senior writer and transgender sports issues expert; Maddie Rundlett, associate producer with E60 and ESPN Original Content; Elaine Teng, senior investigative editor; and Wright Thompson, senior writer and executive producer.</p>",
       "start_time": "2025-07-31T23:45:00.000000+0000",
       "day": "Thur 7/31",
       "time": "4:45 PM PDT",
       "locations": [
-        "METROPOLITAN A"
+        "REDWOOD"
       ],
       "tracks": []
     },
@@ -463,7 +549,7 @@
         "Other"
       ],
       "tracks": [
-        726514
+        "Mixers/Receptions"
       ]
     },
     {
@@ -474,10 +560,10 @@
       "day": "Thur 7/31",
       "time": "5 PM PDT",
       "locations": [
-        "ASPEN"
+        "METROPOLITAN A"
       ],
       "tracks": [
-        726514
+        "Mixers/Receptions"
       ]
     },
     {
@@ -491,8 +577,20 @@
         "Other"
       ],
       "tracks": [
-        726514
+        "Mixers/Receptions"
       ]
+    },
+    {
+      "id": 31524870,
+      "name": "Funny, fierce and flipping the script with NBCU\u2019s \u201cSt. Denis Medical\u201d and \u201cThe Paper\u201d",
+      "description": "<p>Join the NBCU cast and creatives from NBC\u2019s <em>St. Denis Medical</em> and Peacock\u2019s <em>The Paper</em> as they talk about how they\u2019re challenging outdated tropes and creating fresh, authentic portrayals of Asian women in comedy today. Moderated by MSNBC\u2019s Yasmin Vossoughian, the panel will feature <em>St. Denis Medical</em> executive producer Vicky Luu and star Kahyun Kim, alongside <em>The Paper</em> series regular Ramona Young. <em>St. Denis Medical</em> and <em>The Paper</em> are both produced by Universal Studio Group.</p>",
+      "start_time": "2025-08-01T00:00:00.000000+0000",
+      "day": "Thur 7/31",
+      "time": "5 PM PDT",
+      "locations": [
+        "WILLOW"
+      ],
+      "tracks": []
     },
     {
       "id": 31496816,
@@ -505,7 +603,7 @@
         "Other"
       ],
       "tracks": [
-        726514
+        "Mixers/Receptions"
       ]
     },
     {
@@ -519,7 +617,7 @@
         "Other"
       ],
       "tracks": [
-        726514
+        "Mixers/Receptions"
       ]
     },
     {
@@ -533,7 +631,7 @@
         "Other"
       ],
       "tracks": [
-        726514
+        "Mixers/Receptions"
       ]
     },
     {
@@ -547,7 +645,7 @@
         "Other"
       ],
       "tracks": [
-        726514
+        "Mixers/Receptions"
       ]
     },
     {
@@ -575,9 +673,21 @@
       "tracks": []
     },
     {
-      "id": 31496821,
-      "name": "Covering and engaging Pacific Islanders",
-      "description": "<p>Join APIAVote for a workshop diving into the latest election data and voting challenges uniquely affecting AAPI communities. From language access to voter suppression, we\u2019ll examine the barriers limiting civic participation. Grassroots organizers from Washington state and beyond will share what they\u2019re seeing on the ground\u2014and how journalists can better cover the AAPI electorate in this critical time.</p>",
+      "id": 31534905,
+      "name": "So you want to be a food writer?",
+      "description": "<p>This panel will look at how to successfully cover food \u2013 one of the most lucrative topics for many media organizations \u2013 at every level: national, local and as an individual contributor. We\u2019ll look at how the coverage of AANHPI food has evolved over the years, how social media has changed the game for good, and how you can break in.</p>",
+      "start_time": "2025-08-01T16:00:00.000000+0000",
+      "day": "Fri 8/1",
+      "time": "9 AM PDT",
+      "locations": [
+        "METROPOLITAN A"
+      ],
+      "tracks": []
+    },
+    {
+      "id": 31534907,
+      "name": "Covering and Engaging Pacific Islanders",
+      "description": "<p>Pacific Islanders are the &quot;PI&quot; afterthought in &quot;AANHPI.&quot; Learn from journalists and PI advocates on their success stories of including Pacific Islanders in reporting, storytelling, data, and policy. From the halls of Congress to social platforms to newsrooms, speakers will share strategies on persuading and making the case for coverage of and engagement of NHPIs and growing AANHPI audiences and storytelling.</p>",
       "start_time": "2025-08-01T16:00:00.000000+0000",
       "day": "Fri 8/1",
       "time": "9 AM PDT",
@@ -587,21 +697,9 @@
       "tracks": []
     },
     {
-      "id": 31496822,
-      "name": "Real and practical use cases for AI in your newsroom",
-      "description": "<p>AI is here and it\u2019s not going away. The technology is only getting better, faster and closer to making journalism easier. Hear from newsroom technologists and leaders on how they\u2019re using AI in ethical ways to make news production more efficient. We\u2019ll talk about how AI has sped up transcription, supported data cleanup and discovery, and deepened user engagement. </p>",
-      "start_time": "2025-08-01T16:00:00.000000+0000",
-      "day": "Fri 8/1",
-      "time": "9 AM PDT",
-      "locations": [
-        "WILLOW"
-      ],
-      "tracks": []
-    },
-    {
-      "id": 31522688,
-      "name": "We got NOW: Navigating the women\u2019s sports boom (Presented by AAJA Sports Task Force)",
-      "description": "<p>With the WNBA and NWSL expanding, franchise valuations skyrocketing, and stars like Caitlin Clark capturing national attention, women\u2019s sports are no longer a niche \u2014 they\u2019re a movement. This panel explores the best practices and challenges in covering leagues that are rapidly growing and attracting new audiences. What should journalists know when stepping into this evolving space? And what new opportunities await those ready to lead the coverage of women\u2019s sports in this pivotal moment?</p>",
+      "id": 31536800,
+      "name": "Turning clicks into credibility: Growing a social media presence that opens doors (Presented by AAJA Sports Task Force)",
+      "description": "<p>Your social media presence can be more than just a creative outlet \u2014 it can be a career asset. In this panel, top media professionals and content creators share how they\u2019ve built meaningful followings across platforms \u2014 and how you can too. Learn platform-specific strategies, what makes content resonate, and how to turn your online presence into a tool that supports your professional goals, from job interviews to brand partnerships.</p>",
       "start_time": "2025-08-01T16:00:00.000000+0000",
       "day": "Fri 8/1",
       "time": "9 AM PDT",
@@ -659,9 +757,9 @@
       "tracks": []
     },
     {
-      "id": 31522689,
-      "name": "The evolving newsroom: Navigating principles and purpose in the age of AI and streaming (Presented by FOX)",
-      "description": "<p>This panel brings together executive producers and content leaders to discuss how core journalistic principles\u2014such as accuracy, fairness, independence and accountability\u2014are being upheld and adapted in modern newsrooms. The conversation will explore the impact of AI integration, evolving skill sets, the role of crowdsourcing and the growing influence of streaming on content delivery and audience engagement.</p>",
+      "id": 31522688,
+      "name": "We got NOW: Navigating the women\u2019s sports boom (Presented by AAJA Sports Task Force)",
+      "description": "<p>With the WNBA and NWSL expanding, franchise valuations skyrocketing, and stars like Caitlin Clark capturing national attention, women\u2019s sports are no longer a niche \u2014 they\u2019re a movement. This panel explores the best practices and challenges in covering leagues that are rapidly growing and attracting new audiences. What should journalists know when stepping into this evolving space? And what new opportunities await those ready to lead the coverage of women\u2019s sports in this pivotal moment?</p>",
       "start_time": "2025-08-01T17:30:00.000000+0000",
       "day": "Fri 8/1",
       "time": "10:30 AM PDT",
@@ -715,6 +813,18 @@
       "time": "1 PM PDT",
       "locations": [
         "WILLOW"
+      ],
+      "tracks": []
+    },
+    {
+      "id": 31535475,
+      "name": "Publishing power: Sally Kim and Curtis Chin on leading, storytelling and opening doors (Presented by Hachette Book Group)",
+      "description": "<p>Join us for a candid fireside conversation with Sally Kim, president and publisher of Little, Brown and Co. at Hachette Book Group \u2014 and the first Asian American to lead a major U.S. publishing imprint \u2014 and Curtis Chin, award-winning memoirist, filmmaker and co-founder of the Asian American Writers\u2019 Workshop. As the publishing industry faces rapid shifts in 2025, from digital disruption to evolving reader expectations, these two trailblazers offer rare insight into shaping literary culture from both sides of the page \u2014 editorial and authorial. <br>  <br> Moderated by NBC News senior correspondent Vicky Nguyen, the conversation will explore Kim\u2019s rise through the publishing ranks, Chin\u2019s journey from Detroit\u2019s Chinatown to the national bestseller list, and how both navigate risk, representation and innovation in a legacy-driven field. Together, they\u2019ll reflect on what it means to open doors for underrepresented voices, lead with clarity and vision, and use storytelling as a tool for cultural impact.</p>",
+      "start_time": "2025-08-01T20:00:00.000000+0000",
+      "day": "Fri 8/1",
+      "time": "1 PM PDT",
+      "locations": [
+        "ASPEN"
       ],
       "tracks": []
     },
@@ -817,12 +927,24 @@
     {
       "id": 31522691,
       "name": "Bylines to book covers: AAPI journalists on the path to publishing",
-      "description": "<p>For many AAPI journalists, the leap from newsroom deadlines to book publishing can feel both exhilarating and daunting. How do you translate reporting skills into longform storytelling \u2014 whether memoir, nonfiction or fiction \u2014 and navigate an industry that still lacks diverse representation? This panel offers a 360-degree view of the journalist-to-author journey, centering the unique experiences of Asian American voices. <br> Hear from Sally Kim, the first Asian American publisher at a major publishing house; Sara Kehaulani Goo, a newsroom leader and nonfiction author; novelist and journalist Parul Kapur; and literary agent Howard Yoon, who has helped shape numerous authorial careers. Moderated by Katherine Reynolds Lewis, author and founder of the Institute for Independent Journalists, the conversation will explore creative pivots, industry insights and the power of Asian American storytelling in shaping both media and literature.</p>",
+      "description": "<p>For many AAPI journalists, the leap from newsroom deadlines to book publishing can feel both exhilarating and daunting. How do you translate reporting skills into longform storytelling \u2014 whether memoir, nonfiction, or fiction \u2014 and navigate an industry that still lacks diverse representation? This panel offers a 360-degree view of the journalist-to-author journey, centering the unique experiences of Asian American voices.</p>\n<p>Hear from Sally Kim, the first Asian American publisher at a major publishing house; Sara Kehaulani Goo, a newsroom leader and nonfiction author; novelist and journalist Parul Kapur; and literary agent Howard Yoon, who has helped shape numerous authorial careers. Moderated by Katherine Reynolds Lewis, author and founder of the Institute for Independent Journalists, the conversation will explore creative pivots, industry insights, and the power of Asian American storytelling in shaping both media and literature.</p>",
       "start_time": "2025-08-01T23:00:00.000000+0000",
       "day": "Fri 8/1",
       "time": "4 PM PDT",
       "locations": [
         "WILLOW"
+      ],
+      "tracks": []
+    },
+    {
+      "id": 31535476,
+      "name": "Counting in: How journalists can bridge the AAPI census gap",
+      "description": "<p>The next U.S. Census will take place in 2030, shaping the nation\u2019s political representation, funding distribution and public policy for the next decade. Yet AAPI communities have historically been undercounted due to language barriers, mistrust of government, complex multigenerational households and lack of outreach. Smaller AAPI subgroups are especially at risk of being overlooked, leading to hidden disparities in resources for education, health and social services. <br> In this session, leaders at the forefront of Census outreach to AAPI communities discuss how accurate data can better reflect AAPI communities \u2014 and how newsrooms can help monitor progress towards Census 2030.</p>",
+      "start_time": "2025-08-01T23:00:00.000000+0000",
+      "day": "Fri 8/1",
+      "time": "4 PM PDT",
+      "locations": [
+        "METROPOLITAN A"
       ],
       "tracks": []
     },
@@ -837,7 +959,7 @@
         "Other"
       ],
       "tracks": [
-        726514
+        "Mixers/Receptions"
       ]
     },
     {
@@ -849,7 +971,7 @@
       "time": "5 PM PDT",
       "locations": [],
       "tracks": [
-        726514
+        "Mixers/Receptions"
       ]
     },
     {
@@ -863,7 +985,7 @@
         "REDWOOD"
       ],
       "tracks": [
-        726514
+        "Mixers/Receptions"
       ]
     },
     {
@@ -877,7 +999,7 @@
         "Other"
       ],
       "tracks": [
-        726514
+        "Mixers/Receptions"
       ]
     },
     {
@@ -891,7 +1013,7 @@
         "Other"
       ],
       "tracks": [
-        726514
+        "Mixers/Receptions"
       ]
     },
     {
@@ -905,7 +1027,7 @@
         "Other"
       ],
       "tracks": [
-        726514
+        "Mixers/Receptions"
       ]
     },
     {
@@ -947,12 +1069,38 @@
     {
       "id": 31522521,
       "name": "Coding help desk (Presented by News Nerds Affinity Group)",
-      "description": "<p>Having trouble wrangling city hall data? Want to use Mapbox or Datawrapper in a story but don\u2019t know where to start? Design issues? Or just curious about what data journalism looks like? Bring your laptop! This peer-to-peer, collaborative session is a chance to get hands-on help and support from fellow journalists as we share knowledge and tackle technical hurdles together. News Nerds members will do their best to help. All skill levels are welcome. Let\u2019s level up our data storytelling skills together.</p>",
+      "description": "<p>Having trouble wrangling city hall data? Want to use Mapbox or Datawrapper in a story but don\u2019t know where to start? Design issues? Or just curious about what data journalism looks like? Bring your laptop! This peer-to-peer, collaborative session is a chance to get hands-on help and support from fellow journalists as we share knowledge and tackle technical hurdles together. News Nerds members will do their best to help. </p>\n<br>\n<p><strong>All skill levels are welcome. </strong></p>\n<br>\n<p>Let\u2019s level up our data storytelling skills together.</p>",
       "start_time": "2025-08-02T16:00:00.000000+0000",
       "day": "Sat 8/2",
       "time": "9 AM PDT",
       "locations": [
         "METROPOLITAN A"
+      ],
+      "tracks": []
+    },
+    {
+      "id": 31531705,
+      "name": "Annual AAJA Clothing Swap: Clean out your closet and refresh your look",
+      "description": "<p>Clean out your closet and refresh your look at the <strong>annual AAJA Clothing Swap</strong>!</p>\n<br>\n<p>Bring your gently used professional clothing to the Associated Press booth (EXPO Hall) from Wednesday to Friday, then swing by room <strong>Metropolitan B</strong> on Saturday (9 AM\u201312 PM) to pick up something new-to-you.</p>\n<br>\n<p><strong>All genders welcome,</strong> and we encourage clothing for all gender expressions. All unclaimed clothing will be donated to a local charity after the event.</p>\n<p><br>We\u2019re also looking for volunteers to help out during the swap on Saturday\u2014let Corinne Chin or Jin Ding know if you\u2019re interested in lending a hand!</p>",
+      "start_time": "2025-08-02T16:00:00.000000+0000",
+      "day": "Sat 8/2",
+      "time": "9 AM PDT",
+      "locations": [
+        "METROPOLITAN B"
+      ],
+      "tracks": [
+        "Mixers/Receptions"
+      ]
+    },
+    {
+      "id": 31535477,
+      "name": "Asian women leading the newsroom in a defining era",
+      "description": "<p>At a time when democracy, press freedom, and racial equity are under increasing pressure, leadership in newsrooms has never been more critical\u2014or more visible. In this pivotal moment, as communities demand more inclusive, truthful, and nuanced coverage, Asian American women are stepping up to lead with clarity, care, and courage. Join Julia B. Chan (The 19th News), Terry Tang (Los Angeles Times), and Pam Chen (ABC7 Los Angeles) for an urgent and inspiring conversation on what it means to shape news coverage, newsroom culture, and public trust today. From combating bias to building belonging, these trailblazers are not just making space\u2014they\u2019re redefining leadership for the future of journalism.</p>",
+      "start_time": "2025-08-02T16:00:00.000000+0000",
+      "day": "Sat 8/2",
+      "time": "9 AM PDT",
+      "locations": [
+        "WILLOW"
       ],
       "tracks": []
     },
@@ -981,6 +1129,42 @@
       "tracks": []
     },
     {
+      "id": 31535478,
+      "name": "Journalism\u2019s unexpected move: Turning AI from threat to triumph",
+      "description": "<p>A roundtable on practical newsroom strategies to rethink how journalism can lead with AI <br>  <br> AI systems already leverage journalism\u2019s content \u2014 without credit, compensation or commitment to newsroom values. We\u2019ve seen this story before with classified ads and social platforms, but this time, the stakes are even higher. It\u2019s about harnessing journalism\u2019s market power in the economy and society. <br>  <br> This session brings together newsroom leaders, technologists and researchers for a candid, practical conversation about how journalism can shape the future of AI instead of just reacting to it. We\u2019ll explore asymmetric strategies for protecting content, developing new products and building business models that serve both journalism\u2019s mission and sustainability. <br>  <br> Whether you\u2019re leading AI efforts, just starting to explore them or skeptical of the hype, you\u2019ll find real-world takeaways. Walk away with operational questions to ask, ideas to test and management insights to improve your newsroom and excite your team.</p>",
+      "start_time": "2025-08-02T17:30:00.000000+0000",
+      "day": "Sat 8/2",
+      "time": "10:30 AM PDT",
+      "locations": [
+        "REDWOOD"
+      ],
+      "tracks": []
+    },
+    {
+      "id": 31535479,
+      "name": "From headlines to Hollywood: Making the career transition from journalism to marketing (Presented by IW Group)",
+      "description": "<p>Thinking about a career shift from journalism to marketing or communications? Join IW Group, a leading multicultural creative agency, for a conversation on how journalists can successfully pivot into brand strategy, public relations and entertainment marketing. With a client roster that includes nearly every major Hollywood studio, IW Group has led campaigns for titles like Crazy Rich Asians, Sh\u014dgun, Moana 2 and many more \u2014 not just for Asian American audiences, but for wide-reaching global releases. Panelists will share how core journalism skills \u2014 from storytelling and research to audience engagement \u2014 are highly transferable in the world of marketing and communications.</p>",
+      "start_time": "2025-08-02T17:30:00.000000+0000",
+      "day": "Sat 8/2",
+      "time": "10:30 AM PDT",
+      "locations": [
+        "METROPOLITAN A"
+      ],
+      "tracks": []
+    },
+    {
+      "id": 31526358,
+      "name": "ROSEMEAD (\u67d4\u4f3c\u871c) screening (Presented by TAAF)",
+      "description": "<p><strong>You\u2019re invited to a private preview screening </strong>of<strong> Lucy Liu\u2019s latest project, <u><a href=\"https://www.instagram.com/rosemeadfilm\">ROSEMEAD</a></u> (\u67d4\u4f3c\u871c)</strong>, inspired by a true story as told in an award-winning <em>Los Angeles Times </em>article by AAJA member Frank Shyong. This screening, presented by The Asian American Foundation (<u><a href=\"http://taaf.org/\">TAAF</a></u>), is exclusively for participants of #AAJA25. Priority invitations are being extended to those who RSVP \u201cYes\u201d to Gala. <strong>Space is limited and RSVPs are required.</strong></p>",
+      "start_time": "2025-08-02T19:00:00.000000+0000",
+      "day": "Sat 8/2",
+      "time": "12 PM PDT",
+      "locations": [
+        "Other"
+      ],
+      "tracks": []
+    },
+    {
       "id": 31362656,
       "name": "Annual gala scholarship & awards banquet (Presented by NBCUniversal)",
       "description": "<p>Join us for the elegant and inspiring finale of AAJA25 at the Annual Gala Scholarship &amp; Awards Banquet\u2014an evening dedicated to celebrating excellence in journalism and championing future AAPI media leaders.</p>\n<br>\n<br>",
@@ -1003,7 +1187,7 @@
         "METROPOLITAN A"
       ],
       "tracks": [
-        726514
+        "Mixers/Receptions"
       ]
     }
   ]

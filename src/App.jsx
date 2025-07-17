@@ -23,7 +23,7 @@ function App() {
 
         setSessions(data.sessions);
 
-        console.log(data.sessions)
+        // console.log(data.sessions)
       })
       .catch(error => {
         console.error('Error fetching schedule:', error)
@@ -47,7 +47,11 @@ function App() {
       <ul className="sessions">
         {/* filter by session.day === day */}
        {sessions.filter(session => session.day === day).map((session, index) => (
-          <li key={index} className="session" onClick={() => setSelectedSession(session)}>
+          <li 
+            key={index} 
+            className={`session ${session.locations?.[0] === 'Other' ? 'other' : ''}`}
+            onClick={() => setSelectedSession(session)}
+          >
             <span className="meta">
               {session.time} - {session.locations?.[0] || 'TBD'}
             </span>
@@ -64,6 +68,9 @@ function App() {
             {selectedSession.day} - {selectedSession.time} - {selectedSession.locations?.[0] || 'TBD'}
           </div>
           <div>{parse(selectedSession.description || '')}</div>
+          <a className="button" href={`https://builder.guidebook.com/g/#/guides/aaja25/schedule/sessions/${selectedSession.id}`} target="_blank" rel="noopener noreferrer">
+            View in Guidebook
+          </a>
           <button onClick={() => setSelectedSession(null)}>Close</button>
         </dialog>
       )}
