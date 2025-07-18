@@ -1,5 +1,5 @@
 {
-  "total_sessions": 96,
+  "total_sessions": 95,
   "pages_fetched": 2,
   "sessions": [
     {
@@ -25,20 +25,6 @@
         "METROPOLITAN A"
       ],
       "tracks": []
-    },
-    {
-      "id": 31497169,
-      "name": "AAJA+ mixer lunch",
-      "description": "<p>Catch up with AAJA+ TF at Tai Tung - a 5 minute Uber ride to Chinatown. Touted as Seattle\u2019s oldest Chinese restaurant, it\u2019s the site of the infamous Bruce Lee booth. (Yes, the man himself held court there after Jeet Kune Do practice!)</p>",
-      "start_time": "2025-07-30T18:30:00.000000+0000",
-      "day": "Wed 7/30",
-      "time": "11:30 AM PDT",
-      "locations": [
-        "Other"
-      ],
-      "tracks": [
-        "Mixers/Receptions"
-      ]
     },
     {
       "id": 31496790,
@@ -158,7 +144,9 @@
       "locations": [
         "METROPOLITAN A"
       ],
-      "tracks": []
+      "tracks": [
+        "Mixers/Receptions"
+      ]
     },
     {
       "id": 31360094,
@@ -176,12 +164,14 @@
     },
     {
       "id": 31496795,
-      "name": "Asia chapter mixer",
-      "description": "<p>The Asian American Journalists Association&#x27;s Asia Chapter (AAJA-Asia) warmly invites all Asia Chapter members attending the Convention and anyone interested in connecting with Asia-based AAJA members and/or eager to hear about the projects AAJA is currently leading in the Asia Pacific region to join our &quot;Asia Chapter Mixer&quot; at the AAJA Convention in Seattle on Wednesday 30 July, just after the opening reception.</p>\n<br>\n<p>RSVP here <a href=\"https://bit.ly/AsiaChapter-Mixer\">https://bit.ly/AsiaChapter-Mixer</a></p>",
-      "start_time": "2025-07-31T01:00:00.000000+0000",
+      "name": "AAJA Asia Chapter Mixer",
+      "description": "<p>Soak in Seattle\u2019s golden hour with stunning views of Elliott Bay and the Olympic Mountains\u2014one of the city\u2019s best waterfront beer moments. After the opening reception, head over to Old Stove Brewing Co. at Pike Place Market (just a 12-minute walk from the Sheraton) for good brews, scratch-made food, and great company. <br>\ud83d\uddd3 Wednesday, July 30<br>\ud83d\udd61 6:30\u20138:00 PM<br>1901 Western Ave, Seattle, WA 98101<br>No RSVP required, but we\u2019d love a heads-up. Feel free to bring friends! <a href=\"https://forms.gle/N5pn4JbZTZUeSv749\" target=\"_blank\">https://forms.gle/N5pn4JbZTZUeSv749</a></p>",
+      "start_time": "2025-07-31T01:30:00.000000+0000",
       "day": "Wed 7/30",
-      "time": "6 PM PDT",
-      "locations": [],
+      "time": "6:30 PM PDT",
+      "locations": [
+        "Other"
+      ],
       "tracks": [
         "Mixers/Receptions"
       ]
@@ -1174,7 +1164,9 @@
       "locations": [
         "GRAND BALLROOM"
       ],
-      "tracks": []
+      "tracks": [
+        "Mixers/Receptions"
+      ]
     },
     {
       "id": 31519944,
