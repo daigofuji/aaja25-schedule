@@ -4,8 +4,8 @@
   --color-secondary: #70af6d;
   --color-background: #abdae0;
 }
-html, body {
-    background-color: var(--color-background);
+body {
+    background: linear-gradient(0deg, #ffffff 0%, var(--color-background) 100%);
 }
 #root {
   margin: 0 auto;

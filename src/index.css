@@ -1,12 +1,8 @@
 :root {
-  font-family: futura-pt, sans-serif;
+  font-family: proxima-nova, futura-pt, Arial, Helvetica, sans-serif;
   line-height: 1.5;
   font-weight: 400;
-
-  color-scheme: light dark;
   color: rgba(255, 255, 255, 0.87);
-  background-color: #242424;
-
   font-synthesis: none;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
@@ -24,7 +20,6 @@ a:hover {
 
 body {
   margin: 0;
-  min-width: 320px;
 }
 
 h1 {
@@ -41,25 +36,24 @@ h1 {
   button {
     border-radius: 8px;
     border: 1px solid transparent;
-    padding: 0.3em 0;
+    padding: 1em 0;
     font-size: 1rem;
     font-weight: bold;
-    font-family: futura-pt, sans-serif;
-    background-color: var(--color-secondary);
+    font-family: proxima-nova, futura-pt, Arial, Helvetica, sans-serif;
+    background-color: #ccc;
+    color: #666;
     cursor: pointer;
     transition: border-color 0.25s;
     &.active {
-      background-color: var(--color-primary);
+      background-color: var(--color-default);
       color: #fff;
     } 
   }
   button:hover {
-    border-color: #646cff;
+    background-color: var(--color-primary);
+    color: #fff;
   }
-  button:focus,
-  button:focus-visible {
-    outline: 4px auto -webkit-focus-ring-color;
-  }
+
 }
 
 
@@ -83,30 +77,33 @@ ul.sessions {
   display: grid;
   gap: 8px;
   grid-template-columns: 1fr;
-  @media (min-width: 450px) {
+  @media (min-width: 400px) {
     grid-template-columns: 1fr 1fr;
   }
-  @media (min-width: 650px) {
+  @media (min-width: 600px) {
     grid-template-columns: 1fr 1fr 1fr;
   }
-  @media (min-width: 900px) {
+  @media (min-width: 850px) {
     grid-template-columns: 1fr 1fr 1fr 1fr;
+  }
+  @media (min-width: 1100px) {
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
   }
 
   li {
-    font-family: futura-pt, sans-serif;
+    font-family: proxima-nova, futura-pt, Arial, Helvetica, sans-serif;
     font-weight: normal;
     border-radius: 8px;
     border: 1px solid transparent;
     background: var(--color-primary);
     color: #fff;
+    font-size: 0.875rem;
+    line-height: 1.25;
+    padding: 0.5rem;
     &.other {
-      background: #abc5d3;
+      background: var(--color-secondary);
       color: #333;
     }
-    font-size: 0.875rem;
-    line-height: 1.1;
-    padding: 0.5rem;
     span {
       display: block;
       font-weight: normal;
@@ -127,7 +124,7 @@ dialog {
   width: 85%;
   max-width: min(600px, 95vw);
   max-height: min(80vh, 500px);
-  padding: .5rem;
+  padding: 1rem;
   border: none;
   border-radius: 12px;
   background: white;
@@ -135,9 +132,8 @@ dialog {
   box-shadow: 0 10px 25px rgba(0, 0, 0, 0.3);
   z-index: 1000;
   overflow-y: auto;
-  @media (min-width: 600px) {
-    padding: 1rem;
-  }
+  line-height: 1.4;
+
   
   &::backdrop {
     background: rgba(0, 0, 0, 0.5);
@@ -146,7 +142,8 @@ dialog {
   
   h3 {
     margin-top: 0;
-    margin-bottom: 1rem;
+    line-height: 1.2;
+    margin-bottom: .5rem;
     font-size: 1.25rem;
     color: var(--color-primary);
   }
@@ -154,15 +151,17 @@ dialog {
     font-size: 0.875rem;
     font-weight: bold;
     color: #666;
-    margin-bottom: 1rem;
+    margin-bottom: .5rem;
   }
-  
+  p {
+    margin: 0 0 0.5rem;
+  }
   button, .button {
     display: inline-block;
     margin-right: 0.5rem;
     font-size: 0.875rem;
     line-height: 1;
-    margin-top: 1.5rem;
+    margin-top: 0.5rem;
     padding: 0.75rem 1.5rem;
     border: none;
     border-radius: 8px;
@@ -177,11 +176,14 @@ dialog {
     }
     &.close-top {
       position: absolute;
-      top: 0;
-      right: 0;
+      padding: 0;
+      margin: 0;
+      font-size: 1.2rem;
+      top: 5px;
+      right: 10px;
       background: transparent;
       color: #aaa;
-      font-size: 1.5rem;
+      font-size: 1.8rem;
       cursor: pointer;
       border: none;
       &:hover {
@@ -198,9 +200,19 @@ dialog {
   }
 }
 
-// print styles
 @media print {
+  .day-selector {
+     button {
+      color: white;
+      &.active {
+        color: black;
+        background: white;
+      }
+    }
+  }
   ul.sessions li {
     border: 1px solid black;
+    color: black;
+    background: white;
   }
 }
