@@ -46,6 +46,14 @@ see memo.md for more details
 To deploy, simply run `npm run deploy` in the root directory. which will push contents of /dist to the `gh-pages` branch.
 
 
+**To embed the github page** use following code in your HTML <CODE> part of  file:
+
+```html
+<side-chain src="https://daigofuji.github.io/aaja25-schedule/"></side-chain>
+<script src="https://apps.npr.org/sidechain/loader.js"></script>
+```
+
+
 # Vite + React
 
 This project was made with Node v20.19.0.

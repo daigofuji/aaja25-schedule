@@ -1,5 +1,6 @@
 import { useState, useEffect } from 'react'
 import parse from 'html-react-parser'
+import { Sidechain } from '@nprapps/sidechain';
 
 import './App.css'
 
@@ -29,6 +30,10 @@ function App() {
         console.error('Error fetching schedule:', error)
       })
   }, [])
+  // register sidechain
+  useEffect(() => {
+    Sidechain.registerGuest();
+  }, []);
 
   const buttons = conferenceDays.map((dayName) => (
     <button
