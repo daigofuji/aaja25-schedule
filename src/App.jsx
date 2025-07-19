@@ -54,7 +54,7 @@ function App() {
        {sessions.filter(session => session.day === day).map((session, index) => (
           <li 
             key={index} 
-            className={`session ${session.locations?.[0] === 'Other' ? 'other' : ''}`}
+            className={`session ${session.tracks?.includes('Mixers/Receptions') ? 'other' : ''}`}
             onClick={() => setSelectedSession(session)}
           >
             <span className="meta">
@@ -72,7 +72,7 @@ function App() {
           <div className="meta">
             {selectedSession.day} - {selectedSession.time} - {selectedSession.locations?.[0] || 'TBD'}
           </div>
-          <div>{parse(selectedSession.description || '')}</div>
+          <div className="description">{parse(selectedSession.description || '')}</div>
           <a className="button" href={`https://builder.guidebook.com/g/#/guides/aaja25/schedule/sessions/${selectedSession.id}`} target="_blank" rel="noopener noreferrer">
             View in Guidebook
           </a>

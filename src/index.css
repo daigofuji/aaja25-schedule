@@ -156,6 +156,11 @@ dialog {
   p {
     margin: 0 0 0.5rem;
   }
+  .description {
+    p + br {
+      display: none;
+    }
+  }
   button, .button {
     display: inline-block;
     margin-right: 0.5rem;
