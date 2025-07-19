@@ -1,7 +1,21 @@
 {
-  "total_sessions": 95,
-  "pages_fetched": 2,
+  "total_sessions": 104,
+  "pages_fetched": 3,
   "sessions": [
+    {
+      "id": 31541312,
+      "name": "Seattle chapter tours: Exclusive AAJA Pike Place AAPI tour",
+      "description": "<p><strong>Date</strong>: Tuesday, July 29 at 2:30 p.m.</p>\n<p><strong>Cost</strong>: $119 per ticket</p>\n<p><strong>Description</strong>: A tailor-made experience just for the AAJA group. Limited to 16 people. This exclusive behind-the-scenes tour at Pike Place Market will highlight some of the AAPI business owners in the market, in addition to learning and tasting a variety of cuisines represented in the market. Hear from some of the AAPI business owners about their personal experiences and stories. Minimum of 12 participants needed to make this tour happen, confirmation will be sent out prior to the tour.</p>\n<p><strong>Sign Up and Payment:</strong><a href=\"https://docs.google.com/forms/d/e/1FAIpQLSfDrTmQXi3rtVipn1ZdkK5fdLzBILzcusrYO02ab2TZLuN8kQ/viewform\"><strong> </strong><u>https://docs.google.com/forms/d/e/1FAIpQLSfDrTmQXi3rtVipn1ZdkK5fdLzBILzcusrYO02ab2TZLuN8kQ/viewform</u></a></p>",
+      "start_time": "2025-07-29T21:30:00.000000+0000",
+      "day": "Day 2025-07-29",
+      "time": "2:30 PM PDT",
+      "locations": [
+        "Other"
+      ],
+      "tracks": [
+        "Mixers/Receptions"
+      ]
+    },
     {
       "id": 31496788,
       "name": "Covering civic life through a solutions lens (Presented by SJN)",
@@ -12,7 +26,9 @@
       "locations": [
         "REDWOOD"
       ],
-      "tracks": []
+      "tracks": [
+        "Training"
+      ]
     },
     {
       "id": 31496789,
@@ -24,7 +40,9 @@
       "locations": [
         "METROPOLITAN A"
       ],
-      "tracks": []
+      "tracks": [
+        "Training"
+      ]
     },
     {
       "id": 31496790,
@@ -48,7 +66,9 @@
       "locations": [
         "ASPEN"
       ],
-      "tracks": []
+      "tracks": [
+        "Training"
+      ]
     },
     {
       "id": 31496792,
@@ -60,7 +80,9 @@
       "locations": [
         "METROPOLITAN B"
       ],
-      "tracks": []
+      "tracks": [
+        "Training"
+      ]
     },
     {
       "id": 31496794,
@@ -72,7 +94,10 @@
       "locations": [
         "REDWOOD"
       ],
-      "tracks": []
+      "tracks": [
+        "Community",
+        "Training"
+      ]
     },
     {
       "id": 31515823,
@@ -84,7 +109,10 @@
       "locations": [
         "CEDAR"
       ],
-      "tracks": []
+      "tracks": [
+        "Innovation",
+        "Training"
+      ]
     },
     {
       "id": 31515824,
@@ -96,7 +124,9 @@
       "locations": [
         "METROPOLITAN A"
       ],
-      "tracks": []
+      "tracks": [
+        "Training"
+      ]
     },
     {
       "id": 31360096,
@@ -120,7 +150,11 @@
       "locations": [
         "ASPEN"
       ],
-      "tracks": []
+      "tracks": [
+        "Leadership",
+        "Innovation",
+        "Training"
+      ]
     },
     {
       "id": 31535471,
@@ -132,7 +166,9 @@
       "locations": [
         "REDWOOD"
       ],
-      "tracks": []
+      "tracks": [
+        "Training"
+      ]
     },
     {
       "id": 31517041,
@@ -150,7 +186,7 @@
     },
     {
       "id": 31360094,
-      "name": "#AAJA25 Opening Reception (Presented by ABC and ESPN)",
+      "name": "#AAJA25 opening reception (Presented by ABC and ESPN)",
       "description": "<p>Join fellow attendees at the AAJA25 Opening Reception\u2014a lively celebration to wrap up Day One and set the tone for the rest of the week ahead.</p>",
       "start_time": "2025-07-30T23:30:00.000000+0000",
       "day": "Wed 7/30",
@@ -164,7 +200,7 @@
     },
     {
       "id": 31496795,
-      "name": "AAJA Asia Chapter Mixer",
+      "name": "AAJA Asia chapter mixer",
       "description": "<p>Soak in Seattle\u2019s golden hour with stunning views of Elliott Bay and the Olympic Mountains\u2014one of the city\u2019s best waterfront beer moments. After the opening reception, head over to Old Stove Brewing Co. at Pike Place Market (just a 12-minute walk from the Sheraton) for good brews, scratch-made food, and great company. <br>\ud83d\uddd3 Wednesday, July 30<br>\ud83d\udd61 6:30\u20138:00 PM<br>1901 Western Ave, Seattle, WA 98101<br>No RSVP required, but we\u2019d love a heads-up. Feel free to bring friends! <a href=\"https://forms.gle/N5pn4JbZTZUeSv749\" target=\"_blank\">https://forms.gle/N5pn4JbZTZUeSv749</a></p>",
       "start_time": "2025-07-31T01:30:00.000000+0000",
       "day": "Wed 7/30",
@@ -192,15 +228,17 @@
     },
     {
       "id": 31496796,
-      "name": "AARP breakfast dialogue: Intergenerational Talk story with OGs across generations (Presented by AARP)",
-      "description": "<p>Last year, journalists of different generations came together in this informal exchange with a range of panelists whose careers have led them to deep engagement with diverse communities and inspiring examples of turning their journalistic backgrounds into new impactful efforts that advance AAPI and other communities. Their journeys reflect a range of fascinating paths into community/ethnic media; communications/advertising; documentary production; nonprofit legal advocacy; playwriting and Zen priesthood; and much more. Come with questions and curiosity to see how other journalists morphed their careers into more direct community involvement and impact \u2014 and we hope to hear about yours. Coffee, tea and continental breakfast generously sponsored by AARP.</p>\n<br>\n<p>You must RSVP by clicking on \u201cRegister now\u201d below.</p>",
+      "name": "AARP breakfast dialogue: Intergenerational talk, story with OGs across generations (Presented by AARP)",
+      "description": "<p>Last year, journalists of different generations came together in this informal exchange with a range of panelists whose careers have led them to deep engagement with diverse communities and inspiring examples of turning their journalistic backgrounds into new impactful efforts that advance AAPI and other communities. Their journeys reflect a range of fascinating paths into community/ethnic media; communications/advertising; documentary production; nonprofit legal advocacy; playwriting and Zen priesthood; and much more. Come with questions and curiosity to see how other journalists morphed their careers into more direct community involvement and impact \u2014 and we hope to hear about yours. Coffee, tea and a light breakfast generously sponsored by AARP.</p>\n<br>\n<p>You must RSVP by clicking on \u201cRegister now\u201d below.</p>",
       "start_time": "2025-07-31T15:00:00.000000+0000",
       "day": "Thur 7/31",
       "time": "8 AM PDT",
       "locations": [
         "METROPOLITAN B"
       ],
-      "tracks": []
+      "tracks": [
+        "Community"
+      ]
     },
     {
       "id": 31496797,
@@ -212,7 +250,9 @@
       "locations": [
         "ASPEN"
       ],
-      "tracks": []
+      "tracks": [
+        "Community"
+      ]
     },
     {
       "id": 31496798,
@@ -224,7 +264,9 @@
       "locations": [
         "CEDAR"
       ],
-      "tracks": []
+      "tracks": [
+        "Community"
+      ]
     },
     {
       "id": 31496799,
@@ -248,7 +290,9 @@
       "locations": [
         "METROPOLITAN A"
       ],
-      "tracks": []
+      "tracks": [
+        "Training"
+      ]
     },
     {
       "id": 31496801,
@@ -260,19 +304,23 @@
       "locations": [
         "WILLOW"
       ],
-      "tracks": []
+      "tracks": [
+        "Leadership"
+      ]
     },
     {
       "id": 31536811,
-      "name": "ABC Storyteller Summit",
-      "description": "<p>Details to follow</p>",
+      "name": "The ABC News storytellers summit",
+      "description": "<p>The ABC News Storytellers Summit is a half-day development workshop created by ABC News and the ABC Owned Television Stations. It\u2019s designed to bring together producers, writers, reporters and content creators for cutting-edge conversations and training sessions to take their storytelling to the next level.</p>\n<p>The workshop is led by ABC News journalists and executives from across all platforms and shows. Participants will gain first-hand insight into the skills that make ABC News the No. 1 source for news\u2014and discover innovative ways to elevate their storytelling.</p>\n<p><strong>OVERVIEW:</strong></p>\n<p>Thursday, July 31<br>10 a.m.\u20132 p.m.</p>\n<ul>\n<li>Panels and discussions with ABC News executives and talent</li>\n<li>Producing workshops and more</li>\n<li>Networking sessions and career advice</li>\n</ul>\n<p><strong>HOW TO APPLY:</strong></p>\n<p><em>Applicants must be registered for the AAJA 2025 Convention.</em></p>\n<p><em>The ABC News Storytellers Summit encourages the following to apply:</em></p>\n<ul>\n<li><em>Producers, writers, reporters and content creators with <strong>three or more years of experience</strong></em></li>\n<li><em>Seasoned storytellers seeking innovative ways to create compelling news content</em></li>\n</ul>\n<p><strong>APPLY HERE: </strong><u><a href=\"https://forms.gle/bCTjCyYHKidvg5H29\">https://forms.gle/bCTjCyYHKidvg5H29</a></u></p>\n<p><strong>DEADLINE: JULY 24</strong></p>",
       "start_time": "2025-07-31T17:00:00.000000+0000",
       "day": "Thur 7/31",
       "time": "10 AM PDT",
       "locations": [
         "METROPOLITAN A"
       ],
-      "tracks": []
+      "tracks": [
+        "Training"
+      ]
     },
     {
       "id": 31496802,
@@ -284,7 +332,9 @@
       "locations": [
         "ASPEN"
       ],
-      "tracks": []
+      "tracks": [
+        "Community"
+      ]
     },
     {
       "id": 31496803,
@@ -296,7 +346,10 @@
       "locations": [
         "CEDAR"
       ],
-      "tracks": []
+      "tracks": [
+        "Community",
+        "Training"
+      ]
     },
     {
       "id": 31515825,
@@ -308,7 +361,9 @@
       "locations": [
         "METROPOLITAN A"
       ],
-      "tracks": []
+      "tracks": [
+        "Leadership"
+      ]
     },
     {
       "id": 31522519,
@@ -320,7 +375,10 @@
       "locations": [
         "METROPOLITAN B"
       ],
-      "tracks": []
+      "tracks": [
+        "Innovation",
+        "Training"
+      ]
     },
     {
       "id": 31496804,
@@ -332,7 +390,9 @@
       "locations": [
         "WILLOW"
       ],
-      "tracks": []
+      "tracks": [
+        "Training"
+      ]
     },
     {
       "id": 31496805,
@@ -344,7 +404,9 @@
       "locations": [
         "WILLOW"
       ],
-      "tracks": []
+      "tracks": [
+        "Training"
+      ]
     },
     {
       "id": 31496806,
@@ -361,6 +423,18 @@
       ]
     },
     {
+      "id": 31539225,
+      "name": "Seattle Times lunch and tour",
+      "description": "<p>AAJA convention attendees are invited to visit The Seattle Times, meet Seattle Times editors and enjoy a hosted lunch with newsroom staff. Address and arrival instructions will be sent via email.</p>\n<p><br><strong>NOTE: Space is limited and RSVPs are required.</strong></p>\n<br>\n<p><a href=\"https://docs.google.com/forms/d/e/1FAIpQLScgXft0ICbaY_a2wlRky70I6oKMicsXaE_U31gx7Q6YbuShSA/viewform?usp=header\" target=\"_blank\">RSVP HERE</a></p>",
+      "start_time": "2025-07-31T18:30:00.000000+0000",
+      "day": "Thur 7/31",
+      "time": "11:30 AM PDT",
+      "locations": [
+        "Other"
+      ],
+      "tracks": []
+    },
+    {
       "id": 31515827,
       "name": "Reporting power in a polarized world: Covering the White House and Congress in 2025",
       "description": "<p>In a year marked by deep political divisions, resurgent nationalism and global uncertainty, the task of covering America\u2019s centers of power has never been more complex. From the high-stakes drama of a returning Trump administration to a bitterly polarized Congress, journalists must navigate not only the facts but also the public&#x27;s growing distrust of institutions and media itself. <br> <br>In a year marked by deep political divisions, resurgent nationalism and global uncertainty, the task of covering America\u2019s centers of power has never been more complex. From the high-stakes drama of a returning Trump administration to a bitterly polarized Congress, journalists must navigate not only the facts but also the public&#x27;s growing distrust of institutions and media itself.</p>\n<br>\n<p>Join Weijia Jiang (CBS News) , Nick Wu (POLITICO), Scott Wong (NBC) and Amanda Barrett (AP) for an unfiltered conversation about the unique challenges of political reporting in 2025. How do correspondents maintain access and accountability amid disinformation and political hostility? What\u2019s different about covering Trump 2.0? And how do domestic fractures play out on the global stage? This panel goes beyond headlines to explore the resilience, responsibility and reality of reporting on power today. </p>",
@@ -370,7 +444,9 @@
       "locations": [
         "METROPOLITAN B"
       ],
-      "tracks": []
+      "tracks": [
+        "Leadership"
+      ]
     },
     {
       "id": 31522520,
@@ -382,7 +458,11 @@
       "locations": [
         "ASPEN"
       ],
-      "tracks": []
+      "tracks": [
+        "Leadership",
+        "Community",
+        "Innovation"
+      ]
     },
     {
       "id": 31496807,
@@ -394,7 +474,9 @@
       "locations": [
         "WILLOW"
       ],
-      "tracks": []
+      "tracks": [
+        "Community"
+      ]
     },
     {
       "id": 31524866,
@@ -406,11 +488,13 @@
       "locations": [
         "WILLOW"
       ],
-      "tracks": []
+      "tracks": [
+        "Community"
+      ]
     },
     {
       "id": 31496808,
-      "name": "CNN MasterCraft: The Digital Essentials",
+      "name": "CNN MasterCraft: The digital essentials",
       "description": "<p>Are you looking to grow your skill set and thrive in this era of digital transformation in newsrooms? CNN\u2019s industry-leading workshop is back this year with expert perspectives on how to elevate your storytelling, your story ideas and your story engagement across digital platforms. This dynamic, hands-on workshop is presented by CNN\u2019s top newsroom leaders and talent executives, who will offer forward-thinking strategies on elevating your writing, editing, vertical video and real-time storytelling skills. This three-hour workshop will prepare the best and brightest journalists for the future and offer a window into how CNN is paving the way in creating engaging and thoughtful journalism for global digital audiences. </p>\n<br>\n<p>Link to apply: <a href=\"https://www.surveymonkey.com/r/AAJA2025\">https://www.surveymonkey.com/r/AAJA2025</a></p>",
       "start_time": "2025-07-31T21:00:00.000000+0000",
       "day": "Thur 7/31",
@@ -418,7 +502,9 @@
       "locations": [
         "CEDAR"
       ],
-      "tracks": []
+      "tracks": [
+        "Training"
+      ]
     },
     {
       "id": 31535472,
@@ -430,7 +516,10 @@
       "locations": [
         "REDWOOD"
       ],
-      "tracks": []
+      "tracks": [
+        "Innovation",
+        "Training"
+      ]
     },
     {
       "id": 31534778,
@@ -442,7 +531,9 @@
       "locations": [
         "WILLOW"
       ],
-      "tracks": []
+      "tracks": [
+        "Leadership"
+      ]
     },
     {
       "id": 31496810,
@@ -454,7 +545,10 @@
       "locations": [
         "ASPEN"
       ],
-      "tracks": []
+      "tracks": [
+        "Innovation",
+        "Training"
+      ]
     },
     {
       "id": 31514468,
@@ -466,7 +560,9 @@
       "locations": [
         "METROPOLITAN B"
       ],
-      "tracks": []
+      "tracks": [
+        "Training"
+      ]
     },
     {
       "id": 31496811,
@@ -478,7 +574,9 @@
       "locations": [
         "WILLOW"
       ],
-      "tracks": []
+      "tracks": [
+        "Training"
+      ]
     },
     {
       "id": 31535473,
@@ -490,7 +588,24 @@
       "locations": [
         "REDWOOD"
       ],
-      "tracks": []
+      "tracks": [
+        "Innovation",
+        "Training"
+      ]
+    },
+    {
+      "id": 31539915,
+      "name": "An afternoon tea on political journalism with POLITICO",
+      "description": "<p>Politico reporting has rarely been more important or central to our work. Join the POLITICO staff for a relaxed and engaging hour to learn about us and exciting opportunities with our growing reporting teams. Over tea and treats, you&#x27;ll connect with POLITICOs and fellow convention-goers to explore the dynamic world of political journalism \u2014 from breaking news to behind-the-scenes coverage of power and policy. <strong>Thursday, July 31, 3:30-4:30 p.m.\u00a0 </strong>Can&#x27;t wait to meet you!</p>",
+      "start_time": "2025-07-31T22:30:00.000000+0000",
+      "day": "Thur 7/31",
+      "time": "3:30 PM PDT",
+      "locations": [
+        "Other"
+      ],
+      "tracks": [
+        "Mixers/Receptions"
+      ]
     },
     {
       "id": 31496822,
@@ -502,7 +617,10 @@
       "locations": [
         "METROPOLITAN B"
       ],
-      "tracks": []
+      "tracks": [
+        "Innovation",
+        "Training"
+      ]
     },
     {
       "id": 31515828,
@@ -514,7 +632,10 @@
       "locations": [
         "ASPEN"
       ],
-      "tracks": []
+      "tracks": [
+        "Innovation",
+        "Training"
+      ]
     },
     {
       "id": 31535474,
@@ -526,7 +647,9 @@
       "locations": [
         "REDWOOD"
       ],
-      "tracks": []
+      "tracks": [
+        "Training"
+      ]
     },
     {
       "id": 31496813,
@@ -558,7 +681,7 @@
     },
     {
       "id": 31496815,
-      "name": "California Chapters AAJA convention mixer",
+      "name": "California chapters AAJA convention mixer",
       "description": "<p>Inviting all California AAJA members from the SF Bay Area, Sacramento, LA, &amp; San Diego chapters attending the #AAJA25 convention!  Join us for a social mixer at the Elephant &amp; Castle pub\u2019s Billiard Room, just one block from the convention hotel. Stop by to meet up with old friends and make new California connections. We\u2019ll provide snacks and appetizers. Buy your own brews or other beverages with their Happy Hour discount. RSVP is not required, but event is for CA convention attendees.</p>",
       "start_time": "2025-08-01T00:00:00.000000+0000",
       "day": "Thur 7/31",
@@ -580,7 +703,23 @@
       "locations": [
         "WILLOW"
       ],
-      "tracks": []
+      "tracks": [
+        "Community"
+      ]
+    },
+    {
+      "id": 31539916,
+      "name": "Washington Post reception",
+      "description": "<p>Details to follow</p>",
+      "start_time": "2025-08-01T00:30:00.000000+0000",
+      "day": "Thur 7/31",
+      "time": "5:30 PM PDT",
+      "locations": [
+        "Other"
+      ],
+      "tracks": [
+        "Mixers/Receptions"
+      ]
     },
     {
       "id": 31496816,
@@ -625,6 +764,20 @@
       ]
     },
     {
+      "id": 31541309,
+      "name": "Seattle chapter tours: Seattle Storm game",
+      "description": "<p><strong>Date</strong>: Friday, Aug. 1 at 7 p.m.</p>\n<p><strong>Cost</strong>: $41 per ticket</p>\n<p><strong>Where</strong>: Climate Pledge Arena</p>\n<p><strong>Description</strong>: Join the Seattle Storm and help cheer on the city\u2019s 4x WNBA championship team, as they take on the Los Angeles Sparks. Tickets include a $25 food and beverage voucher, redeemable at any of the many vendors at the one-and-only Climate Pledge Arena. Nachos! Beer! Burgers! Even dumplings! And above all else, a great night of basketball.</p>\n<p><strong>Payment</strong>: If you\u2019d like to reserve a spot with AAJA\u2019s group rate and sit with your Convention buddies, please Venmo AAJA Seattle (@aajaseattle) by <strong>July 25th</strong>. You <strong><u>MUST</u> </strong>include your name in the description of the Venmo that matches your registration.<br>**Your spot is NOT confirmed until payment is received and a confirmation email is sent back to you.</p>\n<p><strong>Link</strong>: <u><a href=\"https://forms.gle/37xgkn3KPi81ESDH9\">https://forms.gle/37xgkn3KPi81ESDH9</a></u></p>",
+      "start_time": "2025-08-01T07:00:00.000000+0000",
+      "day": "Fri 8/1",
+      "time": "12:00 AM PDT",
+      "locations": [
+        "Other"
+      ],
+      "tracks": [
+        "Mixers/Receptions"
+      ]
+    },
+    {
       "id": 31496818,
       "name": "AAJA group run",
       "description": "<p>Join fellow convention-goers for a casual group run in Seattle! We'll meet in the hotel lobby at 7:00 AM and head out for a 2-4 mile run to explore the city together. All paces welcome - this is about connecting with fellow AAJA members and seeing Seattle, not setting records. Don't forget your running shoes!</p>",
@@ -648,7 +801,9 @@
       "locations": [
         "CEDAR"
       ],
-      "tracks": []
+      "tracks": [
+        "Community"
+      ]
     },
     {
       "id": 31496820,
@@ -672,7 +827,10 @@
       "locations": [
         "METROPOLITAN A"
       ],
-      "tracks": []
+      "tracks": [
+        "Community",
+        "Training"
+      ]
     },
     {
       "id": 31534907,
@@ -684,7 +842,9 @@
       "locations": [
         "METROPOLITAN B"
       ],
-      "tracks": []
+      "tracks": [
+        "Community"
+      ]
     },
     {
       "id": 31536800,
@@ -696,7 +856,10 @@
       "locations": [
         "REDWOOD"
       ],
-      "tracks": []
+      "tracks": [
+        "Innovation",
+        "Training"
+      ]
     },
     {
       "id": 31496823,
@@ -708,7 +871,9 @@
       "locations": [
         "CEDAR"
       ],
-      "tracks": []
+      "tracks": [
+        "Training"
+      ]
     },
     {
       "id": 31496824,
@@ -720,7 +885,10 @@
       "locations": [
         "METROPOLITAN A"
       ],
-      "tracks": []
+      "tracks": [
+        "Leadership",
+        "Community"
+      ]
     },
     {
       "id": 31496825,
@@ -732,7 +900,10 @@
       "locations": [
         "WILLOW"
       ],
-      "tracks": []
+      "tracks": [
+        "Innovation",
+        "Training"
+      ]
     },
     {
       "id": 31515829,
@@ -744,7 +915,10 @@
       "locations": [
         "METROPOLITAN B"
       ],
-      "tracks": []
+      "tracks": [
+        "Leadership",
+        "Training"
+      ]
     },
     {
       "id": 31522688,
@@ -756,7 +930,10 @@
       "locations": [
         "REDWOOD"
       ],
-      "tracks": []
+      "tracks": [
+        "Innovation",
+        "Training"
+      ]
     },
     {
       "id": 31496826,
@@ -768,7 +945,9 @@
       "locations": [
         "CEDAR"
       ],
-      "tracks": []
+      "tracks": [
+        "Community"
+      ]
     },
     {
       "id": 31496827,
@@ -780,7 +959,9 @@
       "locations": [
         "METROPOLITAN B"
       ],
-      "tracks": []
+      "tracks": [
+        "Community"
+      ]
     },
     {
       "id": 31496828,
@@ -792,7 +973,9 @@
       "locations": [
         "REDWOOD"
       ],
-      "tracks": []
+      "tracks": [
+        "Training"
+      ]
     },
     {
       "id": 31496829,
@@ -804,7 +987,10 @@
       "locations": [
         "WILLOW"
       ],
-      "tracks": []
+      "tracks": [
+        "Leadership",
+        "Training"
+      ]
     },
     {
       "id": 31535475,
@@ -816,7 +1002,9 @@
       "locations": [
         "ASPEN"
       ],
-      "tracks": []
+      "tracks": [
+        "Leadership"
+      ]
     },
     {
       "id": 31496830,
@@ -828,7 +1016,10 @@
       "locations": [
         "CEDAR"
       ],
-      "tracks": []
+      "tracks": [
+        "Leadership",
+        "Community"
+      ]
     },
     {
       "id": 31496831,
@@ -840,7 +1031,9 @@
       "locations": [
         "METROPOLITAN B"
       ],
-      "tracks": []
+      "tracks": [
+        "Community"
+      ]
     },
     {
       "id": 31496832,
@@ -852,7 +1045,10 @@
       "locations": [
         "WILLOW"
       ],
-      "tracks": []
+      "tracks": [
+        "Leadership",
+        "Training"
+      ]
     },
     {
       "id": 31515830,
@@ -864,7 +1060,9 @@
       "locations": [
         "ASPEN"
       ],
-      "tracks": []
+      "tracks": [
+        "Training"
+      ]
     },
     {
       "id": 31522690,
@@ -876,7 +1074,10 @@
       "locations": [
         "REDWOOD"
       ],
-      "tracks": []
+      "tracks": [
+        "Community",
+        "Training"
+      ]
     },
     {
       "id": 31523470,
@@ -888,7 +1089,9 @@
       "locations": [
         "METROPOLITAN A"
       ],
-      "tracks": []
+      "tracks": [
+        "Innovation"
+      ]
     },
     {
       "id": 31496833,
@@ -900,7 +1103,10 @@
       "locations": [
         "METROPOLITAN B"
       ],
-      "tracks": []
+      "tracks": [
+        "Innovation",
+        "Training"
+      ]
     },
     {
       "id": 31515831,
@@ -912,7 +1118,10 @@
       "locations": [
         "CEDAR"
       ],
-      "tracks": []
+      "tracks": [
+        "Leadership",
+        "Training"
+      ]
     },
     {
       "id": 31522691,
@@ -924,7 +1133,9 @@
       "locations": [
         "WILLOW"
       ],
-      "tracks": []
+      "tracks": [
+        "Training"
+      ]
     },
     {
       "id": 31535476,
@@ -936,7 +1147,10 @@
       "locations": [
         "METROPOLITAN A"
       ],
-      "tracks": []
+      "tracks": [
+        "Community",
+        "Training"
+      ]
     },
     {
       "id": 31496834,
@@ -973,6 +1187,20 @@
       "time": "5:30 PM PDT",
       "locations": [
         "REDWOOD"
+      ],
+      "tracks": [
+        "Mixers/Receptions"
+      ]
+    },
+    {
+      "id": 31541311,
+      "name": "Seattle chapter tours: Tour of KING 5's Newsroom",
+      "description": "<p><strong>Date</strong>: Friday, Aug. 1 from 5:30 to 6:30 p.m.</p>\n<p><strong>Cost</strong>: FREE</p>\n<p><strong>Description</strong>: Ever wondered what it takes to bring the news to your screens? Now\u2019s your chance to find out! Join us for an exclusive behind-the-scenes tour of the KING 5 Newsroom, Seattle\u2019s trusted source for news, weather, and sports. This hour-long tour will take you inside the fast-paced world of multiplatform journalism. Space is limited to just 20 participants, so don\u2019t wait\u2014reserve your spot today!</p>\n<p>**Your spot is NOT confirmed until a confirmation email is sent back to you.</p>\n<p><strong>Link</strong>: <u><a href=\"https://forms.gle/7nBjPcereFTZdKoM6\">https://forms.gle/7nBjPcereFTZdKoM6</a></u></p>",
+      "start_time": "2025-08-02T00:30:00.000000+0000",
+      "day": "Fri 8/1",
+      "time": "5:30 PM PDT",
+      "locations": [
+        "Other"
       ],
       "tracks": [
         "Mixers/Receptions"
@@ -1021,6 +1249,20 @@
       ]
     },
     {
+      "id": 31541308,
+      "name": "Seattle chapter tours: Seattle Mariners game",
+      "description": "<p><strong>Date</strong>: Friday, Aug. 1 at 7:10 p.m.</p>\n<p><strong>Cost</strong>: $28 per ticket</p>\n<p><strong>Where</strong>: T-Mobile Park</p>\n<p><strong>Description</strong>: Come watch the Seattle Mariners at T-Mobile Park and earn your sea legs with the team. Hang out with home run derby champion Cal \u201cBig Dumper\u201d Raleigh or enter the no fly zone with Julio Rodr\u00edguez. Stay after the game to enjoy a dazzling fireworks display set to your favorite showtunes. It\u2019ll be a grand slam of a night.</p>\n<p><strong>Payment</strong>: If you\u2019d like to reserve a spot with AAJA\u2019s group rate and sit with your Convention buddies, please Venmo AAJA Seattle (@aajaseattle) by <strong>July 25th</strong>. You <strong><u>MUST</u> </strong>include your name in the description of the Venmo that matches your registration.<br>**Your spot is NOT confirmed until payment is received and a confirmation email is sent back to you.</p>\n<p><strong>Link</strong>: <u><a href=\"https://forms.gle/bKqNhvLsF6HG21Z19\">https://forms.gle/bKqNhvLsF6HG21Z19</a></u></p>",
+      "start_time": "2025-08-02T02:00:00.000000+0000",
+      "day": "Fri 8/1",
+      "time": "7 PM PDT",
+      "locations": [
+        "Other"
+      ],
+      "tracks": [
+        "Mixers/Receptions"
+      ]
+    },
+    {
       "id": 31496838,
       "name": "Uncovering the numbers: Navigating gun violence data in AAPI communities (Presented by GIFFORDS)",
       "description": "<p>Mass shootings in Atlanta, Monterey Park, and Half Moon Bay have brought gun violence to the forefront among AAPIs. Still, beyond these high-profile tragedies, firearm-related deaths \u2014 especially suicides \u2014 are rising in Asian American and Pacific Islander communities. Accurately reporting on this crisis requires data, but journalists and advocates often face gaps and limitations in what information is available. This hands-on workshop will guide attendees through the complex landscape of gun violence mortality data. Participants will get an overview of key data sources and a tutorial on using CDC WONDER (Wide-Ranging ONline Data for Epidemiologic Research), a federal mortality database. We\u2019ll explore both the strengths and shortcomings of this tool \u2014 particularly its limited disaggregated AAPI data \u2014 and discuss strategies to bridge these gaps in storytelling and advocacy.</p>",
@@ -1030,7 +1272,10 @@
       "locations": [
         "CEDAR"
       ],
-      "tracks": []
+      "tracks": [
+        "Community",
+        "Training"
+      ]
     },
     {
       "id": 31514466,
@@ -1042,7 +1287,10 @@
       "locations": [
         "REDWOOD"
       ],
-      "tracks": []
+      "tracks": [
+        "Community",
+        "Training"
+      ]
     },
     {
       "id": 31514469,
@@ -1054,7 +1302,9 @@
       "locations": [
         "ASPEN"
       ],
-      "tracks": []
+      "tracks": [
+        "Community"
+      ]
     },
     {
       "id": 31522521,
@@ -1066,7 +1316,10 @@
       "locations": [
         "METROPOLITAN A"
       ],
-      "tracks": []
+      "tracks": [
+        "Innovation",
+        "Training"
+      ]
     },
     {
       "id": 31531705,
@@ -1092,7 +1345,9 @@
       "locations": [
         "WILLOW"
       ],
-      "tracks": []
+      "tracks": [
+        "Leadership"
+      ]
     },
     {
       "id": 31496839,
@@ -1104,7 +1359,9 @@
       "locations": [
         "ASPEN"
       ],
-      "tracks": []
+      "tracks": [
+        "Community"
+      ]
     },
     {
       "id": 31514467,
@@ -1116,7 +1373,10 @@
       "locations": [
         "WILLOW"
       ],
-      "tracks": []
+      "tracks": [
+        "Community",
+        "Training"
+      ]
     },
     {
       "id": 31535478,
@@ -1128,7 +1388,9 @@
       "locations": [
         "REDWOOD"
       ],
-      "tracks": []
+      "tracks": [
+        "Innovation"
+      ]
     },
     {
       "id": 31535479,
@@ -1140,7 +1402,25 @@
       "locations": [
         "METROPOLITAN A"
       ],
-      "tracks": []
+      "tracks": [
+        "Innovation",
+        "Training"
+      ]
+    },
+    {
+      "id": 31540065,
+      "name": "From presence to power: Asian American leaders shaping communities (Presented by the Council of Korean Americans)",
+      "description": "<p>What does inclusive leadership look like in today\u2019s America\u2014and how are Asian American leaders stepping up to shape it? This session, presented by the Council of Korean Americans, brings together two dynamic changemakers at the forefront of public service and research. Sam Cho, Commissioner at the Port of Seattle, has broken barriers as a young Korean American leader championing equitable growth and civic engagement. Dr. Neil G. Ruiz, Associate Director at Pew Research Center, leads groundbreaking work on race, identity, and immigration that informs policy and public understanding. Guided by journalist Natasha Chen, this conversation will explore how Korean American and Asian American leaders are expanding access, lifting up marginalized voices, and building a more inclusive future\u2014from local communities to the national stage.</p>",
+      "start_time": "2025-08-02T17:30:00.000000+0000",
+      "day": "Sat 8/2",
+      "time": "10:30 AM PDT",
+      "locations": [
+        "CEDAR"
+      ],
+      "tracks": [
+        "Leadership",
+        "Community"
+      ]
     },
     {
       "id": 31526358,
@@ -1153,6 +1433,20 @@
         "Other"
       ],
       "tracks": []
+    },
+    {
+      "id": 31541310,
+      "name": "Seattle chapter tours: Chinatown-International District guided tour",
+      "description": "<p><strong>Date</strong>: Saturday, Aug. 2 from 2 to 3:30 p.m.</p>\n<p><strong>Cost</strong>: FREE</p>\n<p><strong>Description</strong>: Join AAJA Seattle Co-Founders Ron Chew and Frank Abe on a 1.5-hour guided tour through the city\u2019s beloved Chinatown-International District for a deep dive into the neighborhood\u2019s history, culture and community. Ron and Frank will tell stories about different parts of the CID \u2014 including Chinatown, Nihonmachi, Little Saigon and Filipinotown \u2014 talk about their personal experiences living and working in Seattle, and highlight some of the neighborhood\u2019s oldest and best restaurants, bakeries and cafes. Max 30 people.</p>\n<p>**Your spot is NOT confirmed until a confirmation email is sent back to you.</p>\n<p><strong>Link</strong>: <u><a href=\"https://forms.gle/F9CMC5Ka6ZZmRNZ28\">https://forms.gle/F9CMC5Ka6ZZmRNZ28</a></u></p>",
+      "start_time": "2025-08-02T21:00:00.000000+0000",
+      "day": "Sat 8/2",
+      "time": "2 PM PDT",
+      "locations": [
+        "Other"
+      ],
+      "tracks": [
+        "Mixers/Receptions"
+      ]
     },
     {
       "id": 31362656,
