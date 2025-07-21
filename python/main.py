@@ -30,8 +30,9 @@ def filter_session_data(sessions):
             dt_pdt = dt.astimezone(pdt)
 
             date_to_day = {
+                "2025-07-29": "Tue 7/29",
                 "2025-07-30": "Wed 7/30",
-                "2025-07-31": "Thur 7/31", 
+                "2025-07-31": "Thu 7/31", 
                 "2025-08-01": "Fri 8/1",
                 "2025-08-02": "Sat 8/2"
             }
@@ -193,6 +194,7 @@ def main():
 
             csv_file.write(f"{session.get('id')},\"{session.get('name')}\","
                            f"{session.get('day')},{session.get('time')},"
+                           f"{session.get('start_time')},"
                            f"{locations_str},{tracks_str}\n")
     print(f"Filtered sessions saved to {csv_output_path}")
 

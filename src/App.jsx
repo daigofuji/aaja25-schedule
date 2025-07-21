@@ -9,8 +9,8 @@ function App() {
   const [day, setDay] = useState('Wed 7/30');
   const [selectedSession, setSelectedSession] = useState(null);
 
-  // // choices for days:  "Wed 7/30","Thur 7/31", "Fri 8/1","Sat 8/2"
-  const conferenceDays = ["Wed 7/30","Thur 7/31", "Fri 8/1","Sat 8/2"];
+  // // choices for days:  "Wed 7/30","Thu 7/31", "Fri 8/1","Sat 8/2"
+  const conferenceDays = ["Wed 7/30","Thu 7/31", "Fri 8/1","Sat 8/2"];
 
   // others are '2025-07-31', '2025-08-01', and '2025-08-02'
   useEffect(() => {
