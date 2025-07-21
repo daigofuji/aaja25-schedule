@@ -24,21 +24,21 @@ id,name,day,time,locations,schedule_tracks
 31536811,"The ABC News storytellers summit",Thu 7/31,10 AM PDT,2025-07-31T17:00:00.000000+0000,METROPOLITAN A,Training
 31496802,"Covering democracy under Trump",Thu 7/31,10:30 AM PDT,2025-07-31T17:30:00.000000+0000,ASPEN,Community
 31496803,"Harnessing the power of local journalism to serve our communities",Thu 7/31,10:30 AM PDT,2025-07-31T17:30:00.000000+0000,CEDAR,Community|Training
-31515825,"Breaking barriers: AAPI women leading in corporate America",Thu 7/31,10:30 AM PDT,2025-07-31T17:30:00.000000+0000,METROPOLITAN A,Leadership
+31515825,"Breaking barriers: AAPI women leading in corporate America",Thu 7/31,10:30 AM PDT,2025-07-31T17:30:00.000000+0000,REDWOOD,Leadership
 31522519,"Storytelling, visualization and data: Insights from the Field",Thu 7/31,10:30 AM PDT,2025-07-31T17:30:00.000000+0000,METROPOLITAN B,Innovation|Training
 31496804,"NBCU Academy workshop: The art of the interview — asking questions that matter (plus HelloHive)",Thu 7/31,10:45 AM PDT,2025-07-31T17:45:00.000000+0000,WILLOW,Training
 31496805,"Level up: NBCU Academy’s exclusive journalism workshop experience",Thu 7/31,10:45 AM PDT,2025-07-31T17:45:00.000000+0000,WILLOW,Training
 31496806,"News Nerds networking casual lunch gathering",Thu 7/31,11:30 AM PDT,2025-07-31T18:30:00.000000+0000,Other,Mixers/Receptions
 31539225,"Seattle Times lunch and tour",Thu 7/31,11:30 AM PDT,2025-07-31T18:30:00.000000+0000,Other,
+31514468,"Creating entrepreneurship systems that work for you/Secrets of full-time freelancers (Presented by Freelance AG)",Thu 7/31,1 PM PDT,2025-07-31T20:00:00.000000+0000,ASPEN,Training
 31515827,"Reporting power in a polarized world: Covering the White House and Congress in 2025",Thu 7/31,1 PM PDT,2025-07-31T20:00:00.000000+0000,METROPOLITAN B,Leadership
-31522520,"Soft power, bold leadership: Jonathan Sposato on redefining success in media and tech (Presented by JoySauce TV, Seattle Magazine and Seattle Business Magazine)",Thu 7/31,1 PM PDT,2025-07-31T20:00:00.000000+0000,ASPEN,Leadership|Community|Innovation
 31496807,"CNBC presents: What every journalist should know about personal finance",Thu 7/31,1:15 PM PDT,2025-07-31T20:15:00.000000+0000,WILLOW,Community
 31524866,"Vicky Nguyen’s book signing (presented by NBCU Academy)",Thu 7/31,1:15 PM PDT,2025-07-31T20:15:00.000000+0000,WILLOW,Community
 31496808,"CNN MasterCraft: The digital essentials",Thu 7/31,2 PM PDT,2025-07-31T21:00:00.000000+0000,CEDAR,Training
 31535472,"So you want to be a modern-day storyteller (Presented by ESPN)",Thu 7/31,2 PM PDT,2025-07-31T21:00:00.000000+0000,REDWOOD,Innovation|Training
 31534778,"‘Here’s the Scoop’: How to launch a successful podcast (Presented by NBCU Academy)",Thu 7/31,2:15 PM PDT,2025-07-31T21:15:00.000000+0000,WILLOW,Leadership
 31496810,"Crossing platforms, capturing audiences: Storytelling for the modern era (Presented by Dot Dash Meredith)",Thu 7/31,2:30 PM PDT,2025-07-31T21:30:00.000000+0000,ASPEN,Innovation|Training
-31514468,"Creating entrepreneurship systems that work for you/Secrets of full-time freelancers (Presented by Freelance AG)",Thu 7/31,2:30 PM PDT,2025-07-31T21:30:00.000000+0000,METROPOLITAN B,Training
+31522520,"Soft power, bold leadership: Jonathan Sposato on redefining success in media and tech (Presented by JoySauce TV, Seattle Magazine and Seattle Business Magazine)",Thu 7/31,2:30 PM PDT,2025-07-31T21:30:00.000000+0000,METROPOLITAN B,Leadership|Community|Innovation
 31496811,"NBCU Academy script doctor",Thu 7/31,3:15 PM PDT,2025-07-31T22:15:00.000000+0000,WILLOW,Training
 31535473,"What’s next for journalism and content creation — and how to build your place in it (Presented by ESPN)",Thu 7/31,3:30 PM PDT,2025-07-31T22:30:00.000000+0000,REDWOOD,Innovation|Training
 31539915,"An afternoon tea on political journalism with POLITICO",Thu 7/31,3:30 PM PDT,2025-07-31T22:30:00.000000+0000,Other,Mixers/Receptions
@@ -71,7 +71,7 @@ id,name,day,time,locations,schedule_tracks
 31496829,"Being your own editor and CEO: Tips for creating your own media business",Fri 8/1,1 PM PDT,2025-08-01T20:00:00.000000+0000,WILLOW,Leadership|Training
 31535475,"Publishing power: Sally Kim and Curtis Chin on leading, storytelling and opening doors (Presented by Hachette Book Group)",Fri 8/1,1 PM PDT,2025-08-01T20:00:00.000000+0000,ASPEN,Leadership
 31496830,"Rooted in community: Lessons from local news founders (Presented by Press Forward)",Fri 8/1,2:30 PM PDT,2025-08-01T21:30:00.000000+0000,CEDAR,Leadership|Community
-31496831,"Covering climate: Intersectional reporting, debunking misinformation and combating attacks on science",Fri 8/1,2:30 PM PDT,2025-08-01T21:30:00.000000+0000,METROPOLITAN B,Community
+31496831,"Melting point: Reporting on climate change in an era of misinformation and attacks on science",Fri 8/1,2:30 PM PDT,2025-08-01T21:30:00.000000+0000,METROPOLITAN B,Community
 31496832,"Surviving and thriving when journalism throws you for a loop",Fri 8/1,2:30 PM PDT,2025-08-01T21:30:00.000000+0000,WILLOW,Leadership|Training
 31515830,"The disturbing data behind AAPI underrepresentation in journalism: New studies and strategies that address US perceptions and the talent pipeline (Presented by AARP)",Fri 8/1,2:30 PM PDT,2025-08-01T21:30:00.000000+0000,ASPEN,Training
 31522690,"Reporting on educational equity within the AANHPI Community (Presented by the National Education Association)",Fri 8/1,2:30 PM PDT,2025-08-01T21:30:00.000000+0000,REDWOOD,Community|Training

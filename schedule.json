@@ -359,7 +359,7 @@
       "day": "Thu 7/31",
       "time": "10:30 AM PDT",
       "locations": [
-        "METROPOLITAN A"
+        "REDWOOD"
       ],
       "tracks": [
         "Leadership"
@@ -435,6 +435,20 @@
       "tracks": []
     },
     {
+      "id": 31514468,
+      "name": "Creating entrepreneurship systems that work for you/Secrets of full-time freelancers (Presented by Freelance AG)",
+      "description": "<p>Between mass layoffs and an unstable job market, more journalists are freelancing out of need or by choice \u2014 and many are creating their own newsletters or startup businesses to support their work. This session will cover how to create systems that take work off your plate! You\u2019ll see a demo of the Institute for Independent Journalists\u2019 interactive online freelance startup guide, which helps answer the key questions for ramping up a side hustle into a full-time business. Panelists will share tools for setting your rate, networking to find great assignments, building relationships with clients, and juggling multiple projects. Participants will leave the session with a slew of new tools and strategies for making freelancing emotionally and financially sustainable.</p>",
+      "start_time": "2025-07-31T20:00:00.000000+0000",
+      "day": "Thu 7/31",
+      "time": "1 PM PDT",
+      "locations": [
+        "ASPEN"
+      ],
+      "tracks": [
+        "Training"
+      ]
+    },
+    {
       "id": 31515827,
       "name": "Reporting power in a polarized world: Covering the White House and Congress in 2025",
       "description": "<p>In a year marked by deep political divisions, resurgent nationalism and global uncertainty, the task of covering America\u2019s centers of power has never been more complex. From the high-stakes drama of a returning Trump administration to a bitterly polarized Congress, journalists must navigate not only the facts but also the public&#x27;s growing distrust of institutions and media itself. <br> <br>In a year marked by deep political divisions, resurgent nationalism and global uncertainty, the task of covering America\u2019s centers of power has never been more complex. From the high-stakes drama of a returning Trump administration to a bitterly polarized Congress, journalists must navigate not only the facts but also the public&#x27;s growing distrust of institutions and media itself.</p>\n<br>\n<p>Join Weijia Jiang (CBS News) , Nick Wu (POLITICO), Scott Wong (NBC) and Amanda Barrett (AP) for an unfiltered conversation about the unique challenges of political reporting in 2025. How do correspondents maintain access and accountability amid disinformation and political hostility? What\u2019s different about covering Trump 2.0? And how do domestic fractures play out on the global stage? This panel goes beyond headlines to explore the resilience, responsibility and reality of reporting on power today. </p>",
@@ -446,22 +460,6 @@
       ],
       "tracks": [
         "Leadership"
-      ]
-    },
-    {
-      "id": 31522520,
-      "name": "Soft power, bold leadership: Jonathan Sposato on redefining success in media and tech (Presented by JoySauce TV, Seattle Magazine and Seattle Business Magazine)",
-      "description": "<p>What does it look like when Asian American identity becomes a catalyst \u2014 not a caveat \u2014 for bold leadership? In this intimate fireside chat, join serial entrepreneur and media changemaker Jonathan Sposato \u2014 the only founder to sell two startups to Google, chairman of GeekWire and founder of JoySauce Network \u2014 as he shares how empathy, representation and cultural confidence have guided his journey across tech and media. <br>  <br> From building tools used by millions to launching platforms that amplify Asian American voices, Sposato reflects on what it means to lead with purpose in industries often resistant to change. Learn how he\u2019s leveraging his success to uplift inclusive storytelling, back underrepresented founders, and reimagine what power can look like when it\u2019s rooted in identity.</p>",
-      "start_time": "2025-07-31T20:00:00.000000+0000",
-      "day": "Thu 7/31",
-      "time": "1 PM PDT",
-      "locations": [
-        "ASPEN"
-      ],
-      "tracks": [
-        "Leadership",
-        "Community",
-        "Innovation"
       ]
     },
     {
@@ -551,9 +549,9 @@
       ]
     },
     {
-      "id": 31514468,
-      "name": "Creating entrepreneurship systems that work for you/Secrets of full-time freelancers (Presented by Freelance AG)",
-      "description": "<p>Between mass layoffs and an unstable job market, more journalists are freelancing out of need or by choice \u2014 and many are creating their own newsletters or startup businesses to support their work. This session will cover how to create systems that take work off your plate! You\u2019ll see a demo of the Institute for Independent Journalists\u2019 interactive online freelance startup guide, which helps answer the key questions for ramping up a side hustle into a full-time business. Panelists will share tools for setting your rate, networking to find great assignments, building relationships with clients, and juggling multiple projects. Participants will leave the session with a slew of new tools and strategies for making freelancing emotionally and financially sustainable.</p>",
+      "id": 31522520,
+      "name": "Soft power, bold leadership: Jonathan Sposato on redefining success in media and tech (Presented by JoySauce TV, Seattle Magazine and Seattle Business Magazine)",
+      "description": "<p>What does it look like when Asian American identity becomes a catalyst \u2014 not a caveat \u2014 for bold leadership? In this intimate fireside chat, join serial entrepreneur and media changemaker Jonathan Sposato \u2014 the only founder to sell two startups to Google, chairman of GeekWire and founder of JoySauce Network \u2014 as he shares how empathy, representation and cultural confidence have guided his journey across tech and media. <br>  <br> From building tools used by millions to launching platforms that amplify Asian American voices, Sposato reflects on what it means to lead with purpose in industries often resistant to change. Learn how he\u2019s leveraging his success to uplift inclusive storytelling, back underrepresented founders, and reimagine what power can look like when it\u2019s rooted in identity.</p>",
       "start_time": "2025-07-31T21:30:00.000000+0000",
       "day": "Thu 7/31",
       "time": "2:30 PM PDT",
@@ -561,7 +559,9 @@
         "METROPOLITAN B"
       ],
       "tracks": [
-        "Training"
+        "Leadership",
+        "Community",
+        "Innovation"
       ]
     },
     {
@@ -1023,8 +1023,8 @@
     },
     {
       "id": 31496831,
-      "name": "Covering climate: Intersectional reporting, debunking misinformation and combating attacks on science",
-      "description": "<p>The threats and impact of our fast warming globe go beyond higher temperatures. They intersect with global issues like migration, the global economy, human rights and war. In this panel, journalists talk about the increasing need to report on the climate crisis in the context of global forces \u2014 and the challenges of doing so amid shrinking newsrooms and the onslaught of attacks on science. The threats and impact of our fast warming globe go beyond higher temperatures. They intersect with global issues like migration, the global economy, human rights and war. In this panel, journalists talk about the increasing need to report on the climate crisis in the context of global forces \u2014 and the challenges of doing so amid shrinking newsrooms and the onslaught of attacks on science. What are the big forces shaping the climate crisis, and how can reporters find climate angles to breaking stories? How can journalists cut through misinformation amid growing political attacks on science, while keeping audiences informed and engaged?</p>",
+      "name": "Melting point: Reporting on climate change in an era of misinformation and attacks on science",
+      "description": "<p>The consequences of our rapidly warming planet go beyond temperature rise. They intersect with global issues like migration, global economy, public health and human rights. In this panel, climate journalists will discuss the increasing need to report on the climate crisis in context of global forces \u2013 and the challenges in doing so amidst shrinking newsrooms and the onslaught of attacks on science.<br><br>What are the big forces shaping the climate crisis \u2013 and how can reporters find climate angles to breaking stories? How can journalists cut through the misinformation amidst growing political attacks on science, while keeping audiences informed and engaged?</p>",
       "start_time": "2025-08-01T21:30:00.000000+0000",
       "day": "Fri 8/1",
       "time": "2:30 PM PDT",
