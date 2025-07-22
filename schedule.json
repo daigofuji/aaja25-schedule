@@ -1,5 +1,5 @@
 {
-  "total_sessions": 104,
+  "total_sessions": 105,
   "pages_fetched": 3,
   "sessions": [
     {
@@ -719,6 +719,20 @@
       ],
       "tracks": [
         "Community"
+      ]
+    },
+    {
+      "id": 31551831,
+      "name": "NW Asian Weekly AAJA Convention Mixer",
+      "description": "<p>Join <strong>Northwest Asian Weekly </strong>for a casual mixer at Vivienne&#x27;s Bistro!</p>\n<br>\n<p><a href=\"https://nwasianweekly.com/\" target=\"_blank\">Northwest Asian Weekly</a>\u00a0has been the\u00a0long-standing local AAPI weekly newspaper in Seattle and the Pacific Northwest for over 42 years, focused on empowering the Asian American community and celebrating its multi-faceted heritage and achievements.Connect and mingle with fellow #AAJA25 convention attendees after a full day of inspiration and insight! Enjoy appetizers at Vivienne&#x27;s Bistro, a contemporary Asian-owned restaurant, right next to the convention hotel.</p>\n<br>\n<p><strong>Space is limited! RSVP required: </strong><a href=\"https://www.eventbrite.com/e/nw-asian-weekly-aaja25-convention-mixer-tickets-1505312723879?aff=oddtdtcreator\" target=\"_blank\">https://www.eventbrite.com/e/nw-asian-weekly-aaja25-convention-mixer-tickets-1505312723879?aff=oddtdtcreator</a></p>",
+      "start_time": "2025-08-01T00:00:00.000000+0000",
+      "day": "Thu 7/31",
+      "time": "5 PM PDT",
+      "locations": [
+        "Other"
+      ],
+      "tracks": [
+        "Mixers/Receptions"
       ]
     },
     {
