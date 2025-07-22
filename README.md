@@ -3,43 +3,36 @@
 Two parts. 
 One: Python code that fetches the schedule using guidebook Open API and writes a json file
 
-TLDR: cd to `python` directory and run `python main.py` to get the schedule in `schedule.json`.
+TLDR: cd to `python` directory and run `python main.py` to get the schedule in `schedule.json`. you need to have put the `.env` file in the same directory with your [Guidebook API key](https://support.guidebook.com/hc/en-us/articles/360003676094-Guidebook-Open-API).
 
 Two: React app that reads the json file and displays the schedule in a nice way.
 
-to start develope, type `npm start` in the root directory.
+To start develope, type `npm start` in the root directory.
 
 
 # Python setup. 
 
-I use pyenv to manage my python environment. Used [this set up](https://github.com/BostonGlobe/data-school-closings-scraper?tab=readme-ov-file#setup) and [this blog post](https://medium.com/@miqui.ferrer/the-ultimate-guide-to-managing-python-virtual-environments-in-macos-c8cb49bf0a3c) as reference for setting up the virtual environment.
-
-If necessary, install `Python`, `pyenv`, and `virtualenv` (see link above).
-
-This project uses Python 3.12
-
+I use pyenv to manage my python environment. `pyenv` and `virtualenv` via `brew` v3.12 
 ```bash
+brew update
+brew install python pyenv pyenv-virtualenv
 pyenv install 3.12
-```
-
-Create a virtualenv for this project. We'll use "AAJA" as the name
-
-```bash
 pyenv virtualenv 3.12 AAJA
-```
-To start developing, you need to activate the environment
-
-```bash
 pyenv activate AAJA
 pip install -r requirements.txt
 ```
 
-Runnning the script
+and [this blog post](https://medium.com/@miqui.ferrer/the-ultimate-guide-to-managing-python-virtual-environments-in-macos-c8cb49bf0a3c) as reference for setting up the virtual environment.
+
+# Python script
+The script fetches the schedule from Guidebook Open API and writes it to `schedule.json`.
+
+Running the script
 ```bash
 python main.py
 ```
 
-see memo.md for more details
+See memo.md for more details
 
 # Github pages 
 

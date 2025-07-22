@@ -79,7 +79,7 @@ const handleSessionClick = (session, event) => {
             onClick={(event) => handleSessionClick(session, event)}
           >
             <span className="meta">
-              {session.time} - {session.locations?.[0] || 'TBD'}
+              {session.time} 
             </span>
             {session.name}
           </li>
@@ -94,11 +94,11 @@ const handleSessionClick = (session, event) => {
           <button className="close-top" onClick={() => setSelectedSession(null)}>×</button>
           <h3>{selectedSession.name}</h3>
           <div className="meta">
-            {selectedSession.day} - {selectedSession.time} - {selectedSession.locations?.[0] || 'TBD'}
+            {selectedSession.day} - {selectedSession.time}
           </div>
           <div className="description">{parse(selectedSession.description || '')}</div>
           <a className="button" href={`https://builder.guidebook.com/g/#/guides/aaja25/schedule/sessions/${selectedSession.id}`} target="_blank" rel="noopener noreferrer">
-            View in Guidebook
+            View in AAJA25 App
           </a>
           <button onClick={() => setSelectedSession(null)}>Close</button>
         </dialog>
