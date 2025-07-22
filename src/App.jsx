@@ -8,6 +8,7 @@ function App() {
   const [sessions, setSessions] = useState([]);
   const [day, setDay] = useState('Wed 7/30');
   const [selectedSession, setSelectedSession] = useState(null);
+  const [dialogPosition, setDialogPosition] = useState({ top: '50%' });
 
   // // choices for days:  "Wed 7/30","Thu 7/31", "Fri 8/1","Sat 8/2"
   const conferenceDays = ["Wed 7/30","Thu 7/31", "Fri 8/1","Sat 8/2"];
@@ -30,6 +31,7 @@ function App() {
         console.error('Error fetching schedule:', error)
       })
   }, [])
+
   // register sidechain
   useEffect(() => {
     Sidechain.registerGuest();
@@ -43,7 +45,26 @@ function App() {
     >
       {dayName}
     </button>
-  )); 
+  ));
+
+  // Update your click handler to capture the mouse position
+const handleSessionClick = (session, event) => {
+  const clickY = event.clientY;
+  const windowHeight = window.innerHeight;
+  
+  let dialogTop;
+  if (clickY > windowHeight / 2) {
+    // If click is in bottom half, position dialog above the click
+    dialogTop = Math.max(50, clickY - 250); // Adjust 250px to account for dialog height
+  } else {
+    // If click is in top half, position dialog below the click
+    dialogTop = Math.max(50, clickY - 50);
+  }
+  
+  setDialogPosition({ top: `${dialogTop}px` });
+  setSelectedSession(session);
+};
+
   return (
     <>
       <div className="day-selector">
@@ -55,7 +76,7 @@ function App() {
           <li 
             key={index} 
             className={`session ${session.tracks?.includes('Mixers/Receptions') ? 'other' : ''}`}
-            onClick={() => setSelectedSession(session)}
+            onClick={(event) => handleSessionClick(session, event)}
           >
             <span className="meta">
               {session.time} - {session.locations?.[0] || 'TBD'}
@@ -66,7 +87,10 @@ function App() {
       </ul>
       {/* Modal */}
       {selectedSession && (
-        <dialog open>
+        <dialog 
+          open 
+          style={{ '--dialog-top': dialogPosition.top }}
+        >
           <button className="close-top" onClick={() => setSelectedSession(null)}>×</button>
           <h3>{selectedSession.name}</h3>
           <div className="meta">

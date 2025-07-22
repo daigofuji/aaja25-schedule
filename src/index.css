@@ -118,9 +118,9 @@ ul.sessions {
 
 dialog {
   position: fixed;
-  top: 50%;
+  top: var(--dialog-top, 50%);
   left: 50%;
-  transform: translate(-50%, -50%);
+  transform: translate(-50%, 0);
   width: 85%;
   max-width: min(600px, 95vw);
   max-height: min(80vh, 500px);
