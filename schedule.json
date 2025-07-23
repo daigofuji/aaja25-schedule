@@ -1,21 +1,7 @@
 {
-  "total_sessions": 112,
+  "total_sessions": 111,
   "pages_fetched": 3,
   "sessions": [
-    {
-      "id": 31541312,
-      "name": "Seattle chapter tours: Exclusive AAJA Pike Place AAPI tour",
-      "description": "<p><strong>Date</strong>: Tuesday, July 29 at 2:30 p.m.</p>\n<p><strong>Cost</strong>: $119 per ticket</p>\n<p><strong>Description</strong>: A tailor-made experience just for the AAJA group. Limited to 16 people. This exclusive behind-the-scenes tour at Pike Place Market will highlight some of the AAPI business owners in the market, in addition to learning and tasting a variety of cuisines represented in the market. Hear from some of the AAPI business owners about their personal experiences and stories. Minimum of 12 participants needed to make this tour happen, confirmation will be sent out prior to the tour.</p>\n<p><strong>Sign Up and Payment:</strong><a href=\"https://docs.google.com/forms/d/e/1FAIpQLSfDrTmQXi3rtVipn1ZdkK5fdLzBILzcusrYO02ab2TZLuN8kQ/viewform\"><strong> </strong><u>https://docs.google.com/forms/d/e/1FAIpQLSfDrTmQXi3rtVipn1ZdkK5fdLzBILzcusrYO02ab2TZLuN8kQ/viewform</u></a></p>",
-      "start_time": "2025-07-29T21:30:00.000000+0000",
-      "day": "Tue 7/29",
-      "time": "2:30 PM PDT",
-      "locations": [
-        "Other"
-      ],
-      "tracks": [
-        "Mixers/Receptions"
-      ]
-    },
     {
       "id": 31551938,
       "name": "Executive Leadership Program",
@@ -51,6 +37,21 @@
         "METROPOLITAN A"
       ],
       "tracks": [
+        "Training"
+      ]
+    },
+    {
+      "id": 31515823,
+      "name": "AI tools to amplify your journalism without replacing your judgment",
+      "description": "<p>Discover how AI can handle the grunt work so you can focus on your journalism. This session will demo practical applications of various AI tools from NotebookLM to Claude, Fathom and others for research, transcription, and story development. By the end of this session, you\u2019ll leave with a wider perspective of different AI tools that will allow you to work smarter, not harder.</p>",
+      "start_time": "2025-07-30T17:30:00.000000+0000",
+      "day": "Wed 7/30",
+      "time": "10:30 AM PDT",
+      "locations": [
+        "CEDAR"
+      ],
+      "tracks": [
+        "Innovation",
         "Training"
       ]
     },
@@ -110,21 +111,6 @@
       ]
     },
     {
-      "id": 31515823,
-      "name": "AI tools to amplify your journalism without replacing your judgment",
-      "description": "<p>Discover how AI can handle the grunt work so you can focus on your journalism. This session will demo practical applications of various AI tools from NotebookLM to Claude, Fathom and others for research, transcription, and story development. By the end of this session, you\u2019ll leave with a wider perspective of different AI tools that will allow you to work smarter, not harder.</p>",
-      "start_time": "2025-07-30T19:30:00.000000+0000",
-      "day": "Wed 7/30",
-      "time": "12:30 PM PDT",
-      "locations": [
-        "CEDAR"
-      ],
-      "tracks": [
-        "Innovation",
-        "Training"
-      ]
-    },
-    {
       "id": 31515824,
       "name": "Turn on the radio (Presented by The James B. McClatchy Foundation)",
       "description": "<p>The team from The Intersection, Central Valley Journalism Collaborative\u2019s Health Equity Reporting Lab, discuss how small newsrooms can use audio reporting to increase audience, impact, partnerships and brand recognition, and how to start producing radio and podcasts from scratch.</p>",
@@ -133,6 +119,20 @@
       "time": "12:30 PM PDT",
       "locations": [
         "METROPOLITAN A"
+      ],
+      "tracks": [
+        "Training"
+      ]
+    },
+    {
+      "id": 31535471,
+      "name": "Prying loose public records (Presented by Investigative Reporters & Editors)",
+      "description": "<p>A broad introduction to using open records laws at the federal and state levels, customized for your coverage area. You\u2019ll also receive a checklist of all you need to know before you make a request.</p>",
+      "start_time": "2025-07-30T19:30:00.000000+0000",
+      "day": "Wed 7/30",
+      "time": "12:30 PM PDT",
+      "locations": [
+        "CEDAR"
       ],
       "tracks": [
         "Training"
@@ -167,17 +167,17 @@
       ]
     },
     {
-      "id": 31535471,
-      "name": "Prying loose public records (Presented by Investigative Reporters & Editors)",
-      "description": "<p>A broad introduction to using open records laws at the federal and state levels, customized for your coverage area. You\u2019ll also receive a checklist of all you need to know before you make a request.</p>",
-      "start_time": "2025-07-30T21:30:00.000000+0000",
+      "id": 31554673,
+      "name": "Leading with purpose in challenging times: A fireside chat with Rep. Marilyn Strickland",
+      "description": "<p>In a time marked by widespread misinformation, increasing political division, and challenges to democratic institutions, what does it mean to lead with purpose and integrity?</p>\n<p>Rep. Marilyn Strickland, one of the first women of both Korean and African American heritage elected to Congress, brings a unique perspective shaped by her lived experiences and a commitment to public service.</p>\n<p>In this important conversation, moderated by Emmy-winning journalist and ABC News anchor Juju Chang, Strickland will discuss her insights on the responsibilities of leadership, the importance of AAPI representation, the opportunities and challenges of representing Washington state, and how to foster understanding and trust in our democracy.</p>",
+      "start_time": "2025-07-30T22:00:00.000000+0000",
       "day": "Wed 7/30",
-      "time": "2:30 PM PDT",
+      "time": "3 PM PDT",
       "locations": [
         "REDWOOD"
       ],
       "tracks": [
-        "Training"
+        "Leadership"
       ]
     },
     {
@@ -272,7 +272,7 @@
       "day": "Thu 7/31",
       "time": "9 AM PDT",
       "locations": [
-        "CEDAR"
+        "REDWOOD"
       ],
       "tracks": [
         "Community"
@@ -298,7 +298,7 @@
       "day": "Thu 7/31",
       "time": "9 AM PDT",
       "locations": [
-        "METROPOLITAN A"
+        "CEDAR"
       ],
       "tracks": [
         "Training"
@@ -306,8 +306,8 @@
     },
     {
       "id": 31496801,
-      "name": "NBCU Academy: In conversation with Vicky Nguyen: Identity, resilience and breaking through (Presented by NBC)",
-      "description": "<p>In her deeply personal new memoir, <em>Boat Baby: A Memoir</em>, NBC News anchor and correspondent Vicky Nguyen pays tribute to her parents\u2019 sacrifice and the journey that brought her from refugee to national news anchor. In this inspiring conversation, Nguyen shares how her Vietnamese American identity shaped her path in journalism, the lessons she learned from local newsrooms across the country, and how she brings her full self to the anchor desk. Don\u2019t miss this powerful session on belonging, perseverance and what it means to tell stories that matter \u2014 from the inside out.</p>\n<br>\n<p>This session is part of the NBCU Academy Workshops and is open to all convention participants. To learn more about NBCU Academy at AAJA: <a href=\"https://nbcuacademy.com/event/aaja-2025/\">https://nbcuacademy.com/event/aaja-2025/</a></p>",
+      "name": "NBCU Academy in conversation with Vicky Nguyen: Identity, resilience and breaking through",
+      "description": "<p>In her deeply personal new memoir, <em>Boat Baby: A Memoir,</em> NBC News anchor and correspondent Vicky Nguyen pays tribute to her parents\u2019 sacrifice and the journey that brought her from refugee to national news anchor. In this inspiring conversation, Nguyen shares how her Vietnamese American identity shaped her path in journalism, the lessons she learned from local newsrooms across the country, and how she brings her full self to the anchor desk. Don\u2019t miss this powerful session on belonging, perseverance and what it means to tell stories that matter \u2014 from the inside out.</p>\n<br>\n<p>This session is part of the NBCU Academy Workshops and is open to all convention participants.</p>\n<p>To learn more about NBCU Academy at AAJA: <a href=\"https://nbcuacademy.com/event/aaja-2025/\">https://nbcuacademy.com/event/aaja-2025/</a></p>\n<br>\n<p>Moderator: Ali Velshi, MSNBC Chief Correspondent &amp; Host of \u201cVelshi\u201d</p>\n<p>Special Guest: Vicky Nguyen, \u201cNBC News Daily\u201d Co-Anchor &amp; NBC News Chief Consumer Investigative Correspondent </p>\n<br>",
       "start_time": "2025-07-31T16:00:00.000000+0000",
       "day": "Thu 7/31",
       "time": "9 AM PDT",
@@ -334,7 +334,7 @@
     },
     {
       "id": 31551970,
-      "name": "Seattle Times Leadership Salon",
+      "name": "Seattle Times leadership salon (Presented by AAJA Executive Leadership Program)",
       "description": "<p><strong>Invite only.</strong></p>\n<br>\n<p>Go behind the scenes with Seattle Times Executive Editor Michele Matassa Flores and Managing Editor Lynn Jacobson in a candid, off-the-record conversation on leadership\u2014moderated by Sharon Chan of <em>The New York Times</em>.</p>",
       "start_time": "2025-07-31T17:00:00.000000+0000",
       "day": "Thu 7/31",
@@ -403,21 +403,7 @@
     {
       "id": 31496804,
       "name": "NBCU Academy workshop: The art of the interview \u2014 asking questions that matter (plus HelloHive)",
-      "description": "<p>Great interviews are built on thoughtful questions, sharp instincts and genuine curiosity. In this interactive session, you\u2019ll learn the art of asking better questions \u2014 from setting the tone to knowing when to stay silent. Through real-world examples and guided discussions, you\u2019ll gain practical tools to build trust, spark emotion or unlock a headline. We\u2019ll cover techniques for approaching interviews with public officials, experts and people affected by breaking or tragic events. Whether reporting for on-air, print or digital platforms, this session will help you grow not just as a journalist but as a better communicator, listener and storyteller.</p>\n<br>\n<p>This session is part of the NBCU Academy Workshops and is open to all convention participants. However, if you\u2019d like to take part in the interactive interview sessions with an NBCU professor, please apply in advance here: <a href=\"https://nbcuacademy.com/event/aaja-2025/\">https://nbcuacademy.com/event/aaja-2025/</a></p>",
-      "start_time": "2025-07-31T17:45:00.000000+0000",
-      "day": "Thu 7/31",
-      "time": "10:45 AM PDT",
-      "locations": [
-        "WILLOW"
-      ],
-      "tracks": [
-        "Training"
-      ]
-    },
-    {
-      "id": 31496805,
-      "name": "Level up: NBCU Academy\u2019s exclusive journalism workshop experience",
-      "description": "<p>Step inside the newsroom with NBCU Academy. We&#x27;re offering a one-day, invite-only experience packed with practical skills and powerful conversations with award-winning journalists from NBC News, NBCU Local, Telemundo, CNBC and MSNBC. Learn through immersive workshops on writing, interviewing and storytelling for TV, streaming and digital \u2014 all with real-time feedback. Participants will also get exclusive access to the HelloHive team, who will offer advice on resumes. If you&#x27;re curious, driven and ready to grow, this is where your next level begins.<br> <br> To learn more about NBCU Academy at AAJA: <a href=\"https://nbcuacademy.com/event/aaja-2025/\">https://nbcuacademy.com/event/aaja-2025/</a></p>",
+      "description": "<p>Great interviews are built on thoughtful questions, sharp instincts and genuine curiosity. In this interactive session, you\u2019ll learn the art of asking better questions \u2014 from setting the tone to knowing when to stay silent. Through real-world examples and guided discussions, you\u2019ll gain practical tools to build trust, spark emotion or unlock a headline. We\u2019ll cover techniques for approaching interviews with public officials, experts and people affected by breaking or tragic events. Whether reporting for on-air, print or digital platforms, this session will help you grow not just as a journalist but as a better communicator, listener and storyteller.</p>\n<br>\n<p>This session is part of the NBCU Academy Workshops and is open to all convention participants. However, if you\u2019d like to take part in the interactive interview sessions with an NBCU professor, please apply in advance here: <u><a href=\"https://nbcuacademy.com/event/aaja-2025/\">https://nbcuacademy.com/event/aaja-2025/</a></u></p>",
       "start_time": "2025-07-31T17:45:00.000000+0000",
       "day": "Thu 7/31",
       "time": "10:45 AM PDT",
@@ -455,6 +441,20 @@
       "tracks": []
     },
     {
+      "id": 31524866,
+      "name": "Vicky Nguyen\u2019s book signing (presented by NBCU Academy)",
+      "description": "<p>NBC News anchor and correspondent Vicky Nguyen signs copies of her new memoir <em>\u201cBoat Baby.\u201d</em></p>\n<br>\n<p>This session is part of the NBCU Academy Workshops and is open to all convention participants.</p>\n<p>To learn more about NBCU Academy at AAJA: <u><a href=\"https://nbcuacademy.com/event/aaja-2025/\">https://nbcuacademy.com/event/aaja-2025/</a></u></p>",
+      "start_time": "2025-07-31T19:30:00.000000+0000",
+      "day": "Thu 7/31",
+      "time": "12:30 PM PDT",
+      "locations": [
+        "WILLOW"
+      ],
+      "tracks": [
+        "Community"
+      ]
+    },
+    {
       "id": 31514468,
       "name": "Creating entrepreneurship systems that work for you/Secrets of full-time freelancers (Presented by Freelance AG)",
       "description": "<p>Between mass layoffs and an unstable job market, more journalists are freelancing out of need or by choice \u2014 and many are creating their own newsletters or startup businesses to support their work. This session will cover how to create systems that take work off your plate! You\u2019ll see a demo of the Institute for Independent Journalists\u2019 interactive online freelance startup guide, which helps answer the key questions for ramping up a side hustle into a full-time business. Panelists will share tools for setting your rate, networking to find great assignments, building relationships with clients, and juggling multiple projects. Participants will leave the session with a slew of new tools and strategies for making freelancing emotionally and financially sustainable.</p>",
@@ -485,21 +485,7 @@
     {
       "id": 31496807,
       "name": "CNBC presents: What every journalist should know about personal finance",
-      "description": "<p>When you\u2019re chasing deadlines or covering the latest market moves, your own finances can end up on the back burner. Knowing how to manage your money is just as important as knowing how to cover the story. Join Sharon Epperson, CNBC\u2019s senior personal finance correspondent, for a candid and practical conversation about what every journalist\u2014no matter your beat or career stage\u2014should know about personal finance. Whether you\u2019re just starting out or leveling up in your career, this is your opportunity to gain the tools and confidence to take charge of your financial future.</p>\n<br>\n<p>This session is part of the NBCU Academy Workshops and is open to all convention participants. To learn more about NBCU Academy at AAJA: <a href=\"https://nbcuacademy.com/event/aaja-2025/\">https://nbcuacademy.com/event/aaja-2025/</a></p>",
-      "start_time": "2025-07-31T20:15:00.000000+0000",
-      "day": "Thu 7/31",
-      "time": "1:15 PM PDT",
-      "locations": [
-        "WILLOW"
-      ],
-      "tracks": [
-        "Community"
-      ]
-    },
-    {
-      "id": 31524866,
-      "name": "Vicky Nguyen\u2019s book signing (presented by NBCU Academy)",
-      "description": "<p>NBC News anchor and correspondent Vicky Nguyen signs copies of her new memoir \u201c<em>Boat Baby.\u201d</em></p>",
+      "description": "<p>When you\u2019re chasing deadlines or covering the latest market moves, your own finances can end up on the back burner. Knowing how to manage your money is just as important as knowing how to cover the story. Join Sharon Epperson, CNBC\u2019s senior personal finance correspondent, for a candid and practical conversation about what every journalist\u2014no matter your beat or career stage\u2014should know about personal finance. Whether you\u2019re just starting out or leveling up in your career, this is your opportunity to gain the tools and confidence to take charge of your financial future.</p>\n<br>\n<p>This session is part of the NBCU Academy Workshops and is open to all convention participants.</p>\n<p>To learn more about NBCU Academy at AAJA: <u><a href=\"https://nbcuacademy.com/event/aaja-2025/\">https://nbcuacademy.com/event/aaja-2025/</a></u></p>",
       "start_time": "2025-07-31T20:15:00.000000+0000",
       "day": "Thu 7/31",
       "time": "1:15 PM PDT",
@@ -555,8 +541,8 @@
     },
     {
       "id": 31496810,
-      "name": "Crossing platforms, capturing audiences: Storytelling for the modern era (Presented by Dot Dash Meredith)",
-      "description": "<p>Editors from Dotdash Meredith talk about how to reimagine storytelling that breaks through the noise. We\u2019ve built cross-platform brands, are reaching outside the usual print and digital options, and have had success. Editors will also talk about working in legacy media and pivoting with the times.</p>",
+      "name": "Crossing platforms, capturing audiences: Storytelling for the modern era (Presented by DotDash Meredith)",
+      "description": "<p>Editors from DotDash Meredith talk about how to reimagine storytelling that breaks through the noise. We\u2019ve built cross-platform brands, are reaching outside the usual print and digital options, and have had success. Editors will also talk about working in legacy media and pivoting with the times.</p>",
       "start_time": "2025-07-31T21:30:00.000000+0000",
       "day": "Thu 7/31",
       "time": "2:30 PM PDT",
@@ -586,7 +572,7 @@
     },
     {
       "id": 31551971,
-      "name": "ABC Leadership Salon",
+      "name": "ABC leadership salon (Presented by AAJA Executive Leadership Program)",
       "description": "<p><strong>Invite only.</strong></p>\n<br>\n<p>Join Almin Karamehmedovic, President of ABC News, and Paul Cheung, President of Committee of 100, for an off-the-record conversation on leadership, career journeys, and navigating change at the highest levels of media.</p>",
       "start_time": "2025-07-31T22:00:00.000000+0000",
       "day": "Thu 7/31",
@@ -596,7 +582,7 @@
     },
     {
       "id": 31496811,
-      "name": "NBCU Academy script doctor",
+      "name": "NBCU Academy Script Doctor",
       "description": "<p>Great journalism doesn\u2019t live in just one format. Whether you\u2019re turning a digital article into a broadcast script or adapting an on-air story for digital, the power is in how you write and adapt. Hear from NBCU News Group journalists who\u2019ve mastered storytelling across platforms, then get personalized feedback from local news directors and NBC News Digital editors. Bring a printed or digital copy of either a script or article. Sign up in advance to reserve your one-on-one critique.</p>\n<br>\n<p>This session is part of the NBCU Academy Workshops and is open to all convention participants. However, if you\u2019d like to have your script reviewed, please apply in advance here: <a href=\"https://nbcuacademy.com/event/aaja-2025/\">https://nbcuacademy.com/event/aaja-2025/</a> <br> </p>",
       "start_time": "2025-07-31T22:15:00.000000+0000",
       "day": "Thu 7/31",
@@ -611,7 +597,7 @@
     {
       "id": 31535473,
       "name": "What\u2019s next for journalism and content creation \u2014 and how to build your place in it (Presented by ESPN)",
-      "description": "<p>From streaming and newspapers to podcasts and live events, storytelling is happening across every platform. But where will it be in five years \u2014 and how can you build a lasting career in it? Hear from ESPN senior executives Chin Wang, vice president of design, creative systems and strategy; Mike McQuade, executive vice president of sports production; Mike Foss, senior vice president of sports studio and entertainment; and Kevin Neghandi, SportsCenter and studio host.</p>",
+      "description": "<p>From streaming and newspapers to podcasts and live events, storytelling is happening across every platform. But where will it be in five years \u2014 and how can you build a lasting career in it? Hear from ESPN senior executives Chin Wang, vice president of design, creative systems and strategy; Mike McQuade, executive vice president of sports production; Chris Buckle, vice president of investigative and enterprise journalism; and Kevin Negandhi, SportsCenter and studio host.</p>",
       "start_time": "2025-07-31T22:30:00.000000+0000",
       "day": "Thu 7/31",
       "time": "3:30 PM PDT",
@@ -682,20 +668,6 @@
       ]
     },
     {
-      "id": 31496813,
-      "name": "Yung AAJA convention mixer",
-      "description": "<p>Come join Yung AAJA for our annual convention mixer at ARTS at King Street Station! We'll have banh mi sandwiches available for attendees. </p>",
-      "start_time": "2025-08-01T00:00:00.000000+0000",
-      "day": "Thu 7/31",
-      "time": "5 PM PDT",
-      "locations": [
-        "Other"
-      ],
-      "tracks": [
-        "Mixers/Receptions"
-      ]
-    },
-    {
       "id": 31496814,
       "name": "JCAMP + VOICES reception",
       "description": "<p>Celebrate the next generation of journalists at the JCamp &amp; VOICES Reception, honoring the incredible talent and hard work of AAJA\u2019s student programs.</p>\n<br>\n<p>Meet the high school students of JCamp, a nationally recognized, six-day training program that brings together diverse young leaders from across the country to learn from top journalists and produce powerful multimedia stories.</p>\n<br>\n<p>Connect with the college students of VOICES, a premier collegiate fellowship where aspiring reporters cover stories on the journalism industry and AAPI community under the mentorship of experienced professionals.</p>\n<br>\n<p>Join us in recognizing these bright storytellers\u2014and the mentors who guide them\u2014who represent the future of journalism.</p>",
@@ -740,7 +712,7 @@
     {
       "id": 31524870,
       "name": "Funny, fierce and flipping the script with NBCU\u2019s \u201cSt. Denis Medical\u201d and \u201cThe Paper\u201d",
-      "description": "<p>Join the NBCU cast and creatives from NBC\u2019s <em>St. Denis Medical</em> and Peacock\u2019s <em>The Paper</em> as they talk about how they\u2019re challenging outdated tropes and creating fresh, authentic portrayals of Asian women in comedy today. Moderated by MSNBC\u2019s Yasmin Vossoughian, the panel will feature <em>St. Denis Medical</em> executive producer Vicky Luu and star Kahyun Kim, alongside <em>The Paper</em> series regular Ramona Young. <em>St. Denis Medical</em> and <em>The Paper</em> are both produced by Universal Studio Group.</p>",
+      "description": "<p>Join the NBCU cast and creatives from NBC\u2019s <em>St. Denis Medical</em> and Peacock\u2019s <em>The Paper</em> as they talk about how they\u2019re challenging outdated tropes and creating fresh, authentic portrayals of Asian women in comedy today. Moderated by MSNBC\u2019s Yasmin Vossoughian, the panel will feature <em>St. Denis Medical</em> executive producer Vicky Luu and star Kahyun Kim, alongside <em>The Paper</em> series regular Ramona Young. <em>St. Denis Medical</em> and <em>The Paper</em> are both produced by Universal Studio Group.</p>\n<br>\n<p>This session is part of the NBCU Academy Workshops and is open to all convention participants.</p>\n<p>To learn more about NBCU Academy at AAJA: <u><a href=\"https://nbcuacademy.com/event/aaja-2025/\">https://nbcuacademy.com/event/aaja-2025/</a></u></p>",
       "start_time": "2025-08-01T00:00:00.000000+0000",
       "day": "Thu 7/31",
       "time": "5 PM PDT",
@@ -758,6 +730,20 @@
       "start_time": "2025-08-01T00:00:00.000000+0000",
       "day": "Thu 7/31",
       "time": "5 PM PDT",
+      "locations": [
+        "Other"
+      ],
+      "tracks": [
+        "Mixers/Receptions"
+      ]
+    },
+    {
+      "id": 31496813,
+      "name": "Yung AAJA convention mixer",
+      "description": "<p>Come join Yung AAJA for our annual convention mixer at Saigon Drip Cafe! We&#x27;ll have banh mi sandwiches available for attendees. </p>",
+      "start_time": "2025-08-01T00:30:00.000000+0000",
+      "day": "Thu 7/31",
+      "time": "5:30 PM PDT",
       "locations": [
         "Other"
       ],
@@ -921,7 +907,7 @@
     },
     {
       "id": 31551972,
-      "name": "Odyssey Planning by Sharon Chan",
+      "name": "Odyssey planning by Sharon Chan (Presented by AAJA Executive Leadership Program)",
       "description": "<p><strong>Invite only.</strong></p>\n<br>\n<p>Join Sharon Chan, Deputy of Strategic Culture Initiatives at <em>The New York Times</em>, for an interactive, off-the-record session designed to help you reflect on where you are now and explore multiple visions for your future\u2014personal, professional, or both.</p>",
       "start_time": "2025-08-01T17:00:00.000000+0000",
       "day": "Fri 8/1",
