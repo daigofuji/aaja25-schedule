@@ -1,5 +1,5 @@
 {
-  "total_sessions": 116,
+  "total_sessions": 117,
   "pages_fetched": 3,
   "sessions": [
     {
@@ -866,6 +866,16 @@
       "tracks": []
     },
     {
+      "id": 31559340,
+      "name": "AAJA nonprofit news executives summit",
+      "description": "<p>Now in its fourth year, this invitation-only summit brings together AAPI nonprofit news leaders at the AAJA convention to share support, spark innovation, and strategize how we build power and center our communities in journalism. Sponsored by the MacArthur Foundation, the summit fosters collaboration and bold ideas for the future of nonprofit media.</p>",
+      "start_time": "2025-08-01T15:00:00.000000+0000",
+      "day": "Fri 8/1",
+      "time": "8 AM PDT",
+      "locations": [],
+      "tracks": []
+    },
+    {
       "id": 31496819,
       "name": "Accountability journalism and LGBTQ+ rights",
       "description": "<p>As LGBTQ+ rights face mounting attacks across the country, institutions such as schools, hospitals, libraries and courts are increasingly at the center of this struggle. This roundtable will explore how journalists can hold institutions accountable while reporting on both the erosion of rights and the efforts to defend and expand them. Panelists will discuss how to find these stories, navigate sensitive coverage with care and build trust with LGBTQ+ communities in the process.</p>",
@@ -1146,7 +1156,7 @@
     {
       "id": 31496832,
       "name": "Surviving and thriving when journalism throws you for a loop",
-      "description": "<p>Did you just get laid off? Are you ready to take the leap from journalism to a different career? Or are you just wondering how your skills might transfer to another industry? If you answered yes to any of these questions, this hands-on session is for you. We\u2019ll give you tips on navigating a career shift, how to exit a company on your terms and other industries where your skills may translate well. You\u2019ll hear from journalists who have sage advice on making a career shift, and also get a chance to break into small groups to discuss personal experiences with other convention attendees. Don\u2019t forget to bring your resume!</p>",
+      "description": "<p>Did you just get laid off? Are you ready to take the leap from journalism to a different career? Or are you just wondering how your skills might transfer to another industry? If you answered yes to any of these questions, this hands-on session is for you. We\u2019ll give you tips on navigating a career shift, how to exit a company on your terms and other industries where your skills may translate well. You\u2019ll hear from journalists who have sage advice on making a career shift, and also get a chance to break into small groups to discuss personal experiences with other convention attendees. </p>",
       "start_time": "2025-08-01T21:30:00.000000+0000",
       "day": "Fri 8/1",
       "time": "2:30 PM PDT",
@@ -1263,7 +1273,7 @@
     {
       "id": 31556104,
       "name": "50 years after the Vietnam War: Honoring the past and forging forward",
-      "description": "<p>How do Vietnamese Americans choose to commemorate their past of a war-torn country, separation from their loved ones, and difficult starts in a new country? Fifty years after the Vietnam War, Vietnamese American leaders are forging ahead, building community, encouraging storytelling, and celebrating food and culture, all while honoring their families&#x27; history. Join members of this community to learn how they&#x27;re weaving a painful legacy into stories of resilience, sacrifice, and belonging.</p>",
+      "description": "<p>How do Vietnamese Americans choose to commemorate their past of a war-torn country, separation from their loved ones, and difficult starts in a new country? Fifty years after the Vietnam War, they are forging ahead, building community, encouraging storytelling, and celebrating food and culture, all while honoring their families&#x27; history with a special look at Seattle and Washington state. Join members of this community to learn how they&#x27;re weaving a painful legacy into stories of resilience, sacrifice, and belonging - and how you can cover these types of stories where you are. During this panel, the short film Saigon to Seattle, touching on resettlement and evolution of the city&#x27;s Little Saigon, will be shown.</p>",
       "start_time": "2025-08-01T23:00:00.000000+0000",
       "day": "Fri 8/1",
       "time": "4 PM PDT",
