@@ -1,5 +1,5 @@
 {
-  "total_sessions": 117,
+  "total_sessions": 121,
   "pages_fetched": 3,
   "sessions": [
     {
@@ -393,7 +393,7 @@
     },
     {
       "id": 31515825,
-      "name": "Breaking barriers: AAPI women leading in corporate America",
+      "name": "Breaking barriers: AAPI women leading in entrepreneurship and corporate America",
       "description": "<p>From the boardroom to the C-suite, AAPI women continue to challenge stereotypes and reshape leadership in some of the world\u2019s most influential companies. Join dynamic leaders from JPMorgan Chase, Lush Decor and the Council of Korean Americans as they share personal stories, career insights and the realities of navigating identity, culture and power in the corporate world. This conversation will explore how they lead with authenticity, advocate for equity, and build pathways for the next generation \u2014 all through the lens of their experiences as AAPI women.</p>",
       "start_time": "2025-07-31T17:30:00.000000+0000",
       "day": "Thu 7/31",
@@ -459,6 +459,32 @@
         "Other"
       ],
       "tracks": []
+    },
+    {
+      "id": 31564692,
+      "name": "Photo AG lunchtime hangout",
+      "description": "",
+      "start_time": "2025-07-31T19:00:00.000000+0000",
+      "day": "Thu 7/31",
+      "time": "12 PM PDT",
+      "locations": [
+        "ASPEN"
+      ],
+      "tracks": []
+    },
+    {
+      "id": 31566942,
+      "name": "Audio Meetup",
+      "description": "<p>Are you an audio maker? You\u2019ve found your people! </p>\n<br>\n<p>Come meet and mingle with audio journalists, podcasters, and creators. Stop by early \u2014 one round of snacks will be provided by the NPR AZNs employee resource group. </p>\n<br>\n<p>\ud83c\udfa7 Date: Thursday, July 31, 2025</p>\n<p>\ud83c\udfa4 Time: 12:00 - 2:00 PM</p>\n<p>\ud83d\udcfb Location: Westlake Food Truck Pod \u2013 401 Pine Street. A 5-minute walk from the Sheraton Grand.</p>\n<br>\n<p>Questions? Contact organizer Mallory Cara!</p>",
+      "start_time": "2025-07-31T19:00:00.000000+0000",
+      "day": "Thu 7/31",
+      "time": "12 PM PDT",
+      "locations": [
+        "Other"
+      ],
+      "tracks": [
+        "Mixers/Receptions"
+      ]
     },
     {
       "id": 31524866,
@@ -561,7 +587,7 @@
     },
     {
       "id": 31496810,
-      "name": "Crossing platforms, capturing audiences: Storytelling for the modern era (Presented by DotDash Meredith)",
+      "name": "Crossing platforms, capturing audiences: Storytelling for the modern era (Presented by Dotdash Meredith)",
       "description": "<p>Editors from DotDash Meredith talk about how to reimagine storytelling that breaks through the noise. We\u2019ve built cross-platform brands, are reaching outside the usual print and digital options, and have had success. Editors will also talk about working in legacy media and pivoting with the times.</p>",
       "start_time": "2025-07-31T21:30:00.000000+0000",
       "day": "Thu 7/31",
@@ -716,20 +742,6 @@
       ]
     },
     {
-      "id": 31519943,
-      "name": "Northeast chapters mixer (DC, New England, NY and Philly )",
-      "description": "<p>Join us for our annual convention mixer with DC, NY, Philly &amp; New England chapters!</p>\n<br>\n<p><a href=\"https://flsseattle.org/\">Friends of Little Saigon Community Center,</a> 1227 S. Weller St. Suite A Seattle, WA 98144.</p>",
-      "start_time": "2025-08-01T00:00:00.000000+0000",
-      "day": "Thu 7/31",
-      "time": "5 PM PDT",
-      "locations": [
-        "Other"
-      ],
-      "tracks": [
-        "Mixers/Receptions"
-      ]
-    },
-    {
       "id": 31524870,
       "name": "Funny, fierce and flipping the script with NBCU\u2019s \u201cSt. Denis Medical\u201d and \u201cThe Paper\u201d",
       "description": "<p>Join the NBCU cast and creatives from NBC\u2019s <em>St. Denis Medical</em> and Peacock\u2019s <em>The Paper</em> as they talk about how they\u2019re challenging outdated tropes and creating fresh, authentic portrayals of Asian women in comedy today. Moderated by MSNBC\u2019s Yasmin Vossoughian, the panel will feature <em>St. Denis Medical</em> executive producer Vicky Luu and star Kahyun Kim, alongside <em>The Paper</em> series regular Ramona Young. <em>St. Denis Medical</em> and <em>The Paper</em> are both produced by Universal Studio Group.</p>\n<br>\n<p>This session is part of the NBCU Academy Workshops and is open to all convention participants.</p>\n<p>To learn more about NBCU Academy at AAJA: <u><a href=\"https://nbcuacademy.com/event/aaja-2025/\">https://nbcuacademy.com/event/aaja-2025/</a></u></p>",
@@ -758,9 +770,37 @@
       ]
     },
     {
+      "id": 31566119,
+      "name": "FOX Reception",
+      "description": "",
+      "start_time": "2025-08-01T00:00:00.000000+0000",
+      "day": "Thu 7/31",
+      "time": "5 PM PDT",
+      "locations": [
+        "Other"
+      ],
+      "tracks": [
+        "Mixers/Receptions"
+      ]
+    },
+    {
       "id": 31496813,
       "name": "Yung AAJA convention mixer",
       "description": "<p>Come join Yung AAJA for our annual convention mixer at Saigon Drip Cafe! We&#x27;ll have banh mi sandwiches available for attendees. </p>",
+      "start_time": "2025-08-01T00:30:00.000000+0000",
+      "day": "Thu 7/31",
+      "time": "5:30 PM PDT",
+      "locations": [
+        "Other"
+      ],
+      "tracks": [
+        "Mixers/Receptions"
+      ]
+    },
+    {
+      "id": 31519943,
+      "name": "Northeast regional mixer (DC, NY, Philly, New England, SAJA)",
+      "description": "<p>Join us for our annual convention mixer with AAJA-DC, NY, Philly and New England members as well as SAJA! It&#x27;s invaluable for our members to network with each other, given how common it is for folks to move between our areas for job opportunities. We&#x27;ll cater light appetizers, including egg rolls, papaya salad, mung bean/pandan cake and more. The venue is 10 minutes by car or 15 minutes by bus from the convention site. Hope to see you all there.</p>\n<br>\n<p><a href=\"https://flsseattle.org/\">Friends of Little Saigon Community Center,</a> 1227 S. Weller St. Suite A Seattle, WA 98144.</p>",
       "start_time": "2025-08-01T00:30:00.000000+0000",
       "day": "Thu 7/31",
       "time": "5:30 PM PDT",
@@ -1327,7 +1367,7 @@
     {
       "id": 31516854,
       "name": "Invigorating alternative news media with Noisy Creek",
-      "description": "<p>Join Noisy Creek founder and CEO Brady Walkinshaw for an evening of drinks, snacks, and a celebration of local media. Located at Noisy Creek&#x27;s new offices on Capitol Hill, this reception is at the heart of Seattle&#x27;s journalistic and cultural intersections. <br><br>Founded in 2024, Noisy Creek publishes two iconic newspapers: The Stranger in Seattle, and the Portland Mercury. The Stranger and Mercury have served as vital voices of their cities for decades, breaking news, defining culture, and winning awards, including The Stranger&#x27;s 2012 Pulitzer Prize. <br><br>In addition to their editorial products, Noisy Creek operates EverOut, the event discovery site, and Bold Type Tickets, a national ticketing platform. With growing newsrooms and a unique mix of digital and print products, Noisy Creek is designing a new model for invigorating local media.</p>",
+      "description": "<p>Join Noisy Creek founder and CEO Brady Walkinshaw for an evening of drinks, snacks, and a celebration of local media. Located at Noisy Creek&#x27;s new offices on Capitol Hill, this reception is at the heart of Seattle&#x27;s journalistic and cultural intersections. <br><br>Founded in 2024, Noisy Creek publishes two iconic newspapers: The Stranger in Seattle, and the Portland Mercury. The Stranger and Mercury have served as vital voices of their cities for decades, breaking news, defining culture, and winning awards, including The Stranger&#x27;s 2012 Pulitzer Prize. <br><br>In addition to their editorial products, Noisy Creek operates EverOut, the event discovery site, and Bold Type Tickets, a national ticketing platform. With growing newsrooms and a unique mix of digital and print products, Noisy Creek is designing a new model for invigorating local media.</p>\n<br>\n<p><strong>Noisy Creek&#x27;s offices are located at the intersection of 11th Avenue E and E Pike Street, above Retrofit Home. Look for the door with the call box next to it</strong></p>",
       "start_time": "2025-08-02T01:00:00.000000+0000",
       "day": "Fri 8/1",
       "time": "6 PM PDT",
@@ -1574,6 +1614,16 @@
       "locations": [
         "Other"
       ],
+      "tracks": []
+    },
+    {
+      "id": 31564694,
+      "name": "Photo AG lunchtime hangout",
+      "description": "",
+      "start_time": "2025-08-02T19:00:00.000000+0000",
+      "day": "Sat 8/2",
+      "time": "12 PM PDT",
+      "locations": [],
       "tracks": []
     },
     {

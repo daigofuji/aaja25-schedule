@@ -28,11 +28,13 @@ id,name,day,time,locations,schedule_tracks
 31551970,"Seattle Times leadership salon (Presented by AAJA Executive Leadership Program)",Thu 7/31,10 AM PDT,2025-07-31T17:00:00.000000+0000,,
 31496802,"Covering democracy under Trump",Thu 7/31,10:30 AM PDT,2025-07-31T17:30:00.000000+0000,ASPEN,Community
 31496803,"Harnessing the power of local journalism to serve our communities",Thu 7/31,10:30 AM PDT,2025-07-31T17:30:00.000000+0000,CEDAR,Community|Training
-31515825,"Breaking barriers: AAPI women leading in corporate America",Thu 7/31,10:30 AM PDT,2025-07-31T17:30:00.000000+0000,REDWOOD,Leadership
+31515825,"Breaking barriers: AAPI women leading in entrepreneurship and corporate America",Thu 7/31,10:30 AM PDT,2025-07-31T17:30:00.000000+0000,REDWOOD,Leadership
 31522519,"Storytelling, visualization and data: Insights from the Field",Thu 7/31,10:30 AM PDT,2025-07-31T17:30:00.000000+0000,METROPOLITAN B,Innovation|Training
 31496804,"NBCU Academy workshop: The art of the interview — asking questions that matter (plus HelloHive)",Thu 7/31,10:45 AM PDT,2025-07-31T17:45:00.000000+0000,WILLOW,Training
 31496806,"News Nerds networking casual lunch gathering",Thu 7/31,11:30 AM PDT,2025-07-31T18:30:00.000000+0000,Other,Mixers/Receptions
 31539225,"Seattle Times lunch and tour",Thu 7/31,11:30 AM PDT,2025-07-31T18:30:00.000000+0000,Other,
+31564692,"Photo AG lunchtime hangout",Thu 7/31,12 PM PDT,2025-07-31T19:00:00.000000+0000,ASPEN,
+31566942,"Audio Meetup",Thu 7/31,12 PM PDT,2025-07-31T19:00:00.000000+0000,Other,Mixers/Receptions
 31524866,"Vicky Nguyen’s book signing (presented by NBCU Academy)",Thu 7/31,12:30 PM PDT,2025-07-31T19:30:00.000000+0000,WILLOW,Community
 31514468,"Creating entrepreneurship systems that work for you/Secrets of full-time freelancers (Presented by Freelance AG)",Thu 7/31,1 PM PDT,2025-07-31T20:00:00.000000+0000,ASPEN,Training
 31515827,"Reporting power in a polarized world: Covering the White House and Congress in 2025",Thu 7/31,1 PM PDT,2025-07-31T20:00:00.000000+0000,METROPOLITAN B,Leadership
@@ -40,7 +42,7 @@ id,name,day,time,locations,schedule_tracks
 31496808,"CNN MasterCraft: The digital essentials",Thu 7/31,2 PM PDT,2025-07-31T21:00:00.000000+0000,CEDAR,Training
 31535472,"So you want to be a modern-day storyteller (Presented by ESPN)",Thu 7/31,2 PM PDT,2025-07-31T21:00:00.000000+0000,REDWOOD,Innovation|Training
 31534778,"‘Here’s the Scoop’: How to launch a successful podcast (Presented by NBCU Academy)",Thu 7/31,2:15 PM PDT,2025-07-31T21:15:00.000000+0000,WILLOW,Leadership
-31496810,"Crossing platforms, capturing audiences: Storytelling for the modern era (Presented by DotDash Meredith)",Thu 7/31,2:30 PM PDT,2025-07-31T21:30:00.000000+0000,ASPEN,Innovation|Training
+31496810,"Crossing platforms, capturing audiences: Storytelling for the modern era (Presented by Dotdash Meredith)",Thu 7/31,2:30 PM PDT,2025-07-31T21:30:00.000000+0000,ASPEN,Innovation|Training
 31522520,"Soft power, bold leadership: Jonathan Sposato on redefining success in media and tech (Presented by JoySauce TV, Seattle Magazine and Seattle Business Magazine)",Thu 7/31,2:30 PM PDT,2025-07-31T21:30:00.000000+0000,METROPOLITAN B,Leadership|Community|Innovation
 31551971,"ABC leadership salon (Presented by AAJA Executive Leadership Program)",Thu 7/31,3 PM PDT,2025-07-31T22:00:00.000000+0000,,
 31496811,"NBCU Academy Script Doctor",Thu 7/31,3:15 PM PDT,2025-07-31T22:15:00.000000+0000,WILLOW,Training
@@ -51,10 +53,11 @@ id,name,day,time,locations,schedule_tracks
 31535474,"Society and sports: Telling stories that matter (Presented by ESPN)",Thu 7/31,4:45 PM PDT,2025-07-31T23:45:00.000000+0000,REDWOOD,Training
 31496814,"JCAMP + VOICES reception",Thu 7/31,5 PM PDT,2025-08-01T00:00:00.000000+0000,METROPOLITAN A,Mixers/Receptions
 31496815,"California chapters AAJA convention mixer",Thu 7/31,5 PM PDT,2025-08-01T00:00:00.000000+0000,Other,Mixers/Receptions
-31519943,"Northeast chapters mixer (DC, New England, NY and Philly )",Thu 7/31,5 PM PDT,2025-08-01T00:00:00.000000+0000,Other,Mixers/Receptions
 31524870,"Funny, fierce and flipping the script with NBCU’s “St. Denis Medical” and “The Paper”",Thu 7/31,5 PM PDT,2025-08-01T00:00:00.000000+0000,WILLOW,Community
 31551831,"NW Asian Weekly AAJA Convention Mixer",Thu 7/31,5 PM PDT,2025-08-01T00:00:00.000000+0000,Other,Mixers/Receptions
+31566119,"FOX Reception",Thu 7/31,5 PM PDT,2025-08-01T00:00:00.000000+0000,Other,Mixers/Receptions
 31496813,"Yung AAJA convention mixer",Thu 7/31,5:30 PM PDT,2025-08-01T00:30:00.000000+0000,Other,Mixers/Receptions
+31519943,"Northeast regional mixer (DC, NY, Philly, New England, SAJA)",Thu 7/31,5:30 PM PDT,2025-08-01T00:30:00.000000+0000,Other,Mixers/Receptions
 31539916,"Washington Post reception",Thu 7/31,5:30 PM PDT,2025-08-01T00:30:00.000000+0000,Other,Mixers/Receptions
 31496816,"Freelance, photo and video AGs ASEAN StrEAT food mixer",Thu 7/31,6 PM PDT,2025-08-01T01:00:00.000000+0000,Other,Mixers/Receptions
 31496817,"Seattle chapter 40th anniversary reception",Thu 7/31,6 PM PDT,2025-08-01T01:00:00.000000+0000,Other,Mixers/Receptions
@@ -113,6 +116,7 @@ id,name,day,time,locations,schedule_tracks
 31535479,"From headlines to Hollywood: Making the career transition from journalism to marketing (Presented by IW Group)",Sat 8/2,10:30 AM PDT,2025-08-02T17:30:00.000000+0000,METROPOLITAN A,Innovation|Training
 31540065,"From presence to power: Asian American leaders shaping communities (Presented by the Council of Korean Americans)",Sat 8/2,10:30 AM PDT,2025-08-02T17:30:00.000000+0000,CEDAR,Leadership|Community
 31526358,"ROSEMEAD (柔似蜜) screening (Presented by TAAF)",Sat 8/2,12 PM PDT,2025-08-02T19:00:00.000000+0000,Other,
+31564694,"Photo AG lunchtime hangout",Sat 8/2,12 PM PDT,2025-08-02T19:00:00.000000+0000,,
 31541310,"Seattle chapter tours: Chinatown-International District guided tour",Sat 8/2,2 PM PDT,2025-08-02T21:00:00.000000+0000,Other,Mixers/Receptions
 31362656,"Annual gala scholarship & awards banquet (Presented by NBCUniversal)",Sat 8/2,6 PM PDT,2025-08-03T01:00:00.000000+0000,GRAND BALLROOM,Mixers/Receptions
 31519944,"Karaoke!",Sat 8/2,9 PM PDT,2025-08-03T04:00:00.000000+0000,METROPOLITAN A,Mixers/Receptions
