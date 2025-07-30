@@ -1,5 +1,5 @@
 {
-  "total_sessions": 122,
+  "total_sessions": 121,
   "pages_fetched": 3,
   "sessions": [
     {
@@ -457,18 +457,6 @@
       "time": "11:30 AM PDT",
       "locations": [
         "Other"
-      ],
-      "tracks": []
-    },
-    {
-      "id": 31564692,
-      "name": "Photo AG lunchtime hangout",
-      "description": "",
-      "start_time": "2025-07-31T19:00:00.000000+0000",
-      "day": "Thu 7/31",
-      "time": "12 PM PDT",
-      "locations": [
-        "ASPEN"
       ],
       "tracks": []
     },
@@ -1583,7 +1571,7 @@
       "day": "Sat 8/2",
       "time": "10:30 AM PDT",
       "locations": [
-        "REDWOOD"
+        "METROPOLITAN A"
       ],
       "tracks": [
         "Innovation"
@@ -1597,7 +1585,7 @@
       "day": "Sat 8/2",
       "time": "10:30 AM PDT",
       "locations": [
-        "METROPOLITAN A"
+        "REDWOOD"
       ],
       "tracks": [
         "Innovation",
