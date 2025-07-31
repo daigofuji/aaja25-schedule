@@ -137,7 +137,9 @@ def main():
     # Check if API key is set
     if not API_KEY:
         print("Error: GUIDEBOOK_API_KEY environment variable is not set")
-        print("Please set it by running: export GUIDEBOOK_API_KEY='your_api_key_here'")
+        print("See doc at https://github.com/daigofuji/aaja25-schedule")
+        print("You are most likely missing .env file: see .env.example")
+        print("It should look like `GUIDEBOOK_API_KEY=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx`")
         return
     
     print(f"Using API key: {API_KEY[:10]}..." if len(API_KEY) > 10 else API_KEY)

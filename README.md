@@ -44,6 +44,7 @@ To deploy, simply run `npm run deploy` in the root directory. which will push co
 ```html
 <side-chain src="https://daigofuji.github.io/aaja25-schedule/"></side-chain>
 <script src="https://apps.npr.org/sidechain/loader.js"></script>
+<p style="font-size: 12px;">Calendar not displaying? <button onclick="location.reload()" style="font-size: 12px;border:none;">Reload</button></p>
 ```
 
 

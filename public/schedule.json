@@ -1,20 +1,26 @@
 {
-  "total_sessions": 105,
+  "total_sessions": 122,
   "pages_fetched": 3,
   "sessions": [
     {
-      "id": 31541312,
-      "name": "Seattle chapter tours: Exclusive AAJA Pike Place AAPI tour",
-      "description": "<p><strong>Date</strong>: Tuesday, July 29 at 2:30 p.m.</p>\n<p><strong>Cost</strong>: $119 per ticket</p>\n<p><strong>Description</strong>: A tailor-made experience just for the AAJA group. Limited to 16 people. This exclusive behind-the-scenes tour at Pike Place Market will highlight some of the AAPI business owners in the market, in addition to learning and tasting a variety of cuisines represented in the market. Hear from some of the AAPI business owners about their personal experiences and stories. Minimum of 12 participants needed to make this tour happen, confirmation will be sent out prior to the tour.</p>\n<p><strong>Sign Up and Payment:</strong><a href=\"https://docs.google.com/forms/d/e/1FAIpQLSfDrTmQXi3rtVipn1ZdkK5fdLzBILzcusrYO02ab2TZLuN8kQ/viewform\"><strong> </strong><u>https://docs.google.com/forms/d/e/1FAIpQLSfDrTmQXi3rtVipn1ZdkK5fdLzBILzcusrYO02ab2TZLuN8kQ/viewform</u></a></p>",
-      "start_time": "2025-07-29T21:30:00.000000+0000",
-      "day": "Tue 7/29",
-      "time": "2:30 PM PDT",
-      "locations": [
-        "Other"
-      ],
-      "tracks": [
-        "Mixers/Receptions"
-      ]
+      "id": 31556100,
+      "name": "VOICES",
+      "description": "<p><strong>Invite only.</strong></p>",
+      "start_time": "2025-07-30T14:30:00.000000+0000",
+      "day": "Wed 7/30",
+      "time": "7:30 AM PDT",
+      "locations": [],
+      "tracks": []
+    },
+    {
+      "id": 31551938,
+      "name": "Executive Leadership Program",
+      "description": "<p><strong>Invite only.</strong></p>",
+      "start_time": "2025-07-30T16:30:00.000000+0000",
+      "day": "Wed 7/30",
+      "time": "9:30 AM PDT",
+      "locations": [],
+      "tracks": []
     },
     {
       "id": 31496788,
@@ -41,6 +47,21 @@
         "METROPOLITAN A"
       ],
       "tracks": [
+        "Training"
+      ]
+    },
+    {
+      "id": 31515823,
+      "name": "AI tools to amplify your journalism without replacing your judgment",
+      "description": "<p>Discover how AI can handle the grunt work so you can focus on your journalism. This session will demo practical applications of various AI tools from NotebookLM to Claude, Fathom and others for research, transcription, and story development. By the end of this session, you\u2019ll leave with a wider perspective of different AI tools that will allow you to work smarter, not harder.</p>",
+      "start_time": "2025-07-30T17:30:00.000000+0000",
+      "day": "Wed 7/30",
+      "time": "10:30 AM PDT",
+      "locations": [
+        "CEDAR"
+      ],
+      "tracks": [
+        "Innovation",
         "Training"
       ]
     },
@@ -100,21 +121,6 @@
       ]
     },
     {
-      "id": 31515823,
-      "name": "AI tools to amplify your journalism without replacing your judgment",
-      "description": "<p>Discover how AI can handle the grunt work so you can focus on your journalism. This session will demo practical applications of various AI tools from NotebookLM to Claude, Fathom and others for research, transcription, and story development. By the end of this session, you\u2019ll leave with a wider perspective of different AI tools that will allow you to work smarter, not harder.</p>",
-      "start_time": "2025-07-30T19:30:00.000000+0000",
-      "day": "Wed 7/30",
-      "time": "12:30 PM PDT",
-      "locations": [
-        "CEDAR"
-      ],
-      "tracks": [
-        "Innovation",
-        "Training"
-      ]
-    },
-    {
       "id": 31515824,
       "name": "Turn on the radio (Presented by The James B. McClatchy Foundation)",
       "description": "<p>The team from The Intersection, Central Valley Journalism Collaborative\u2019s Health Equity Reporting Lab, discuss how small newsrooms can use audio reporting to increase audience, impact, partnerships and brand recognition, and how to start producing radio and podcasts from scratch.</p>",
@@ -123,6 +129,20 @@
       "time": "12:30 PM PDT",
       "locations": [
         "METROPOLITAN A"
+      ],
+      "tracks": [
+        "Training"
+      ]
+    },
+    {
+      "id": 31535471,
+      "name": "Prying loose public records (Presented by Investigative Reporters & Editors)",
+      "description": "<p>A broad introduction to using open records laws at the federal and state levels, customized for your coverage area. You\u2019ll also receive a checklist of all you need to know before you make a request.</p>",
+      "start_time": "2025-07-30T19:30:00.000000+0000",
+      "day": "Wed 7/30",
+      "time": "12:30 PM PDT",
+      "locations": [
+        "CEDAR"
       ],
       "tracks": [
         "Training"
@@ -157,17 +177,17 @@
       ]
     },
     {
-      "id": 31535471,
-      "name": "Prying loose public records (Presented by Investigative Reporters & Editors)",
-      "description": "<p>A broad introduction to using open records laws at the federal and state levels, customized for your coverage area. You\u2019ll also receive a checklist of all you need to know before you make a request.</p>",
-      "start_time": "2025-07-30T21:30:00.000000+0000",
+      "id": 31554673,
+      "name": "Leading with purpose in challenging times: A fireside chat with Rep. Marilyn Strickland",
+      "description": "<p>In a time marked by widespread misinformation, increasing political division, and challenges to democratic institutions, what does it mean to lead with purpose and integrity?</p>\n<p>Rep. Marilyn Strickland, one of the first women of both Korean and African American heritage elected to Congress, brings a unique perspective shaped by her lived experiences and a commitment to public service.</p>\n<p>In this important conversation, moderated by Emmy-winning journalist and ABC News anchor Juju Chang, Strickland will discuss her insights on the responsibilities of leadership, the importance of AAPI representation, the opportunities and challenges of representing Washington state, and how to foster understanding and trust in our democracy.</p>",
+      "start_time": "2025-07-30T22:00:00.000000+0000",
       "day": "Wed 7/30",
-      "time": "2:30 PM PDT",
+      "time": "3 PM PDT",
       "locations": [
         "REDWOOD"
       ],
       "tracks": [
-        "Training"
+        "Leadership"
       ]
     },
     {
@@ -227,8 +247,18 @@
       ]
     },
     {
+      "id": 31556101,
+      "name": "VOICES",
+      "description": "<p><strong>Invite only.</strong></p>",
+      "start_time": "2025-07-31T14:30:00.000000+0000",
+      "day": "Thu 7/31",
+      "time": "7:30 AM PDT",
+      "locations": [],
+      "tracks": []
+    },
+    {
       "id": 31496796,
-      "name": "AARP breakfast dialogue: Intergenerational talk, story with OGs across generations (Presented by AARP)",
+      "name": "AARP breakfast dialogue: Intergenerational talk story with OGs across generations (Presented by AARP)",
       "description": "<p>Last year, journalists of different generations came together in this informal exchange with a range of panelists whose careers have led them to deep engagement with diverse communities and inspiring examples of turning their journalistic backgrounds into new impactful efforts that advance AAPI and other communities. Their journeys reflect a range of fascinating paths into community/ethnic media; communications/advertising; documentary production; nonprofit legal advocacy; playwriting and Zen priesthood; and much more. Come with questions and curiosity to see how other journalists morphed their careers into more direct community involvement and impact \u2014 and we hope to hear about yours. Coffee, tea and a light breakfast generously sponsored by AARP.</p>\n<br>\n<p>You must RSVP by clicking on \u201cRegister now\u201d below.</p>",
       "start_time": "2025-07-31T15:00:00.000000+0000",
       "day": "Thu 7/31",
@@ -262,7 +292,7 @@
       "day": "Thu 7/31",
       "time": "9 AM PDT",
       "locations": [
-        "CEDAR"
+        "REDWOOD"
       ],
       "tracks": [
         "Community"
@@ -288,7 +318,7 @@
       "day": "Thu 7/31",
       "time": "9 AM PDT",
       "locations": [
-        "METROPOLITAN A"
+        "CEDAR"
       ],
       "tracks": [
         "Training"
@@ -296,8 +326,8 @@
     },
     {
       "id": 31496801,
-      "name": "NBCU Academy: In conversation with Vicky Nguyen: Identity, resilience and breaking through (Presented by NBC)",
-      "description": "<p>In her deeply personal new memoir, <em>Boat Baby: A Memoir</em>, NBC News anchor and correspondent Vicky Nguyen pays tribute to her parents\u2019 sacrifice and the journey that brought her from refugee to national news anchor. In this inspiring conversation, Nguyen shares how her Vietnamese American identity shaped her path in journalism, the lessons she learned from local newsrooms across the country, and how she brings her full self to the anchor desk. Don\u2019t miss this powerful session on belonging, perseverance and what it means to tell stories that matter \u2014 from the inside out.</p>\n<br>\n<p>This session is part of the NBCU Academy Workshops and is open to all convention participants. To learn more about NBCU Academy at AAJA: <a href=\"https://nbcuacademy.com/event/aaja-2025/\">https://nbcuacademy.com/event/aaja-2025/</a></p>",
+      "name": "NBCU Academy in conversation with Vicky Nguyen: Identity, resilience and breaking through",
+      "description": "<p>In her deeply personal new memoir, <em>Boat Baby: A Memoir,</em> NBC News anchor and correspondent Vicky Nguyen pays tribute to her parents\u2019 sacrifice and the journey that brought her from refugee to national news anchor. In this inspiring conversation, Nguyen shares how her Vietnamese American identity shaped her path in journalism, the lessons she learned from local newsrooms across the country, and how she brings her full self to the anchor desk. Don\u2019t miss this powerful session on belonging, perseverance and what it means to tell stories that matter \u2014 from the inside out.</p>\n<br>\n<p>This session is part of the NBCU Academy Workshops and is open to all convention participants.</p>\n<p>To learn more about NBCU Academy at AAJA: <a href=\"https://nbcuacademy.com/event/aaja-2025/\">https://nbcuacademy.com/event/aaja-2025/</a></p>\n<br>\n<p>Moderator: Ali Velshi, MSNBC Chief Correspondent &amp; Host of \u201cVelshi\u201d</p>\n<p>Special Guest: Vicky Nguyen, \u201cNBC News Daily\u201d Co-Anchor &amp; NBC News Chief Consumer Investigative Correspondent </p>\n<br>",
       "start_time": "2025-07-31T16:00:00.000000+0000",
       "day": "Thu 7/31",
       "time": "9 AM PDT",
@@ -321,6 +351,16 @@
       "tracks": [
         "Training"
       ]
+    },
+    {
+      "id": 31551970,
+      "name": "Seattle Times leadership salon (Presented by AAJA Executive Leadership Program)",
+      "description": "<p><strong>Invite only.</strong></p>\n<br>\n<p>Go behind the scenes with Seattle Times Executive Editor Michele Matassa Flores and Managing Editor Lynn Jacobson in a candid, off-the-record conversation on leadership\u2014moderated by Sharon Chan of <em>The New York Times</em>.</p>",
+      "start_time": "2025-07-31T17:00:00.000000+0000",
+      "day": "Thu 7/31",
+      "time": "10 AM PDT",
+      "locations": [],
+      "tracks": []
     },
     {
       "id": 31496802,
@@ -353,7 +393,7 @@
     },
     {
       "id": 31515825,
-      "name": "Breaking barriers: AAPI women leading in corporate America",
+      "name": "Breaking barriers: AAPI women leading in entrepreneurship and corporate America",
       "description": "<p>From the boardroom to the C-suite, AAPI women continue to challenge stereotypes and reshape leadership in some of the world\u2019s most influential companies. Join dynamic leaders from JPMorgan Chase, Lush Decor and the Council of Korean Americans as they share personal stories, career insights and the realities of navigating identity, culture and power in the corporate world. This conversation will explore how they lead with authenticity, advocate for equity, and build pathways for the next generation \u2014 all through the lens of their experiences as AAPI women.</p>",
       "start_time": "2025-07-31T17:30:00.000000+0000",
       "day": "Thu 7/31",
@@ -383,21 +423,7 @@
     {
       "id": 31496804,
       "name": "NBCU Academy workshop: The art of the interview \u2014 asking questions that matter (plus HelloHive)",
-      "description": "<p>Great interviews are built on thoughtful questions, sharp instincts and genuine curiosity. In this interactive session, you\u2019ll learn the art of asking better questions \u2014 from setting the tone to knowing when to stay silent. Through real-world examples and guided discussions, you\u2019ll gain practical tools to build trust, spark emotion or unlock a headline. We\u2019ll cover techniques for approaching interviews with public officials, experts and people affected by breaking or tragic events. Whether reporting for on-air, print or digital platforms, this session will help you grow not just as a journalist but as a better communicator, listener and storyteller.</p>\n<br>\n<p>This session is part of the NBCU Academy Workshops and is open to all convention participants. However, if you\u2019d like to take part in the interactive interview sessions with an NBCU professor, please apply in advance here: <a href=\"https://nbcuacademy.com/event/aaja-2025/\">https://nbcuacademy.com/event/aaja-2025/</a></p>",
-      "start_time": "2025-07-31T17:45:00.000000+0000",
-      "day": "Thu 7/31",
-      "time": "10:45 AM PDT",
-      "locations": [
-        "WILLOW"
-      ],
-      "tracks": [
-        "Training"
-      ]
-    },
-    {
-      "id": 31496805,
-      "name": "Level up: NBCU Academy\u2019s exclusive journalism workshop experience",
-      "description": "<p>Step inside the newsroom with NBCU Academy. We&#x27;re offering a one-day, invite-only experience packed with practical skills and powerful conversations with award-winning journalists from NBC News, NBCU Local, Telemundo, CNBC and MSNBC. Learn through immersive workshops on writing, interviewing and storytelling for TV, streaming and digital \u2014 all with real-time feedback. Participants will also get exclusive access to the HelloHive team, who will offer advice on resumes. If you&#x27;re curious, driven and ready to grow, this is where your next level begins.<br> <br> To learn more about NBCU Academy at AAJA: <a href=\"https://nbcuacademy.com/event/aaja-2025/\">https://nbcuacademy.com/event/aaja-2025/</a></p>",
+      "description": "<p>Great interviews are built on thoughtful questions, sharp instincts and genuine curiosity. In this interactive session, you\u2019ll learn the art of asking better questions \u2014 from setting the tone to knowing when to stay silent. Through real-world examples and guided discussions, you\u2019ll gain practical tools to build trust, spark emotion or unlock a headline. We\u2019ll cover techniques for approaching interviews with public officials, experts and people affected by breaking or tragic events. Whether reporting for on-air, print or digital platforms, this session will help you grow not just as a journalist but as a better communicator, listener and storyteller.</p>\n<br>\n<p>This session is part of the NBCU Academy Workshops and is open to all convention participants. However, if you\u2019d like to take part in the interactive interview sessions with an NBCU professor, please apply in advance here: <u><a href=\"https://nbcuacademy.com/event/aaja-2025/\">https://nbcuacademy.com/event/aaja-2025/</a></u></p>",
       "start_time": "2025-07-31T17:45:00.000000+0000",
       "day": "Thu 7/31",
       "time": "10:45 AM PDT",
@@ -435,6 +461,34 @@
       "tracks": []
     },
     {
+      "id": 31566942,
+      "name": "Audio Meetup",
+      "description": "<p>Are you an audio maker? You\u2019ve found your people! </p>\n<br>\n<p>Come meet and mingle with audio journalists, podcasters, and creators. Stop by early \u2014 one round of snacks will be provided by the NPR AZNs employee resource group. </p>\n<br>\n<p>\ud83c\udfa7 Date: Thursday, July 31, 2025</p>\n<p>\ud83c\udfa4 Time: 12:00 - 2:00 PM</p>\n<p>\ud83d\udcfb Location: Westlake Food Truck Pod \u2013 401 Pine Street. A 5-minute walk from the Sheraton Grand.</p>\n<br>\n<p>Questions? Contact organizer Mallory Cara!</p>",
+      "start_time": "2025-07-31T19:00:00.000000+0000",
+      "day": "Thu 7/31",
+      "time": "12 PM PDT",
+      "locations": [
+        "Other"
+      ],
+      "tracks": [
+        "Mixers/Receptions"
+      ]
+    },
+    {
+      "id": 31524866,
+      "name": "Vicky Nguyen\u2019s book signing (presented by NBCU Academy)",
+      "description": "<p>NBC News anchor and correspondent Vicky Nguyen signs copies of her new memoir <em>\u201cBoat Baby.\u201d</em></p>\n<br>\n<p>This session is part of the NBCU Academy Workshops and is open to all convention participants.</p>\n<p>To learn more about NBCU Academy at AAJA: <u><a href=\"https://nbcuacademy.com/event/aaja-2025/\">https://nbcuacademy.com/event/aaja-2025/</a></u></p>",
+      "start_time": "2025-07-31T19:30:00.000000+0000",
+      "day": "Thu 7/31",
+      "time": "12:30 PM PDT",
+      "locations": [
+        "WILLOW"
+      ],
+      "tracks": [
+        "Community"
+      ]
+    },
+    {
       "id": 31514468,
       "name": "Creating entrepreneurship systems that work for you/Secrets of full-time freelancers (Presented by Freelance AG)",
       "description": "<p>Between mass layoffs and an unstable job market, more journalists are freelancing out of need or by choice \u2014 and many are creating their own newsletters or startup businesses to support their work. This session will cover how to create systems that take work off your plate! You\u2019ll see a demo of the Institute for Independent Journalists\u2019 interactive online freelance startup guide, which helps answer the key questions for ramping up a side hustle into a full-time business. Panelists will share tools for setting your rate, networking to find great assignments, building relationships with clients, and juggling multiple projects. Participants will leave the session with a slew of new tools and strategies for making freelancing emotionally and financially sustainable.</p>",
@@ -465,21 +519,7 @@
     {
       "id": 31496807,
       "name": "CNBC presents: What every journalist should know about personal finance",
-      "description": "<p>When you\u2019re chasing deadlines or covering the latest market moves, your own finances can end up on the back burner. Knowing how to manage your money is just as important as knowing how to cover the story. Join Sharon Epperson, CNBC\u2019s senior personal finance correspondent, for a candid and practical conversation about what every journalist\u2014no matter your beat or career stage\u2014should know about personal finance. Whether you\u2019re just starting out or leveling up in your career, this is your opportunity to gain the tools and confidence to take charge of your financial future.</p>\n<br>\n<p>This session is part of the NBCU Academy Workshops and is open to all convention participants. To learn more about NBCU Academy at AAJA: <a href=\"https://nbcuacademy.com/event/aaja-2025/\">https://nbcuacademy.com/event/aaja-2025/</a></p>",
-      "start_time": "2025-07-31T20:15:00.000000+0000",
-      "day": "Thu 7/31",
-      "time": "1:15 PM PDT",
-      "locations": [
-        "WILLOW"
-      ],
-      "tracks": [
-        "Community"
-      ]
-    },
-    {
-      "id": 31524866,
-      "name": "Vicky Nguyen\u2019s book signing (presented by NBCU Academy)",
-      "description": "<p>NBC News anchor and correspondent Vicky Nguyen signs copies of her new memoir \u201c<em>Boat Baby.\u201d</em></p>",
+      "description": "<p>When you\u2019re chasing deadlines or covering the latest market moves, your own finances can end up on the back burner. Knowing how to manage your money is just as important as knowing how to cover the story. Join Sharon Epperson, CNBC\u2019s senior personal finance correspondent, for a candid and practical conversation about what every journalist\u2014no matter your beat or career stage\u2014should know about personal finance. Whether you\u2019re just starting out or leveling up in your career, this is your opportunity to gain the tools and confidence to take charge of your financial future.</p>\n<br>\n<p>This session is part of the NBCU Academy Workshops and is open to all convention participants.</p>\n<p>To learn more about NBCU Academy at AAJA: <u><a href=\"https://nbcuacademy.com/event/aaja-2025/\">https://nbcuacademy.com/event/aaja-2025/</a></u></p>",
       "start_time": "2025-07-31T20:15:00.000000+0000",
       "day": "Thu 7/31",
       "time": "1:15 PM PDT",
@@ -535,8 +575,8 @@
     },
     {
       "id": 31496810,
-      "name": "Crossing platforms, capturing audiences: Storytelling for the modern era (Presented by Dot Dash Meredith)",
-      "description": "<p>Editors from Dotdash Meredith talk about how to reimagine storytelling that breaks through the noise. We\u2019ve built cross-platform brands, are reaching outside the usual print and digital options, and have had success. Editors will also talk about working in legacy media and pivoting with the times.</p>",
+      "name": "Crossing platforms, capturing audiences: Storytelling for the modern era (Presented by Dotdash Meredith)",
+      "description": "<p>Editors from DotDash Meredith talk about how to reimagine storytelling that breaks through the noise. We\u2019ve built cross-platform brands, are reaching outside the usual print and digital options, and have had success. Editors will also talk about working in legacy media and pivoting with the times.</p>",
       "start_time": "2025-07-31T21:30:00.000000+0000",
       "day": "Thu 7/31",
       "time": "2:30 PM PDT",
@@ -551,7 +591,7 @@
     {
       "id": 31522520,
       "name": "Soft power, bold leadership: Jonathan Sposato on redefining success in media and tech (Presented by JoySauce TV, Seattle Magazine and Seattle Business Magazine)",
-      "description": "<p>What does it look like when Asian American identity becomes a catalyst \u2014 not a caveat \u2014 for bold leadership? In this intimate fireside chat, join serial entrepreneur and media changemaker Jonathan Sposato \u2014 the only founder to sell two startups to Google, chairman of GeekWire and founder of JoySauce Network \u2014 as he shares how empathy, representation and cultural confidence have guided his journey across tech and media. <br>  <br> From building tools used by millions to launching platforms that amplify Asian American voices, Sposato reflects on what it means to lead with purpose in industries often resistant to change. Learn how he\u2019s leveraging his success to uplift inclusive storytelling, back underrepresented founders, and reimagine what power can look like when it\u2019s rooted in identity.</p>",
+      "description": "<p>What does it look like when Asian American identity becomes a catalyst \u2014 not a caveat \u2014 for bold leadership? In this intimate fireside chat, join serial entrepreneur and media changemaker Jonathan Sposato \u2014 the only founder to sell two startups to Google, chairman of GeekWire and founder of JoySauce TV, the first all Asian American TV channel\u2014 as he shares how empathy, representation and cultural confidence have guided his journey across tech and media. <br> <br> From building tools used by millions to launching platforms that amplify Asian American voices, Sposato reflects on what it means to lead with purpose in industries often resistant to change. Learn how he\u2019s leveraging his success to uplift inclusive storytelling, back underrepresented founders, and reimagine what power can look like when it\u2019s rooted in identity.</p>",
       "start_time": "2025-07-31T21:30:00.000000+0000",
       "day": "Thu 7/31",
       "time": "2:30 PM PDT",
@@ -565,8 +605,18 @@
       ]
     },
     {
+      "id": 31551971,
+      "name": "ABC leadership salon (Presented by AAJA Executive Leadership Program)",
+      "description": "<p><strong>Invite only.</strong></p>\n<br>\n<p>Join Almin Karamehmedovic, President of ABC News, and Paul Cheung, President of Committee of 100, for an off-the-record conversation on leadership, career journeys, and navigating change at the highest levels of media.</p>",
+      "start_time": "2025-07-31T22:00:00.000000+0000",
+      "day": "Thu 7/31",
+      "time": "3 PM PDT",
+      "locations": [],
+      "tracks": []
+    },
+    {
       "id": 31496811,
-      "name": "NBCU Academy script doctor",
+      "name": "NBCU Academy Script Doctor",
       "description": "<p>Great journalism doesn\u2019t live in just one format. Whether you\u2019re turning a digital article into a broadcast script or adapting an on-air story for digital, the power is in how you write and adapt. Hear from NBCU News Group journalists who\u2019ve mastered storytelling across platforms, then get personalized feedback from local news directors and NBC News Digital editors. Bring a printed or digital copy of either a script or article. Sign up in advance to reserve your one-on-one critique.</p>\n<br>\n<p>This session is part of the NBCU Academy Workshops and is open to all convention participants. However, if you\u2019d like to have your script reviewed, please apply in advance here: <a href=\"https://nbcuacademy.com/event/aaja-2025/\">https://nbcuacademy.com/event/aaja-2025/</a> <br> </p>",
       "start_time": "2025-07-31T22:15:00.000000+0000",
       "day": "Thu 7/31",
@@ -581,7 +631,7 @@
     {
       "id": 31535473,
       "name": "What\u2019s next for journalism and content creation \u2014 and how to build your place in it (Presented by ESPN)",
-      "description": "<p>From streaming and newspapers to podcasts and live events, storytelling is happening across every platform. But where will it be in five years \u2014 and how can you build a lasting career in it? Hear from ESPN senior executives Chin Wang, vice president of design, creative systems and strategy; Mike McQuade, executive vice president of sports production; Mike Foss, senior vice president of sports studio and entertainment; and Kevin Neghandi, SportsCenter and studio host.</p>",
+      "description": "<p>From streaming and newspapers to podcasts and live events, storytelling is happening across every platform. But where will it be in five years \u2014 and how can you build a lasting career in it? Hear from ESPN senior executives Chin Wang, vice president of design, creative systems and strategy; Mike McQuade, executive vice president of sports production; Chris Buckle, vice president of investigative and enterprise journalism; and Kevin Negandhi, SportsCenter and studio host.</p>",
       "start_time": "2025-07-31T22:30:00.000000+0000",
       "day": "Thu 7/31",
       "time": "3:30 PM PDT",
@@ -652,20 +702,6 @@
       ]
     },
     {
-      "id": 31496813,
-      "name": "Yung AAJA convention mixer",
-      "description": "<p>Come join Yung AAJA for our annual convention mixer at ARTS at King Street Station! We'll have banh mi sandwiches available for attendees. </p>",
-      "start_time": "2025-08-01T00:00:00.000000+0000",
-      "day": "Thu 7/31",
-      "time": "5 PM PDT",
-      "locations": [
-        "Other"
-      ],
-      "tracks": [
-        "Mixers/Receptions"
-      ]
-    },
-    {
       "id": 31496814,
       "name": "JCAMP + VOICES reception",
       "description": "<p>Celebrate the next generation of journalists at the JCamp &amp; VOICES Reception, honoring the incredible talent and hard work of AAJA\u2019s student programs.</p>\n<br>\n<p>Meet the high school students of JCamp, a nationally recognized, six-day training program that brings together diverse young leaders from across the country to learn from top journalists and produce powerful multimedia stories.</p>\n<br>\n<p>Connect with the college students of VOICES, a premier collegiate fellowship where aspiring reporters cover stories on the journalism industry and AAPI community under the mentorship of experienced professionals.</p>\n<br>\n<p>Join us in recognizing these bright storytellers\u2014and the mentors who guide them\u2014who represent the future of journalism.</p>",
@@ -694,23 +730,9 @@
       ]
     },
     {
-      "id": 31519943,
-      "name": "Northeast chapters mixer (DC, New England, NY and Philly )",
-      "description": "<p>Join us for our annual convention mixer with DC, NY, Philly &amp; New England chapters!</p>\n<br>\n<p><a href=\"https://flsseattle.org/\">Friends of Little Saigon Community Center,</a> 1227 S. Weller St. Suite A Seattle, WA 98144.</p>",
-      "start_time": "2025-08-01T00:00:00.000000+0000",
-      "day": "Thu 7/31",
-      "time": "5 PM PDT",
-      "locations": [
-        "Other"
-      ],
-      "tracks": [
-        "Mixers/Receptions"
-      ]
-    },
-    {
       "id": 31524870,
       "name": "Funny, fierce and flipping the script with NBCU\u2019s \u201cSt. Denis Medical\u201d and \u201cThe Paper\u201d",
-      "description": "<p>Join the NBCU cast and creatives from NBC\u2019s <em>St. Denis Medical</em> and Peacock\u2019s <em>The Paper</em> as they talk about how they\u2019re challenging outdated tropes and creating fresh, authentic portrayals of Asian women in comedy today. Moderated by MSNBC\u2019s Yasmin Vossoughian, the panel will feature <em>St. Denis Medical</em> executive producer Vicky Luu and star Kahyun Kim, alongside <em>The Paper</em> series regular Ramona Young. <em>St. Denis Medical</em> and <em>The Paper</em> are both produced by Universal Studio Group.</p>",
+      "description": "<p>Join the NBCU cast and creatives from NBC\u2019s <em>St. Denis Medical</em> and Peacock\u2019s <em>The Paper</em> as they talk about how they\u2019re challenging outdated tropes and creating fresh, authentic portrayals of Asian women in comedy today. Moderated by MSNBC\u2019s Yasmin Vossoughian, the panel will feature <em>St. Denis Medical</em> executive producer Vicky Luu and star Kahyun Kim, alongside <em>The Paper</em> series regular Ramona Young. <em>St. Denis Medical</em> and <em>The Paper</em> are both produced by Universal Studio Group.</p>\n<br>\n<p>This session is part of the NBCU Academy Workshops and is open to all convention participants.</p>\n<p>To learn more about NBCU Academy at AAJA: <u><a href=\"https://nbcuacademy.com/event/aaja-2025/\">https://nbcuacademy.com/event/aaja-2025/</a></u></p>",
       "start_time": "2025-08-01T00:00:00.000000+0000",
       "day": "Thu 7/31",
       "time": "5 PM PDT",
@@ -724,10 +746,52 @@
     {
       "id": 31551831,
       "name": "NW Asian Weekly AAJA Convention Mixer",
-      "description": "<p>Join <strong>Northwest Asian Weekly </strong>for a casual mixer at Vivienne&#x27;s Bistro!</p>\n<br>\n<p><a href=\"https://nwasianweekly.com/\" target=\"_blank\">Northwest Asian Weekly</a>\u00a0has been the\u00a0long-standing local AAPI weekly newspaper in Seattle and the Pacific Northwest for over 42 years, focused on empowering the Asian American community and celebrating its multi-faceted heritage and achievements.Connect and mingle with fellow #AAJA25 convention attendees after a full day of inspiration and insight! Enjoy appetizers at Vivienne&#x27;s Bistro, a contemporary Asian-owned restaurant, right next to the convention hotel.</p>\n<br>\n<p><strong>Space is limited! RSVP required: </strong><a href=\"https://www.eventbrite.com/e/nw-asian-weekly-aaja25-convention-mixer-tickets-1505312723879?aff=oddtdtcreator\" target=\"_blank\">https://www.eventbrite.com/e/nw-asian-weekly-aaja25-convention-mixer-tickets-1505312723879?aff=oddtdtcreator</a></p>",
+      "description": "<p>Join <strong>Northwest Asian Weekly </strong>for a casual mixer at Vivienne&#x27;s Bistro!</p>\n<br>\n<p><a href=\"https://nwasianweekly.com/\" target=\"_blank\">Northwest Asian Weekly</a>\u00a0has been the\u00a0long-standing local AAPI weekly newspaper in Seattle and the Pacific Northwest for over 42 years, focused on empowering the Asian American community and celebrating its multi-faceted heritage and achievements.</p>\n<br>\n<p>Connect and mingle with fellow #AAJA25 convention attendees after a full day of inspiration and insight! Enjoy appetizers at Vivienne&#x27;s Bistro, a contemporary Asian-owned restaurant, right next to the convention hotel.</p>\n<br>\n<p><strong>Space is limited! RSVP required: </strong><a href=\"https://www.eventbrite.com/e/nw-asian-weekly-aaja25-convention-mixer-tickets-1505312723879?aff=oddtdtcreator\" target=\"_blank\">https://www.eventbrite.com/e/nw-asian-weekly-aaja25-convention-mixer-tickets-1505312723879?aff=oddtdtcreator</a></p>",
       "start_time": "2025-08-01T00:00:00.000000+0000",
       "day": "Thu 7/31",
       "time": "5 PM PDT",
+      "locations": [
+        "Other"
+      ],
+      "tracks": [
+        "Mixers/Receptions"
+      ]
+    },
+    {
+      "id": 31566119,
+      "name": "FOX Reception",
+      "description": "",
+      "start_time": "2025-08-01T00:00:00.000000+0000",
+      "day": "Thu 7/31",
+      "time": "5 PM PDT",
+      "locations": [
+        "Other"
+      ],
+      "tracks": [
+        "Mixers/Receptions"
+      ]
+    },
+    {
+      "id": 31496813,
+      "name": "Yung AAJA convention mixer",
+      "description": "<p>Come join Yung AAJA for our annual convention mixer at Saigon Drip Cafe! We&#x27;ll have banh mi sandwiches available for attendees. </p>",
+      "start_time": "2025-08-01T00:30:00.000000+0000",
+      "day": "Thu 7/31",
+      "time": "5:30 PM PDT",
+      "locations": [
+        "Other"
+      ],
+      "tracks": [
+        "Mixers/Receptions"
+      ]
+    },
+    {
+      "id": 31519943,
+      "name": "Northeast regional mixer (DC, NY, Philly, New England, SAJA)",
+      "description": "<p>Join us for our annual convention mixer with AAJA-DC, NY, Philly and New England members as well as SAJA! It&#x27;s invaluable for our members to network with each other, given how common it is for folks to move between our areas for job opportunities. We&#x27;ll cater light appetizers, including egg rolls, papaya salad, mung bean/pandan cake and more. The venue is 10 minutes by car or 15 minutes by bus from the convention site. Hope to see you all there.</p>\n<br>\n<p><a href=\"https://flsseattle.org/\">Friends of Little Saigon Community Center,</a> 1227 S. Weller St. Suite A Seattle, WA 98144.</p>",
+      "start_time": "2025-08-01T00:30:00.000000+0000",
+      "day": "Thu 7/31",
+      "time": "5:30 PM PDT",
       "locations": [
         "Other"
       ],
@@ -778,9 +842,23 @@
       ]
     },
     {
+      "id": 31552345,
+      "name": "Think.Public.Media. Reception",
+      "description": "<p><strong>Join us for our reception hosted by</strong> <strong>KNKX and KUOW</strong>!\u00a0Come mingle with fellow attendees, swap public media career insights, and expand your network. Light refreshments will be provided.</p>\n<p><strong>\ud83d\udcf7 Date: </strong>Thursday, July 31, 2025</p>\n<p><strong>\ud83d\udcf7 Time: </strong>6:00 \u2013 8:00 PM</p>\n<p><strong>\ud83d\udcf7 Location: </strong>KNKX Seattle Studio \u2013 1501 Western Ave, Seattle, WA 98101</p>\n<p>Please RSVP to let us know you\u2019re coming!</p>\n<p><a href=\"https://forms.gle/R6x2VjcZaWebMnwp6\" target=\"_blank\">https://forms.gle/R6x2VjcZaWebMnwp6</a></p>",
+      "start_time": "2025-08-01T01:00:00.000000+0000",
+      "day": "Thu 7/31",
+      "time": "6 PM PDT",
+      "locations": [
+        "Other"
+      ],
+      "tracks": [
+        "Mixers/Receptions"
+      ]
+    },
+    {
       "id": 31496835,
       "name": "AAJA sports Korean barbecue",
-      "description": "<p>Join our partners at CBS Sports, ESPN, The Athletic &amp; NFL Network for our annual Korean Barbecue, one of our most popular events of the year! </p>\n<br>\n<p>Limited spots available. RSVP required: <a href=\"https://www.eventbrite.com/e/aaja-sports-korean-barbecue-tickets-1422097414649?aff=oddtdtcreator\">https://www.eventbrite.com/e/aaja-sports-korean-barbecue-tickets-1422097414649?aff=oddtdtcreator</a></p>",
+      "description": "<p>Join us for our annual Korean Barbeque, one of our most popular events of the year, where it&#x27;s great food, great prizes (there&#x27;ll be a raffle), and great times! Big thanks to CBS Sports for helping make this happen</p>\n<br>\n<p>Limited spots available. RSVP required: <a href=\"https://www.eventbrite.com/e/aaja-sports-korean-barbecue-tickets-1422097414649?aff=oddtdtcreator\">https://www.eventbrite.com/e/aaja-sports-korean-barbecue-tickets-1422097414649?aff=oddtdtcreator</a></p>",
       "start_time": "2025-08-01T02:00:00.000000+0000",
       "day": "Thu 7/31",
       "time": "7 PM PDT",
@@ -806,8 +884,28 @@
       ]
     },
     {
+      "id": 31556102,
+      "name": "VOICES",
+      "description": "<p><strong>Invite only.</strong></p>",
+      "start_time": "2025-08-01T14:30:00.000000+0000",
+      "day": "Fri 8/1",
+      "time": "7:30 AM PDT",
+      "locations": [],
+      "tracks": []
+    },
+    {
+      "id": 31559340,
+      "name": "AAJA nonprofit news executives summit",
+      "description": "<p>Now in its fourth year, this invitation-only summit brings together AAPI nonprofit news leaders at the AAJA convention to share support, spark innovation, and strategize how we build power and center our communities in journalism. Sponsored by the MacArthur Foundation, the summit fosters collaboration and bold ideas for the future of nonprofit media.</p>",
+      "start_time": "2025-08-01T15:00:00.000000+0000",
+      "day": "Fri 8/1",
+      "time": "8 AM PDT",
+      "locations": [],
+      "tracks": []
+    },
+    {
       "id": 31496819,
-      "name": "Covering LGBTQ+ and trans policies",
+      "name": "Accountability journalism and LGBTQ+ rights",
       "description": "<p>As LGBTQ+ rights face mounting attacks across the country, institutions such as schools, hospitals, libraries and courts are increasingly at the center of this struggle. This roundtable will explore how journalists can hold institutions accountable while reporting on both the erosion of rights and the efforts to defend and expand them. Panelists will discuss how to find these stories, navigate sensitive coverage with care and build trust with LGBTQ+ communities in the process.</p>",
       "start_time": "2025-08-01T16:00:00.000000+0000",
       "day": "Fri 8/1",
@@ -874,6 +972,16 @@
         "Innovation",
         "Training"
       ]
+    },
+    {
+      "id": 31551972,
+      "name": "Odyssey planning by Sharon Chan (Presented by AAJA Executive Leadership Program)",
+      "description": "<p><strong>Invite only.</strong></p>\n<br>\n<p>Join Sharon Chan, Deputy of Strategic Culture Initiatives at <em>The New York Times</em>, for an interactive, off-the-record session designed to help you reflect on where you are now and explore multiple visions for your future\u2014personal, professional, or both.</p>",
+      "start_time": "2025-08-01T17:00:00.000000+0000",
+      "day": "Fri 8/1",
+      "time": "10 AM PDT",
+      "locations": [],
+      "tracks": []
     },
     {
       "id": 31496823,
@@ -950,6 +1058,21 @@
       ]
     },
     {
+      "id": 31574147,
+      "name": "Catalyzing Safety, Belonging and Prosperity for AAPI Communities, City by City: Spotlight on Seattle (Presented by The Asian American Foundation)",
+      "description": "<p>Join The Asian American Foundation (TAAF) for a panel on locally-led, cross-industry approaches to supporting safety, belonging and prosperity for AAPI communities, including the newly-launched TAAF Cities initiative. The panel will be followed by an interactive discussion on the opportunities and challenges associated with covering AAPI communities at the local level.</p>\n<br>\n<p><strong>Lunch will be served at this session. Space is limited, RSVP required.</strong></p>",
+      "start_time": "2025-08-01T18:30:00.000000+0000",
+      "day": "Fri 8/1",
+      "time": "11:30 AM PDT",
+      "locations": [
+        "METROPOLITAN A"
+      ],
+      "tracks": [
+        "Leadership",
+        "Community"
+      ]
+    },
+    {
       "id": 31496826,
       "name": "Covering race and equity in the Trump era",
       "description": "<p>As diversity, equity and inclusion efforts face increasing backlash, reporting on these topics has become more fraught \u2014 yet essential. Hear from journalists on the front lines of this critical coverage as they discuss how to navigate internal newsroom resistance, community skepticism and political pressure while striving to tell stories with accuracy, depth and compassion. Learn how they build trust with communities, as well as push for meaningful, responsible journalism in an era of heightened division.</p>",
@@ -1021,6 +1144,30 @@
       ]
     },
     {
+      "id": 31552100,
+      "name": "On air and on the scene: Reporting and anchoring at ABC News",
+      "description": "<p>Go behind the scenes with ABC News anchors and correspondents as they share what it takes to deliver the news with clarity, urgency, and impact. From local markets to national platforms, this panel will explore the art of on-air storytelling, navigating breaking news, and representing communities with authenticity.</p>",
+      "start_time": "2025-08-01T20:00:00.000000+0000",
+      "day": "Fri 8/1",
+      "time": "1 PM PDT",
+      "locations": [
+        "METROPOLITAN A"
+      ],
+      "tracks": [
+        "Training"
+      ]
+    },
+    {
+      "id": 31551973,
+      "name": "Transforming trauma: From survival mode to thriving in 2026!",
+      "description": "<p><strong>Invite only.</strong></p>\n<br>\n<p>What\u2019s your vision for a 2026? Meet your inner child as we explore how we normalize survival mode and early trauma.\u00a0You\u2019ll leave with new tools for making life a lot more satisfying, powerful and fun. This session is led by Betty Ming Liu, Holistic Life and Career Coach.</p>",
+      "start_time": "2025-08-01T21:00:00.000000+0000",
+      "day": "Fri 8/1",
+      "time": "2 PM PDT",
+      "locations": [],
+      "tracks": []
+    },
+    {
       "id": 31496830,
       "name": "Rooted in community: Lessons from local news founders (Presented by Press Forward)",
       "description": "<p>What drives someone to launch a local news outlet serving Asian American communities \u2014 and what does it take to keep it going? Join a candid conversation with community media founders who have built newsrooms from the ground up. They\u2019ll share what inspired them to start, the unique challenges they\u2019ve faced, the skills they\u2019ve had to learn on the fly and how their mission has evolved over time.</p>",
@@ -1052,7 +1199,7 @@
     {
       "id": 31496832,
       "name": "Surviving and thriving when journalism throws you for a loop",
-      "description": "<p>Did you just get laid off? Are you ready to take the leap from journalism to a different career? Or are you just wondering how your skills might transfer to another industry? If you answered yes to any of these questions, this hands-on session is for you. We\u2019ll give you tips on navigating a career shift, how to exit a company on your terms and other industries where your skills may translate well. You\u2019ll hear from journalists who have sage advice on making a career shift, and also get a chance to break into small groups to discuss personal experiences with other convention attendees. Don\u2019t forget to bring your resume!</p>",
+      "description": "<p>Did you just get laid off? Are you ready to take the leap from journalism to a different career? Or are you just wondering how your skills might transfer to another industry? If you answered yes to any of these questions, this hands-on session is for you. We\u2019ll give you tips on navigating a career shift, how to exit a company on your terms and other industries where your skills may translate well. You\u2019ll hear from journalists who have sage advice on making a career shift, and also get a chance to break into small groups to discuss personal experiences with other convention attendees. </p>",
       "start_time": "2025-08-01T21:30:00.000000+0000",
       "day": "Fri 8/1",
       "time": "2:30 PM PDT",
@@ -1167,6 +1314,18 @@
       ]
     },
     {
+      "id": 31556104,
+      "name": "50 years after the Vietnam War: Honoring the past and forging forward",
+      "description": "<p>How do Vietnamese Americans choose to commemorate their past of a war-torn country, separation from their loved ones, and difficult starts in a new country? Fifty years after the Vietnam War, they are forging ahead, building community, encouraging storytelling, and celebrating food and culture, all while honoring their families&#x27; history with a special look at Seattle and Washington state. Join members of this community to learn how they&#x27;re weaving a painful legacy into stories of resilience, sacrifice, and belonging - and how you can cover these types of stories where you are. During this panel, the short film Saigon to Seattle, touching on resettlement and evolution of the city&#x27;s Little Saigon, will be shown.</p>",
+      "start_time": "2025-08-01T23:00:00.000000+0000",
+      "day": "Fri 8/1",
+      "time": "4 PM PDT",
+      "locations": [
+        "ASPEN"
+      ],
+      "tracks": []
+    },
+    {
       "id": 31496834,
       "name": "AAJA Portland happy hour",
       "description": "<p>All are welcome to come hang with AAJA PDX at Rachel's Ginger Beer in Pike Place Market!</p>",
@@ -1197,7 +1356,7 @@
     {
       "id": 31541311,
       "name": "Seattle chapter tours: Tour of KING 5's Newsroom",
-      "description": "<p><strong>Date</strong>: Friday, Aug. 1 from 5:30 to 6:30 p.m.</p>\n<p><strong>Cost</strong>: FREE</p>\n<p><strong>Description</strong>: Ever wondered what it takes to bring the news to your screens? Now\u2019s your chance to find out! Join us for an exclusive behind-the-scenes tour of the KING 5 Newsroom, Seattle\u2019s trusted source for news, weather, and sports. This hour-long tour will take you inside the fast-paced world of multiplatform journalism. Space is limited to just 20 participants, so don\u2019t wait\u2014reserve your spot today!</p>\n<p>**Your spot is NOT confirmed until a confirmation email is sent back to you.</p>\n<p><strong>Link</strong>: <u><a href=\"https://forms.gle/7nBjPcereFTZdKoM6\">https://forms.gle/7nBjPcereFTZdKoM6</a></u></p>",
+      "description": "<p><strong>Date</strong>: Friday, Aug. 1 from 5:30 to 6:30 p.m.</p>\n<p><strong>Cost</strong>: FREE</p>\n<p><strong>Description</strong>: Ever wondered what it takes to bring the news to your screens? Now\u2019s your chance to find out! Join us for an exclusive behind-the-scenes tour of the KING 5 Newsroom, Seattle\u2019s trusted source for news, weather, and sports. This hour-long tour will take you inside the fast-paced world of multiplatform journalism. Space is limited to just 20 participants, so don\u2019t wait\u2014reserve your spot today!</p>\n<p>**Your spot is NOT confirmed until a confirmation email is sent back to you.</p>\n<br>\n<p><strong>This tour is full, you can still join the waitlist. You will be notified 24 hours before the tour if a spot opens up.\u00a0Please consider attending one of the Savor Seattle Tours at <a href=\"https://www.savorseattletours.com/\" target=\"_blank\">https://www.savorseattletours.com/</a> use promo code: AAJA10 at checkout for 10% off.</strong></p>",
       "start_time": "2025-08-02T00:30:00.000000+0000",
       "day": "Fri 8/1",
       "time": "5:30 PM PDT",
@@ -1211,7 +1370,7 @@
     {
       "id": 31516854,
       "name": "Invigorating alternative news media with Noisy Creek",
-      "description": "<p>Join Noisy Creek founder and CEO Brady Walkinshaw for an evening of drinks, snacks, and a celebration of local media. Located at Noisy Creek&#x27;s new offices on Capitol Hill, this reception is at the heart of Seattle&#x27;s journalistic and cultural intersections. <br><br>Founded in 2024, Noisy Creek publishes two iconic newspapers: The Stranger in Seattle, and the Portland Mercury. The Stranger and Mercury have served as vital voices of their cities for decades, breaking news, defining culture, and winning awards, including The Stranger&#x27;s 2012 Pulitzer Prize. <br><br>In addition to their editorial products, Noisy Creek operates EverOut, the event discovery site, and Bold Type Tickets, a national ticketing platform. With growing newsrooms and a unique mix of digital and print products, Noisy Creek is designing a new model for invigorating local media.</p>",
+      "description": "<p>Join Noisy Creek founder and CEO Brady Walkinshaw for an evening of drinks, snacks, and a celebration of local media. Located at Noisy Creek&#x27;s new offices on Capitol Hill, this reception is at the heart of Seattle&#x27;s journalistic and cultural intersections. <br><br>Founded in 2024, Noisy Creek publishes two iconic newspapers: The Stranger in Seattle, and the Portland Mercury. The Stranger and Mercury have served as vital voices of their cities for decades, breaking news, defining culture, and winning awards, including The Stranger&#x27;s 2012 Pulitzer Prize. <br><br>In addition to their editorial products, Noisy Creek operates EverOut, the event discovery site, and Bold Type Tickets, a national ticketing platform. With growing newsrooms and a unique mix of digital and print products, Noisy Creek is designing a new model for invigorating local media.</p>\n<br>\n<p><strong>Noisy Creek&#x27;s offices are located at the intersection of 11th Avenue E and E Pike Street, above Retrofit Home. Look for the door with the call box next to it</strong></p>",
       "start_time": "2025-08-02T01:00:00.000000+0000",
       "day": "Fri 8/1",
       "time": "6 PM PDT",
@@ -1225,7 +1384,7 @@
     {
       "id": 31496836,
       "name": "AAJA STF: Summer Jam 2025",
-      "description": "<p>STF and our sponsors, CBS Sport and ESPN, cordially invited you for a fun evening of games, refreshing drinks and networking with industry leaders. </p>\n<br>\n<p><strong>Tickets are limited!</strong> <a href=\"https://www.eventbrite.com/e/aaja-sports-summer-jam-2025-tickets-1425310394759?aff=oddtdtcreator\">https://www.eventbrite.com/e/aaja-sports-summer-jam-2025-tickets-1425310394759?aff=oddtdtcreator</a></p>",
+      "description": "<p>STF cordially invites you for a fun evening of food, games, refreshing drinks, and networking with industry leaders in our annual Summer Jam, powered by our sponsors CBS Sports, ESPN, NFL Network &amp; The Athletic</p>\n<br>\n<p><strong>Tickets are limited!</strong> <a href=\"https://www.eventbrite.com/e/aaja-sports-summer-jam-2025-tickets-1425310394759?aff=oddtdtcreator\">https://www.eventbrite.com/e/aaja-sports-summer-jam-2025-tickets-1425310394759?aff=oddtdtcreator</a></p>",
       "start_time": "2025-08-02T02:00:00.000000+0000",
       "day": "Fri 8/1",
       "time": "7 PM PDT",
@@ -1253,7 +1412,7 @@
     {
       "id": 31541308,
       "name": "Seattle chapter activities: Seattle Mariners game",
-      "description": "<p><strong>Date</strong>: Friday, Aug. 1 at 7:10 p.m.</p>\n<p><strong>Cost</strong>: $28 per ticket</p>\n<p><strong>Where</strong>: T-Mobile Park</p>\n<p><strong>Description</strong>: Come watch the Seattle Mariners at T-Mobile Park and earn your sea legs with the team. Hang out with home run derby champion Cal \u201cBig Dumper\u201d Raleigh or enter the no fly zone with Julio Rodr\u00edguez. Stay after the game to enjoy a dazzling fireworks display set to your favorite showtunes. It\u2019ll be a grand slam of a night.</p>\n<p><strong>Payment</strong>: If you\u2019d like to reserve a spot with AAJA\u2019s group rate and sit with your Convention buddies, please Venmo AAJA Seattle (@aajaseattle) by <strong>July 25th</strong>. You <strong><u>MUST</u> </strong>include your name in the description of the Venmo that matches your registration.<br>**Your spot is NOT confirmed until payment is received and a confirmation email is sent back to you.</p>\n<p><strong>Link</strong>: <u><a href=\"https://forms.gle/bKqNhvLsF6HG21Z19\">https://forms.gle/bKqNhvLsF6HG21Z19</a></u></p>",
+      "description": "<p><strong>Date</strong>: Friday, Aug. 1 at 7:10 p.m.</p>\n<p><strong>Cost</strong>: $28 per ticket</p>\n<p><strong>Where</strong>: T-Mobile Park</p>\n<p><strong>Description</strong>: Come watch the Seattle Mariners at T-Mobile Park and earn your sea legs with the team. Hang out with home run derby champion Cal \u201cBig Dumper\u201d Raleigh or enter the no fly zone with Julio Rodr\u00edguez. Stay after the game to enjoy a dazzling fireworks display set to your favorite showtunes. It\u2019ll be a grand slam of a night.</p>\n<p><strong>Payment</strong>: If you\u2019d like to reserve a spot with AAJA\u2019s group rate and sit with your Convention buddies, please Venmo AAJA Seattle (@aajaseattle) by <strong>July 25th</strong>. You <strong><u>MUST</u></strong> include your name in the description of the Venmo that matches your registration.<br>**Your spot is NOT confirmed until payment is received and a confirmation email is sent back to you.</p>\n<br>\n<p><strong>Registration for this tour is closed.\u00a0Please consider attending one of the Savor Seattle Tours at <a href=\"https://www.savorseattletours.com/\" target=\"_blank\">https://www.savorseattletours.com/</a> use promo code: AAJA10 at checkout for 10% off.</strong></p>",
       "start_time": "2025-08-02T02:00:00.000000+0000",
       "day": "Fri 8/1",
       "time": "7 PM PDT",
@@ -1267,7 +1426,7 @@
     {
       "id": 31541309,
       "name": "Seattle chapter activities: Seattle Storm game",
-      "description": "<p><strong>Date</strong>: Friday, Aug. 1 at 7 p.m.</p>\n<p><strong>Cost</strong>: $41 per ticket</p>\n<p><strong>Where</strong>: Climate Pledge Arena</p>\n<p><strong>Description</strong>: Join the Seattle Storm and help cheer on the city\u2019s 4x WNBA championship team, as they take on the Los Angeles Sparks. Tickets include a $25 food and beverage voucher, redeemable at any of the many vendors at the one-and-only Climate Pledge Arena. Nachos! Beer! Burgers! Even dumplings! And above all else, a great night of basketball.</p>\n<p><strong>Payment</strong>: If you\u2019d like to reserve a spot with AAJA\u2019s group rate and sit with your Convention buddies, please Venmo AAJA Seattle (@aajaseattle) by <strong>July 25th</strong>. You <strong><u>MUST</u> </strong>include your name in the description of the Venmo that matches your registration.<br>**Your spot is NOT confirmed until payment is received and a confirmation email is sent back to you.</p>\n<p><strong>Link</strong>: <u><a href=\"https://forms.gle/37xgkn3KPi81ESDH9\">https://forms.gle/37xgkn3KPi81ESDH9</a></u></p>",
+      "description": "<p><strong>Date</strong>: Friday, Aug. 1 at 7 p.m.</p>\n<p><strong>Cost</strong>: $41 per ticket</p>\n<p><strong>Where</strong>: Climate Pledge Arena</p>\n<p><strong>Description</strong>: Join the Seattle Storm and help cheer on the city\u2019s 4x WNBA championship team, as they take on the Los Angeles Sparks. Tickets include a $25 food and beverage voucher, redeemable at any of the many vendors at the one-and-only Climate Pledge Arena. Nachos! Beer! Burgers! Even dumplings! And above all else, a great night of basketball.</p>\n<p><strong>Payment</strong>: If you\u2019d like to reserve a spot with AAJA\u2019s group rate and sit with your Convention buddies, please Venmo AAJA Seattle (@aajaseattle) by <strong>July 25th</strong>. You <strong><u>MUST</u></strong> include your name in the description of the Venmo that matches your registration.<br>**Your spot is NOT confirmed until payment is received and a confirmation email is sent back to you.</p>\n<p>Registration for this tour is closed. Please consider attending one of the Savor Seattle Tours at https://www.savorseattletours.com/ use promo code: AAJA10 at checkout for 10% off. </p>",
       "start_time": "2025-08-02T02:00:00.000000+0000",
       "day": "Fri 8/1",
       "time": "7 PM PDT",
@@ -1277,6 +1436,16 @@
       "tracks": [
         "Mixers/Receptions"
       ]
+    },
+    {
+      "id": 31556103,
+      "name": "VOICES",
+      "description": "<p><strong>Invite only.</strong></p>",
+      "start_time": "2025-08-02T14:30:00.000000+0000",
+      "day": "Sat 8/2",
+      "time": "7:30 AM PDT",
+      "locations": [],
+      "tracks": []
     },
     {
       "id": 31496838,
@@ -1325,7 +1494,7 @@
     {
       "id": 31522521,
       "name": "Coding help desk (Presented by News Nerds Affinity Group)",
-      "description": "<p>Having trouble wrangling city hall data? Want to use Mapbox or Datawrapper in a story but don\u2019t know where to start? Design issues? Or just curious about what data journalism looks like? Bring your laptop! This peer-to-peer, collaborative session is a chance to get hands-on help and support from fellow journalists as we share knowledge and tackle technical hurdles together. News Nerds members will do their best to help. </p>\n<br>\n<p><strong>All skill levels are welcome. </strong></p>\n<br>\n<p>Let\u2019s level up our data storytelling skills together.</p>",
+      "description": "<p>Having trouble wrangling city hall data? Want to use Mapbox or Datawrapper in a story but don\u2019t know where to start? Design issues? Or just curious about what data journalism looks like? Bring your laptop! This peer-to-peer, collaborative session is a chance to get hands-on help and support from fellow journalists as we share knowledge and tackle technical hurdles together. News Nerds members will do their best to help. </p>\n<br>\n<p><strong>All skill levels are welcome. </strong></p>\n<br>\n<p>Let\u2019s level up our data storytelling skills together.</p>\n<br>\n<p>Interested? <a href=\"https://docs.google.com/forms/d/e/1FAIpQLSeB1Xvf48XXMg1IZsUqrrTpuhOAS8DbuJdYD2KYJHSq8uAbmA/viewform\" target=\"_blank\">AAJA News Nerds Coding Desk Interest Form</a></p>\n<br>\n<p>Volunteers/Helpers: Daigo Fujiwara-Smith, Julie Lee, Sajina Shrestha, Edison Wu, Alex Kenney, Ava Mandoli, William Tong, Andrew Nguyen, and YOU! </p>",
       "start_time": "2025-08-02T16:00:00.000000+0000",
       "day": "Sat 8/2",
       "time": "9 AM PDT",
@@ -1402,7 +1571,7 @@
       "day": "Sat 8/2",
       "time": "10:30 AM PDT",
       "locations": [
-        "REDWOOD"
+        "METROPOLITAN A"
       ],
       "tracks": [
         "Innovation"
@@ -1416,7 +1585,7 @@
       "day": "Sat 8/2",
       "time": "10:30 AM PDT",
       "locations": [
-        "METROPOLITAN A"
+        "REDWOOD"
       ],
       "tracks": [
         "Innovation",
@@ -1425,8 +1594,8 @@
     },
     {
       "id": 31540065,
-      "name": "From presence to power: Asian American leaders shaping communities (Presented by the Council of Korean Americans)",
-      "description": "<p>What does inclusive leadership look like in today\u2019s America\u2014and how are Asian American leaders stepping up to shape it? This session, presented by the Council of Korean Americans, brings together two dynamic changemakers at the forefront of public service and research. Sam Cho, Commissioner at the Port of Seattle, has broken barriers as a young Korean American leader championing equitable growth and civic engagement. Dr. Neil G. Ruiz, Associate Director at Pew Research Center, leads groundbreaking work on race, identity, and immigration that informs policy and public understanding. Guided by journalist Natasha Chen, this conversation will explore how Korean American and Asian American leaders are expanding access, lifting up marginalized voices, and building a more inclusive future\u2014from local communities to the national stage.</p>",
+      "name": "Ethnic media, data, and the real stories of Asian America (Presented by the Council of Korean Americans)",
+      "description": "<p>Mainstream media often misses the nuance\u2014and urgency\u2014of Asian American experiences. In this timely conversation, Sam Cho, Port of Seattle Commissioner and part-owner of Northwest Asian Weekly, joins Neil Ruiz from Pew Research Center, to explore how ethnic media and research can work together to close the perception gap.</p>",
       "start_time": "2025-08-02T17:30:00.000000+0000",
       "day": "Sat 8/2",
       "time": "10:30 AM PDT",
@@ -1451,9 +1620,32 @@
       "tracks": []
     },
     {
+      "id": 31564694,
+      "name": "Photo AG lunchtime hangout",
+      "description": "",
+      "start_time": "2025-08-02T19:00:00.000000+0000",
+      "day": "Sat 8/2",
+      "time": "12 PM PDT",
+      "locations": [],
+      "tracks": []
+    },
+    {
+      "id": 31581996,
+      "name": "Filmmaker Collab: A Lunch Mixer at #AAJA25",
+      "description": "<p>Want to fund or get funding for a film?</p>\n<p>Need help or want to help with a film?</p>\n<p>Want to learn or share film industry secrets?</p>\n<br>\n<p>Join us at the Filmmaker Collab! While this is an open event, because of limited space, entrance confirmation and location information will be sent via email prior to the event.</p>\n<br>\n<p>Presented by CAAM, ADoc, and Prisca.</p>",
+      "start_time": "2025-08-02T19:00:00.000000+0000",
+      "day": "Sat 8/2",
+      "time": "12 PM PDT",
+      "locations": [],
+      "tracks": [
+        "Community",
+        "Mixers/Receptions"
+      ]
+    },
+    {
       "id": 31541310,
       "name": "Seattle chapter tours: Chinatown-International District guided tour",
-      "description": "<p><strong>Date</strong>: Saturday, Aug. 2 from 2 to 3:30 p.m.</p>\n<p><strong>Cost</strong>: FREE</p>\n<p><strong>Description</strong>: Join AAJA Seattle Co-Founders Ron Chew and Frank Abe on a 1.5-hour guided tour through the city\u2019s beloved Chinatown-International District for a deep dive into the neighborhood\u2019s history, culture and community. Ron and Frank will tell stories about different parts of the CID \u2014 including Chinatown, Nihonmachi, Little Saigon and Filipinotown \u2014 talk about their personal experiences living and working in Seattle, and highlight some of the neighborhood\u2019s oldest and best restaurants, bakeries and cafes. Max 30 people.</p>\n<p>**Your spot is NOT confirmed until a confirmation email is sent back to you.</p>\n<p><strong>Link</strong>: <u><a href=\"https://forms.gle/F9CMC5Ka6ZZmRNZ28\">https://forms.gle/F9CMC5Ka6ZZmRNZ28</a></u></p>",
+      "description": "<p><strong>Date</strong>: Saturday, Aug. 2 from 2 to 3:30 p.m.</p>\n<p><strong>Cost</strong>: FREE</p>\n<p><strong>Description</strong>: Join AAJA Seattle Co-Founders Ron Chew and Frank Abe on a 1.5-hour guided tour through the city\u2019s beloved Chinatown-International District for a deep dive into the neighborhood\u2019s history, culture and community. Ron and Frank will tell stories about different parts of the CID \u2014 including Chinatown, Nihonmachi, Little Saigon and Filipinotown \u2014 talk about their personal experiences living and working in Seattle, and highlight some of the neighborhood\u2019s oldest and best restaurants, bakeries and cafes. Max 30 people.</p>\n<p>**Your spot is NOT confirmed until a confirmation email is sent back to you.</p>\n<br>\n<p><strong>Registration for this tour is closed.\u00a0Please consider attending one of the Savor Seattle Tours at <a href=\"https://www.savorseattletours.com/\" target=\"_blank\">https://www.savorseattletours.com/</a> use promo code: AAJA10 at checkout for 10% off.</strong></p>",
       "start_time": "2025-08-02T21:00:00.000000+0000",
       "day": "Sat 8/2",
       "time": "2 PM PDT",
